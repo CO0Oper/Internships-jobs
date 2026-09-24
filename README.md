@@ -70,8 +70,8 @@ Open an issue or PR.
 | Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | 2026-09-21 |
 | Relay | Solutions Engineer Intern (Summer 2027 Opportunity) | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/relaypro/jobs/8214334) | 2026-09-21 |
 | Schonfeld | 2027 Emerging Markets and Delta One Investment Analyst Internship | Dubai, United Arab Emirates | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8220506) | 2026-09-21 |
-| SingleStore | MIT- Software Engineer Intern | Engine | United States | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220919) | 2026-09-21 |
-| SingleStore | MIT- Software Engineer Intern | Helios | United States | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220941) | 2026-09-21 |
+| SingleStore | MIT- Software Engineer Intern &#124; Engine | United States | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220919) | 2026-09-21 |
+| SingleStore | MIT- Software Engineer Intern &#124; Helios | United States | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220941) | 2026-09-21 |
 | StackAdapt | People Operations Intern - Winter 2027 | Canada | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4412772009) | 2026-09-21 |
 | Wheely | Operations Intern | Paris, Paris, France | [Apply](https://boards.greenhouse.io/wheely/jobs/7999306003?gh_jid=7999306003) | 2026-09-21 |
 | Astranis | Production Quality Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705677006) | 2026-09-19 |
@@ -110,13 +110,13 @@ Open an issue or PR.
 | CCLFG | Intern, Institutional Portfolio Operations | Vancouver, British Columbia, Canada | [Apply](https://job-boards.greenhouse.io/cclfg/jobs/4407698009) | 2026-09-16 |
 | DV Trading | 2027 Software Developer Intern (DV Equities) | Hong Kong | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733880005) | 2026-09-16 |
 | DV Trading | 2027 Quantitative Research Intern (DV Equities) | Hong Kong | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733877005) | 2026-09-16 |
-| WPP Media | WPP Media | 2027 Internship Programme | Hong Kong, Hong Kong | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5424224008) | 2026-09-15 |
-| Nex | Summer 2027 | Software Engineer Intern - Game Development (Sports & Active Play) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5420802008) | 2026-09-11 |
-| Nex | Summer 2027 | Software Engineer Intern (ML Research, Core Technology) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5420649008) | 2026-09-11 |
-| Nex | Summer 2027 | Software Engineer Intern - Game Development (Creative & Party) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5420003008) | 2026-09-11 |
-| Nex | Summer 2027 | Software Engineer Intern (Developer Experience) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5420203008) | 2026-09-11 |
-| Nex | Summer 2027 | Software Engineer Intern (Engineering, Core Technology) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5419756008) | 2026-09-11 |
-| Nex | Summer 2027 | Software Engineer Intern (Platform) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5422027008) | 2026-09-11 |
+| WPP Media | WPP Media &#124; 2027 Internship Programme | Hong Kong, Hong Kong | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5424224008) | 2026-09-15 |
+| Nex | Summer 2027 &#124; Software Engineer Intern - Game Development (Sports & Active Play) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5420802008) | 2026-09-11 |
+| Nex | Summer 2027 &#124; Software Engineer Intern (ML Research, Core Technology) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5420649008) | 2026-09-11 |
+| Nex | Summer 2027 &#124; Software Engineer Intern - Game Development (Creative & Party) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5420003008) | 2026-09-11 |
+| Nex | Summer 2027 &#124; Software Engineer Intern (Developer Experience) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5420203008) | 2026-09-11 |
+| Nex | Summer 2027 &#124; Software Engineer Intern (Engineering, Core Technology) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5419756008) | 2026-09-11 |
+| Nex | Summer 2027 &#124; Software Engineer Intern (Platform) | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5422027008) | 2026-09-11 |
 | Qube Research & Technologies | 2027 – Internship, Infrastructure Engineering | Hong Kong, Singapore, Shanghai | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749918002) | 2026-08-26 |
 | Qube Research & Technologies | 2027 – Internship or Graduate, FPGA Engineering | Hong Kong | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002) | 2026-08-26 |
 | Qube Research & Technologies | 2027 - Internship, Security Engineer | Hong Kong | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) | 2026-08-26 |
