@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-107 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-24.
+125 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-25.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,23 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| AccuWeather Careers | Hardware Intern | State College, PA | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/8230684) | 2026-09-24 |
+| Astranis | Electrical Integration Intern - RF (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4715788006) | 2026-09-24 |
+| Astranis | Harness Design Engineer Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704779006) | 2026-09-24 |
+| Astranis | Harness Design Engineer Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704778006) | 2026-09-24 |
+| Astranis | RF Validation Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716499006) | 2026-09-24 |
+| Astranis | RF Validation Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716184006) | 2026-09-24 |
+| Astranis | Software Developer, Network Software Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705597006) | 2026-09-24 |
+| Astranis | Software Developer, Network Software Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705599006) | 2026-09-24 |
+| Astranis | Supplier Quality Engineer Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4715989006) | 2026-09-24 |
+| Astranis | Technical Project Management Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708369006) | 2026-09-24 |
+| Astranis | Thermal Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704820006) | 2026-09-24 |
+| Astranis | Thermal Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704818006) | 2026-09-24 |
+| Fever | Event Producer (Turkish Speaker) – Internship | London | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/4986290101) | 2026-09-24 |
+| Mill | Electrical Engineering Intern, Summer 2027 | San Bruno, California | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737766005) | 2026-09-24 |
+| Mill | Product Design Engineering Intern, Summer 2027 | San Bruno, California | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737767005) | 2026-09-24 |
+| Samsara | Firmware Engineer Co-Op | San Francisco - SF9 | [Apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) | 2026-09-24 |
+| Stripe | Financial Data Analyst Intern, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8186442) | 2026-09-24 |
 | ANINE BING | Merchandising & Buying Intern | Paris, FR | [Apply](https://job-boards.greenhouse.io/aninebing/jobs/5432600008) | 2026-09-23 |
 | Astranis | Antenna Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704274006) | 2026-09-23 |
 | Astranis | Antenna Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704284006) | 2026-09-23 |
@@ -32,6 +49,7 @@ Open an issue or PR.
 | Astranis | Reliability Test Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705626006) | 2026-09-23 |
 | Astranis | Software Defined Radio Hardware Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716088006) | 2026-09-23 |
 | Astranis | Software Defined Radio Hardware Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716087006) | 2026-09-23 |
+| Astranis | Technical Project Management Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4708364006) | 2026-09-23 |
 | Figma | Data Engineer Intern (2027) | San Francisco, CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | 2026-09-23 |
 | Graphcore | Firmware Engineering Intern | Austin, Texas, United States | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8841894002) | 2026-09-23 |
 | Graphcore | Hardware Platform Development Intern | Austin, Texas, United States | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8841941002) | 2026-09-23 |
