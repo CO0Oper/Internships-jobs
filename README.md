@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-125 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-25.
+128 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-26.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,9 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Astranis | Electrical Integration Intern - Avionics (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704826006) | 2026-09-26 |
+| Celonis | Intern Deal Operations and Analysis | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7996939003?gh_jid=7996939003) | 2026-09-25 |
+| Celonis | Intern External Communications | Munich, Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8005202003?gh_jid=8005202003) | 2026-09-25 |
 | AccuWeather Careers | Hardware Intern | State College, PA | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/8230684) | 2026-09-24 |
 | Astranis | Electrical Integration Intern - RF (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4715788006) | 2026-09-24 |
 | Astranis | Harness Design Engineer Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704779006) | 2026-09-24 |
