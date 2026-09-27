@@ -3,7 +3,7 @@
 ## Summer 2027
 
 128 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-26.
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-27.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
