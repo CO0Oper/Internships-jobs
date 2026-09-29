@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-128 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-28.
+151 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-29.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,29 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Celonis | Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team) | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003) | 2026-09-28 |
+| EquipmentShare | Intern: Accounting | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8188604) | 2026-09-28 |
+| EquipmentShare | Intern: eCommerce Marketing | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8171632) | 2026-09-28 |
+| EquipmentShare | Intern: Fleet Corporate Rentals | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8144652) | 2026-09-28 |
+| EquipmentShare | Intern: Human Resources Rotational | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8214740) | 2026-09-28 |
+| EquipmentShare | Intern: Learning Systems | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8214711) | 2026-09-28 |
+| Financial Times | Data Journalism Summer Intern | New York | [Apply](https://job-boards.eu.greenhouse.io/financialtimes33/jobs/4986356101) | 2026-09-28 |
+| Financial Times | Engagement and Growth Summer Intern | New York | [Apply](https://job-boards.eu.greenhouse.io/financialtimes33/jobs/4986429101) | 2026-09-28 |
+| Financial Times | Podcast Summer Intern | New York | [Apply](https://job-boards.eu.greenhouse.io/financialtimes33/jobs/4986433101) | 2026-09-28 |
+| Financial Times | US Summer Newsroom Intern | New York | [Apply](https://job-boards.eu.greenhouse.io/financialtimes33/jobs/4986425101) | 2026-09-28 |
+| K2 Space | Supply Chain Internship - Summer 2027 | Los Angeles | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5436468008) | 2026-09-28 |
+| Keeper Security | Localization Intern, Brazilian Portuguese Speaking | Remote, US | [Apply](https://job-boards.greenhouse.io/keepersecurity/jobs/4423148009) | 2026-09-28 |
+| Monzo | Associate Data Scientist - Intern | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8232726) | 2026-09-28 |
+| Monzo | Associate Software Engineer - Intern | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8156261) | 2026-09-28 |
+| Muon Space | International Business Development Intern (Summer 2027) | Woodbridge, VA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247737007) | 2026-09-28 |
+| Trade Republic | Localization Intern | Headquarter | [Apply](https://traderepublic.com/en-de/about?jobId=8006454003&gh_jid=8006454003) | 2026-09-28 |
+| Voyager Technologies, Inc. | 2027 Accounting / Finance Intern | Long Beach | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423353009) | 2026-09-28 |
+| Voyager Technologies, Inc. | 2027 Electrical Engineer Intern | Long Beach | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423280009) | 2026-09-28 |
+| Voyager Technologies, Inc. | 2027 Government Relations Intern | Washington D.C. | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423338009) | 2026-09-28 |
+| Voyager Technologies, Inc. | 2027 Growth & Business Development Intern | Long Beach | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423346009) | 2026-09-28 |
+| Voyager Technologies, Inc. | 2027 Mechanical Engineering Intern | Long Beach | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423308009) | 2026-09-28 |
+| Voyager Technologies, Inc. | 2027 Software Engineering Intern | Long Beach | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009) | 2026-09-28 |
+| Voyager Technologies, Inc. | 2027 Systems Engineering Intern | Long Beach | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423335009) | 2026-09-28 |
 | Astranis | Electrical Integration Intern - Avionics (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704826006) | 2026-09-26 |
 | Celonis | Intern Deal Operations and Analysis | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7996939003?gh_jid=7996939003) | 2026-09-25 |
 | Celonis | Intern External Communications | Munich, Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8005202003?gh_jid=8005202003) | 2026-09-25 |
