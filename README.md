@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-151 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-29.
+165 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-09-30.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,20 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Anduril Industries | 2026 Guidance, Navigation & Control Engineer Intern | Sydney, New South Wales, Australia | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007) | 2026-09-30 |
+| Muon Space | GNC Hardware Engineering Intern (Summer 2027) | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252677007) | 2026-09-30 |
+| Muon Space | GNC Software Engineering Intern (Summer 2027) | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252680007) | 2026-09-30 |
+| Muon Space | Mission Architecture Intern (Summer 2027) | Woodbridge, VA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) | 2026-09-30 |
+| EquipmentShare | Intern: Procure to Pay | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8190876) | 2026-09-29 |
+| EquipmentShare | Intern: Procure to Pay | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8189133) | 2026-09-29 |
+| Freeform | Manufacturing Engineering Intern, CNC Machining (Summer 2027) | Los Angeles, CA (On-site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004101003) | 2026-09-29 |
+| Mill | Systems Engineering Intern, Fall/Winter 2026 | San Bruno, California | [Apply](https://job-boards.greenhouse.io/mill/jobs/4735328005) | 2026-09-29 |
+| Optiver | Market Risk Internship 2027 - Singapore | Singapore | [Apply](https://www.optiver.com/join-us/jobs/8699349002/?gh_jid=8699349002) | 2026-09-29 |
+| PlayStation Global | Technical Designer - Intern | Canada, Montreal, QC | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6210692004) | 2026-09-29 |
+| Robinhood | Data Science Intern (Summer 2027) | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738) | 2026-09-29 |
+| Schonfeld | 2027 Quantitative C++ Developer Intern | Hong Kong, Hong Kong | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8238451) | 2026-09-29 |
+| Schonfeld | 2027 Quantitative Research Intern | Hong Kong, Hong Kong | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8238448) | 2026-09-29 |
+| Wheely | Operations Intern | Paris, Paris, France | [Apply](https://boards.greenhouse.io/wheely/jobs/8008014003?gh_jid=8008014003) | 2026-09-29 |
 | Celonis | Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team) | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003) | 2026-09-28 |
 | EquipmentShare | Intern: Accounting | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8188604) | 2026-09-28 |
 | EquipmentShare | Intern: eCommerce Marketing | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8171632) | 2026-09-28 |
