@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-457 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-02.
+524 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-04.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,12 +14,79 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Muon Space | Industrial Engineering Intern (Summer 2027) | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256284007) | 2026-10-03 |
+| Muon Space | Environmental Test Engineering Intern (Summer 2027) | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256286007) | 2026-10-03 |
+| Affirm | Software Engineer Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | 2026-10-02 |
+| Affirm | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | 2026-10-02 |
+| Anduril Industries | 2027 Industrial Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) | 2026-10-02 |
+| Anduril Industries | 2027 Supply Chain Intern | Costa Mesa, California, United States; Fort Collins, Colorado, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States; Waltham, Massachusetts, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007) | 2026-10-02 |
+| Apex Companies | Co-Op/Intern | Quincy, MA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5423598008) | 2026-10-02 |
+| Arc Boat Company | Electrical Hardware Engineering Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) | 2026-10-02 |
+| Arc Boat Company | Software Engineering Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008) | 2026-10-02 |
+| Awin | AdOps Intern (f/m/d) | São Paulo, São Paulo, Brazil | [Apply](https://boards.greenhouse.io/awin/jobs/8011349003?gh_jid=8011349003) | 2026-10-02 |
+| C3 AI | AI Product Manager - MBA Intern (Summer 2027) | Redwood City, California, United States | [Apply](https://c3.ai/job-description/8860563002?gh_jid=8860563002) | 2026-10-02 |
+| Charles River Associates | Intern/Strategy Consulting (Life Sciences practice) - Summer 2027 | Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom | [Apply](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8199212) | 2026-10-02 |
+| Charles River Associates | Intern/Policy Consulting (Life Sciences practice) - Summer 2027 | Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom | [Apply](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052) | 2026-10-02 |
+| Databricks | Product Management Intern (2026) - Belgrade | Belgrade, Serbia | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002) | 2026-10-02 |
+| Databricks | Software Engineering Intern (2027 Start) - London | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | 2026-10-02 |
+| Enviva | Wood Procurement (Forestry) Intern | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/enviva/jobs/8008751003) | 2026-10-02 |
+| Eulerity | Finance Internship | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4718848006) | 2026-10-02 |
+| Farmers Mutual Hail Insurance Company | Data Architect Intern | West Des Moines, IA | [Apply](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009) | 2026-10-02 |
+| Figure | Supply Chain Analytics Intern [Winter 2027] | San Jose, CA | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4718858006) | 2026-10-02 |
+| Gas South | Summer Analyst Intern | Atlanta, Georgia | [Apply](https://job-boards.greenhouse.io/gassouth/jobs/8247586) | 2026-10-02 |
+| Gemini | Brand Design Intern (Winter 2027) | New York, New York | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8243097&gh_jid=8243097) | 2026-10-02 |
+| Gemini | Prediction Markets Operations Intern (Winter 2027) | New York, New York | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8240204&gh_jid=8240204) | 2026-10-02 |
+| Graphcore | Machine Learning and Data Science Engineering Intern | Austin, Texas, United States | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8862951002) | 2026-10-02 |
 | Instead | Software Engineering Intern | San Francisco | [Apply](https://job-boards.greenhouse.io/instead/jobs/7761472003) | 2026-10-02 |
+| Kiva.org | Strategic Partnership Intern | Remote U.S | [Apply](https://boards.greenhouse.io/kivaorg/jobs/8249946?gh_jid=8249946) | 2026-10-02 |
+| Kiva.org | Entrepreneurial Ecosystem Intern | Remote U.S | [Apply](https://boards.greenhouse.io/kivaorg/jobs/8250057?gh_jid=8250057) | 2026-10-02 |
+| Kodiak | Winter 2027 Intern, Security | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4430607009) | 2026-10-02 |
+| Langan Engineering & Environmental Services | Intern/Co-op - Environmental (Summer 2027) | Doylestown, PA | [Apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4371145009) | 2026-10-02 |
+| Major League Baseball | Intern, Athletic Operations | Vero Beach, Florida | [Apply](https://www.mlb.com/careers/opportunities?gh_jid=8232909) | 2026-10-02 |
+| Mirakl | Business Consultant Intern, Barcelona | Barcelona, Barcelona, Spain | [Apply](https://job-boards.greenhouse.io/mirakl/jobs/6211805004) | 2026-10-02 |
+| Mirakl | Business Consultant Intern | Paris, France | [Apply](https://job-boards.greenhouse.io/mirakl/jobs/6211789004) | 2026-10-02 |
+| Mirakl | Business Consultant Intern (B2B) | Paris, France | [Apply](https://job-boards.greenhouse.io/mirakl/jobs/6211779004) | 2026-10-02 |
+| Mirakl | Customer Success Intern – Mirakl Ads, Paris | Paris, France | [Apply](https://job-boards.greenhouse.io/mirakl/jobs/6211777004) | 2026-10-02 |
+| Mirakl - Labs | Product Manager Intern - Connect | Paris, France | [Apply](https://job-boards.greenhouse.io/mirakllabs/jobs/6214307004) | 2026-10-02 |
 | Muon Space | Electrical Engineering Intern (Summer 2027) | San Jose | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) | 2026-10-02 |
 | Muon Space | Harness Design Intern (Summer 2027) | San Jose | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255108007) | 2026-10-02 |
+| Muon Space | People Operations Intern (Summer 2027) | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255938007) | 2026-10-02 |
+| Natera | Software Engineering Intern | US Remote | [Apply](https://job-boards.greenhouse.io/natera/jobs/6188497004) | 2026-10-02 |
 | Plata Card | AI Creative Marketer (Intern) | México | [Apply](https://plata.careers/vacancy/details?id=5441910008&gh_jid=5441910008) | 2026-10-02 |
+| Profluent | Intern, Computational Research | Emeryville, California, United States; Hybrid (2-3 days on-site) | [Apply](https://job-boards.greenhouse.io/profluent/jobs/5441954008) | 2026-10-02 |
+| Profluent | Intern, Software Engineering | Emeryville, California, United States | [Apply](https://job-boards.greenhouse.io/profluent/jobs/5441955008) | 2026-10-02 |
+| Reolink | Talent Acquisition Intern | KL Eco City | [Apply](https://job-boards.greenhouse.io/reolink/jobs/4412546009) | 2026-10-02 |
 | RoboForce | Robotics Mechanical Engineering Intern (Fall/Winter 2026) | Milpitas, CA | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5441463008) | 2026-10-02 |
+| Rocket Lab Corporation | Government Operations Intern Spring 2027 | Littleton, CO | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001399003) | 2026-10-02 |
+| Rocket Lab Corporation | Government Operations Intern Spring 2027 | Washington, DC | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992752003) | 2026-10-02 |
+| Rocket Lab Corporation | Government Operations Intern Summer 2027 | Littleton, CO | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8001401003) | 2026-10-02 |
+| Rocket Lab Corporation | Government Operations Intern Summer 2027 | Washington, DC | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992754003) | 2026-10-02 |
+| Sezzle | Chargeback Operations Intern | Mexico, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012021003) | 2026-10-02 |
+| Sezzle | Chargeback Operations Intern | Argentina, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8011711003) | 2026-10-02 |
+| Sezzle | Fraud & Disputes Intern | Brazil, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8011532003) | 2026-10-02 |
+| Sezzle | Fraud & Disputes Intern | Mexico, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012024003) | 2026-10-02 |
+| Sezzle | Fraud & Disputes Intern | Colombia, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012020003) | 2026-10-02 |
+| Sezzle | Fraud & Disputes Intern | Argentina, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012014003) | 2026-10-02 |
+| Sezzle | Product Operations Intern, Rewards | Chile, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012084003) | 2026-10-02 |
+| Sezzle | Product Operations Intern, Rewards | Brazil, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012081003) | 2026-10-02 |
+| Sezzle | Product Operations Intern, Rewards | Colombia, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8010514003) | 2026-10-02 |
+| Sezzle | Product Operations Intern, Rewards | Peru | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012085003) | 2026-10-02 |
+| Sezzle | Product Operations Intern, Rewards | Mexico, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012083003) | 2026-10-02 |
+| Sezzle | Product Operations Intern, Rewards | Argentina, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012082003) | 2026-10-02 |
+| Sezzle | Risk & Disputes Intern | Argentina, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012016003) | 2026-10-02 |
+| Sezzle | Risk & Disputes Intern | Colombia, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012019003) | 2026-10-02 |
+| Sezzle | Risk & Disputes Intern | Brazil, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8011669003) | 2026-10-02 |
+| Sezzle | Risk & Disputes Intern | Mexico, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012023003) | 2026-10-02 |
+| Sezzle | Chargeback Operations Intern | Brazil, Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8011477003) | 2026-10-02 |
+| VEGA Americas | Quality Engineering Co-Op - Spring 2027 | Mason, Ohio | [Apply](https://job-boards.greenhouse.io/vegaamericas/jobs/4718200006) | 2026-10-02 |
+| Via | Expansion Intern (German-speaking) | Paris | [Apply](https://job-boards.greenhouse.io/via/jobs/8860053002) | 2026-10-02 |
+| Via | Expansion Intern (German-speaking) | Berlin | [Apply](https://job-boards.greenhouse.io/via/jobs/8863961002) | 2026-10-02 |
 | WongDoody | Intern – Digital Creative Copy | Berlin, DE &#124; Germany (REMOTE) | [Apply](https://job-boards.greenhouse.io/wongdoody/jobs/7988851003) | 2026-10-02 |
+| WPP Media | Intern, Activation Search & Social | Milan, Italy | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5442340008) | 2026-10-02 |
+| xAI | Spring 2027 Business Operations Internship/Co-op | Palo Alto, CA | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255113007) | 2026-10-02 |
+| xAI | Spring 2027 Software Engineering Internship/Co-op | Palo Alto, CA | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252108007) | 2026-10-02 |
+| xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) | 2026-10-02 |
+| xAI | Summer 2027 Software Engineering Internship/Co-op | Palo Alto, CA | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007) | 2026-10-02 |
 | Alpha Financial Markets Consulting | Graduate Internship | Hong Kong | [Apply](https://job-boards.greenhouse.io/alphafmcroles/jobs/8849681002) | 2026-10-01 |
 | ALU | WCN-ALU Curriculum Development Intern | Remote | [Apply](https://job-boards.greenhouse.io/alu/jobs/8245311) | 2026-10-01 |
 | Ambiq Micro, Inc. | DFT Intern | Singapore | [Apply](https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4406364009) | 2026-10-01 |
