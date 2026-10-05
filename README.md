@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-524 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-04.
+526 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-05.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,8 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Taboola | Software Engineer Intern | Tel Aviv, Israel | [Apply](https://www.taboola.com/careers/job/8229871?gh_jid=8229871) | 2026-10-04 |
+| TobogganLabs | Stagiaire en science des données -- Data Science Intern | Montréal, Quebec, Canada | [Apply](https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003) | 2026-10-04 |
 | Muon Space | Industrial Engineering Intern (Summer 2027) | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256284007) | 2026-10-03 |
 | Muon Space | Environmental Test Engineering Intern (Summer 2027) | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256286007) | 2026-10-03 |
 | Affirm | Software Engineer Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | 2026-10-02 |
