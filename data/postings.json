@@ -1,5 +1,12 @@
 [
  {
+  "company": "Sigma Computing",
+  "title": "AI/ML PhD Intern (Summer 2027)",
+  "location": "New York, New York",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003",
+  "posted": "2026-10-07"
+ },
+ {
   "company": "Anduril Industries",
   "title": "2027 Reliability Engineer Intern",
   "location": "Costa Mesa, California, United States",
@@ -18,6 +25,13 @@
   "title": "Winter 2027 Reliability Engineer Co-op",
   "location": "Costa Mesa, California, United States",
   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Apex Companies",
+  "title": "Co-Op/Intern",
+  "location": "Woburn, MA",
+  "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5442683008",
   "posted": "2026-10-06"
  },
  {
@@ -42,6 +56,34 @@
   "posted": "2026-10-06"
  },
  {
+  "company": "Axis Automation",
+  "title": "GVSU Controls Engineering Intern Co-op",
+  "location": "Walker, Michigan, United States",
+  "url": "https://job-boards.greenhouse.io/axiscompany/jobs/8870866002",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Axis Automation",
+  "title": "GVSU Mechanical Engineering Intern Co-op",
+  "location": "Walker, Michigan, United States",
+  "url": "https://job-boards.greenhouse.io/axiscompany/jobs/8871027002",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "CASETiFY",
+  "title": "Graphic Design Intern",
+  "location": "Kwun Tong, Hong Kong",
+  "url": "https://job-boards.greenhouse.io/casetify/jobs/6217930004",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Center for Strategic and International Studies, Inc.",
+  "title": "Intern - Korea Chair (Winter 2026)",
+  "location": "Washington, D.C.",
+  "url": "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4433326009",
+  "posted": "2026-10-06"
+ },
+ {
   "company": "Cloudflare",
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
@@ -53,6 +95,181 @@
   "title": "Software Engineer Intern (2027)",
   "location": "In-Office",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Courier Health",
+  "title": "Software Engineering Intern (Summer 2027)",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/courierhealth/jobs/5258913007",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "DV Trading",
+  "title": "Database Engineer Intern - Summer 2027",
+  "location": "Chicago",
+  "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4741016005",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Engineers Gate",
+  "title": "Quantitative Research Intern",
+  "location": "New York",
+  "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8249666",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Everpure",
+  "title": "Software Engineer Intern (Summer 2027)",
+  "location": "Santa Clara, California",
+  "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Figure",
+  "title": "Commercial Operations Intern [Winter 2027]",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4719591006",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Figure",
+  "title": "Security Engineer Intern [Winter 2027]",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4719593006",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Hankook Tire America Corp.",
+  "title": "Summer Internship 2027",
+  "location": "Nashville, TN",
+  "url": "https://job-boards.greenhouse.io/hankooktireamericacorp/jobs/5445258008",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Isar Aerospace SE",
+  "title": "Propulsion Intern, Propulsion",
+  "location": "Parsdorf, Bavaria, Germany",
+  "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4998641101",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "JRM Construction Management, LLC",
+  "title": "Construction Management Intern - Summer 2027",
+  "location": "Boca Raton, FL",
+  "url": "https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4719359006",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Keeper Security",
+  "title": "Marketing Intern",
+  "location": "County Cork, Ireland",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4435147009",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "KnowBe4",
+  "title": "Associate Product Manager Intern (Hybrid)",
+  "location": "Clearwater, Florida",
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8871835002",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "KnowBe4",
+  "title": "Core Support Intern (Hybrid)",
+  "location": "Clearwater, Florida",
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870666002",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "KnowBe4",
+  "title": "Demand Generation Intern (Hybrid) ",
+  "location": "Arlington, Virginia",
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8871781002",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "KnowBe4",
+  "title": "Sales Development Representative Intern (Hybrid)",
+  "location": "Clearwater, Florida",
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870350002",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "KnowBe4",
+  "title": "Sales Development Representative Intern (Hybrid)",
+  "location": "Arlington, Virginia",
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870388002",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "KnowBe4",
+  "title": "Software Engineer Intern (Remote)",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Langan Engineering & Environmental Services",
+  "title": "Intern/Co-op - Environmental (Summer 2027)",
+  "location": "Syracuse, NY",
+  "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4429571009",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Langan Engineering & Environmental Services",
+  "title": "Intern/Co-op - Geotechnical Engineering (Summer 2027)",
+  "location": "Philadelphia, PA",
+  "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4432131009",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Langan Engineering & Environmental Services",
+  "title": "Intern/Co-op – Ground Engineering (Summer 2027)",
+  "location": "London (LON)",
+  "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4415448009",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Langan Engineering & Environmental Services",
+  "title": "Intern/Co-op - Highway/Roadway Engineering (Summer 2027)",
+  "location": "Doylestown, PA",
+  "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4433615009",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "LinkedIn Job Wrapping",
+  "title": "R&D Intern - Fairness in Deep Learning - Paris ",
+  "location": "9th arrondissement of Paris, 75009, Paris, France",
+  "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8870459002",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "MEMX",
+  "title": "Network Engineering Intern, Summer 2027 (Hybrid)",
+  "location": "United States",
+  "url": "https://job-boards.greenhouse.io/memx/jobs/5446002008",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "MEMX",
+  "title": "Information Security Intern, Summer 2027 (Hybrid)",
+  "location": "United States",
+  "url": "https://job-boards.greenhouse.io/memx/jobs/5445236008",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Mirakl",
+  "title": "Sales Excellence Project Intern",
+  "location": "Paris, France",
+  "url": "https://job-boards.greenhouse.io/mirakl/jobs/6218264004",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Mirakl - Labs",
+  "title": "Data Scientist - Intern ",
+  "location": "Paris, France",
+  "url": "https://job-boards.greenhouse.io/mirakllabs/jobs/6210559004",
   "posted": "2026-10-06"
  },
  {
@@ -74,6 +291,104 @@
   "title": "Software Engineering Co-op",
   "location": "Surrey, BC",
   "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4434577009",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Omnicom Health",
+  "title": "Medical Writer Intern",
+  "location": "Barcelona, ES",
+  "url": "https://job-boards.greenhouse.io/omnicomhealth/jobs/5444898008",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Panthalassa",
+  "title": "Summer 2027 Engineering Internship",
+  "location": "Portland, OR",
+  "url": "https://job-boards.greenhouse.io/panthalassa/jobs/6217929004",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "PUBLIC",
+  "title": "Summer Internship 2027",
+  "location": "Westminster, London",
+  "url": "https://www.public.io/careers?gh_jid=4998975101",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Relay",
+  "title": "Value Engineering Intern (Spring Semester 2027)",
+  "location": "Raleigh, NC",
+  "url": "https://job-boards.greenhouse.io/relaypro/jobs/8245644",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Sigma Computing",
+  "title": "AI/ML PhD Intern (Summer 2027)",
+  "location": "San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Sigma Computing",
+  "title": "Software Engineering Intern (Summer 2027)",
+  "location": "San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Sigma Computing",
+  "title": "Software Engineering Intern (Summer 2027)",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "SK hynix memory solutions America Inc.",
+  "title": "Research Intern - Loop Engineering",
+  "location": "San Jose",
+  "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4435645009",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Tenstorrent University Jobs",
+  "title": "AI SW Intern, Infrastructure & Data Centre Deployment",
+  "location": "Toronto, Ontario, Canada",
+  "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Tenstorrent University Jobs",
+  "title": "Hardware Intern - AI HW & System on a Chip",
+  "location": "Ottawa, Ontario, Canada; Toronto, Ontario, Canada",
+  "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Think Academy US",
+  "title": "Reddit Marketing Intern",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/8015116003",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Tomofun | Furbo Pet Camera",
+  "title": "Data & AI Engineering Intern",
+  "location": "Taipei, Taiwan",
+  "url": "https://job-boards.greenhouse.io/tomofunfurbo/jobs/8013772003",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Zinnov",
+  "title": "Intern - People Success Partner",
+  "location": "Koramangala, Bangalore, Karnataka, India",
+  "url": "https://job-boards.greenhouse.io/zinnov/jobs/4410815009",
+  "posted": "2026-10-06"
+ },
+ {
+  "company": "Zinnov",
+  "title": "Intern - People Success Partner",
+  "location": "Koramangala, Bangalore, Karnataka, India",
+  "url": "https://job-boards.greenhouse.io/zinnov/jobs/4410812009",
   "posted": "2026-10-06"
  },
  {
@@ -368,6 +683,13 @@
   "title": "Intern - Geotechnical Engineering",
   "location": "Chicago, IL",
   "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4425034009",
+  "posted": "2026-10-05"
+ },
+ {
+  "company": "Langan Engineering & Environmental Services",
+  "title": "Intern/Co-op – Site/Civil Engineering (Summer 2027)",
+  "location": "London (LON)",
+  "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4415400009",
   "posted": "2026-10-05"
  },
  {
@@ -753,6 +1075,13 @@
   "title": "AI Creative Marketer (Intern)",
   "location": "México",
   "url": "https://plata.careers/vacancy/details?id=5441910008&gh_jid=5441910008",
+  "posted": "2026-10-02"
+ },
+ {
+  "company": "Plata Card",
+  "title": "Intern Analyst",
+  "location": "Mexico",
+  "url": "https://plata.careers/vacancy/details?id=5442567008&gh_jid=5442567008",
   "posted": "2026-10-02"
  },
  {
