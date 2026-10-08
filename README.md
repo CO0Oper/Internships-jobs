@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-640 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-07.
+688 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-08.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,7 +14,54 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Epic Games | SDET Intern | Cary,North Carolina,United States | [Apply](https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004) | 2026-10-08 |
+| The City of Fort Worth | Legislative Intern | Law | [Apply](https://boards.greenhouse.io/cityoffortworth/jobs/8016086003?gh_jid=8016086003) | 2026-10-08 |
+| Anduril Industries | 2027 Deployment Logistics Intern | London, England, United Kingdom | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255866007?gh_jid=5255866007) | 2026-10-07 |
+| Anduril Industries | 2027 Software Engineer Intern | London, England, United Kingdom | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007) | 2026-10-07 |
+| Apex Companies | Transportation Engineering Co-Op | Quincy, MA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5423818008) | 2026-10-07 |
+| Arc Boat Company | Brand Marketing Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5446659008) | 2026-10-07 |
+| Arc Boat Company | Mechanical Engineering Intern - Recreational | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5445312008) | 2026-10-07 |
+| Arc Boat Company | People Operations Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5447151008) | 2026-10-07 |
+| Burgess & Niple | Bridge Inspection Civil Engineer Co-Op | Portland, OR | [Apply](https://job-boards.greenhouse.io/burgessniple/jobs/4423957009) | 2026-10-07 |
+| Flow Traders | Summer Trading Internship | Amsterdam | [Apply](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) | 2026-10-07 |
+| Formlabs | Global Operations Intern (Winter/Spring 2027) | Somerville, MA | [Apply](https://careers.formlabs.com/job/8263054/apply/?gh_jid=8263054) | 2026-10-07 |
+| Formlabs | Software Engineer Intern (Full stack) | Budapest, Hungary | [Apply](https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955) | 2026-10-07 |
+| Formlabs | Sourcing Program Management Intern (Winter/Spring 2027) | Somerville, MA | [Apply](https://careers.formlabs.com/job/8262987/apply/?gh_jid=8262987) | 2026-10-07 |
+| FourKites | Intern - Project Analyst , Network Growth | Chennai | [Apply](https://job-boards.greenhouse.io/fourkites/jobs/8232702) | 2026-10-07 |
+| Guidepoint | Client Growth Intern | Mumbai, Maharashtra, India | [Apply](https://job-boards.greenhouse.io/guidepoint/jobs/8869900002) | 2026-10-07 |
+| Henderson Brothers | Internship Opportunities | Columbus Office; Pittsburgh Office | [Apply](https://job-boards.greenhouse.io/hendersonbrothers/jobs/4437438009) | 2026-10-07 |
+| Human Rights Watch | Advocacy Department and Development & Outreach Department Intern | Stockholm, Stockholms län, Sweden | [Apply](https://job-boards.greenhouse.io/humanrightswatch/jobs/8873607002) | 2026-10-07 |
+| impact.com | Marketplace Growth- Merchandising Intern | Cape Town | [Apply](https://job-boards.greenhouse.io/impact/jobs/8782056002) | 2026-10-07 |
+| IXL Learning | Software Engineer, Intern | San Mateo, CA | [Apply](https://www.ixl.com/company/jobs?gh_jid=8862214002) | 2026-10-07 |
+| K2 Space | Mission Operations Engineering Intern – Summer 2027 | Los Angeles | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447292008) | 2026-10-07 |
+| K2 Space | Platform Engineering Intern – Summer 2027 | Los Angeles | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008) | 2026-10-07 |
+| Langan Engineering & Environmental Services | Intern/Co-op – Land Surveying (Summer 2027) | San Antonio, TX | [Apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4421240009) | 2026-10-07 |
+| Loenbro | CO Intern | Centennial, CO; Fort Collins, CO | [Apply](https://job-boards.greenhouse.io/loenbro/jobs/4433425009) | 2026-10-07 |
+| Marshall Wace Internship Programmes | Quant Developer Intern - Hong Kong 2027 | Hong Kong | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8857614002) | 2026-10-07 |
+| Mirakl | Solution Consultant Intern | Paris, France | [Apply](https://job-boards.greenhouse.io/mirakl/jobs/6219180004) | 2026-10-07 |
+| OPSWAT | Support Engineering Intern (AI & Automation Focus) | Tampa, Florida, United States | [Apply](https://www.opswat.com/jobs/4740022005?gh_jid=4740022005) | 2026-10-07 |
+| OPSWAT | Support Engineering Intern (AI & Automation Focus) (on-site) | Timișoara, Timiș, Romania | [Apply](https://www.opswat.com/jobs/4739977005?gh_jid=4739977005) | 2026-10-07 |
+| PDT Partners | Summer 2027 Quantitative Research Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) | 2026-10-07 |
+| Scopely | Intern-Technical Artist | IN - Bangalore, India | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5440761008?gh_jid=5440761008) | 2026-10-07 |
+| Shift Technology | Data & AI Engineer Intern (6 months) | France - Paris | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014397003) | 2026-10-07 |
+| Shift Technology | Full stack Engineer Intern (6 months) | France - Paris | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014470003) | 2026-10-07 |
+| Shift Technology | QA Engineer Intern (6 months) | France - Paris | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003) | 2026-10-07 |
 | Sigma Computing | AI/ML PhD Intern (Summer 2027) | New York, New York | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003) | 2026-10-07 |
+| Strategic HR Client Job Openings | Marketing Intern | Lexington, Kentucky | [Apply](https://job-boards.greenhouse.io/strategichr/jobs/8015973003) | 2026-10-07 |
+| Tenstorrent University Jobs | AI Software Intern | Austin, Texas, United States; Santa Clara, California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) | 2026-10-07 |
+| Tenstorrent University Jobs | AI SW Intern, Cloud, Infrastructure & Data Centre Deployment | Austin, Texas, United States; Santa Clara, California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) | 2026-10-07 |
+| Tenstorrent University Jobs | Hardware Intern - Architecture, AI HW & System on a Chip | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007) | 2026-10-07 |
+| Tenstorrent University Jobs | Intern, Physical Design & DFT | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) | 2026-10-07 |
+| Tenstorrent University Jobs | Intern, RISC-V CPU | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) | 2026-10-07 |
+| Tenstorrent University Jobs | Software Engineering Intern: DC Deployment and Infrastructure | Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007) | 2026-10-07 |
+| Tenstorrent University Jobs | Software Engineering Intern: Training, Models, Kernel/Ops | Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007) | 2026-10-07 |
+| Trade Republic | Payroll Intern | Headquarter | [Apply](https://traderepublic.com/en-de/about?jobId=8015727003&gh_jid=8015727003) | 2026-10-07 |
+| Trade Republic | Talent Acquisition Intern | Headquarter | [Apply](https://traderepublic.com/en-de/about?jobId=8014652003&gh_jid=8014652003) | 2026-10-07 |
+| Waverly Advisors, LLC | Tax Intern | Dayton, OH | [Apply](https://job-boards.greenhouse.io/waverlyadvisorsllc/jobs/4437944009) | 2026-10-07 |
+| Woolpert | Construction Management Internship (Summer 2027) | Dayton, OH; Denver, CO; Houston, TX; Indianapolis, IN; Jackson, WY; Salt Lake City, UT | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426432009) | 2026-10-07 |
+| Woolpert | Geospatial Field Internship (Summer 2027) | Port Orchard, WA | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426488009) | 2026-10-07 |
+| Woolpert | Site Civil/ Energy Internship (Summer 2027) | Columbus, OH | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426119009) | 2026-10-07 |
+| Woolpert | Site Civil/Energy Internship (Summer 2027) | King of Prussia, PA | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426103009) | 2026-10-07 |
 | Anduril Industries | 2027 Reliability Engineer Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) | 2026-10-06 |
 | Anduril Industries | 2027 Systems Engineer Intern | Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | 2026-10-06 |
 | Anduril Industries | Winter 2027 Reliability Engineer Co-op | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007) | 2026-10-06 |
@@ -122,6 +169,7 @@ Open an issue or PR.
 | Sertis | Data Engineer Intern | Bangkok, Bangkok Metropolis, Thailand | [Apply](https://job-boards.greenhouse.io/sertis/jobs/8867723002) | 2026-10-05 |
 | Signifyd | Engineering Intern | Belfast, Northern Ireland; | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/8240551) | 2026-10-05 |
 | Tamara | Tamara Internship Program | Riyadh Saudi Arabia, Dubai United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/tamara/jobs/4996993101) | 2026-10-05 |
+| Viant Technology | UCI Career Fair - 2027 Summer Internship | Irvine, California, United States | [Apply](https://job-boards.greenhouse.io/vianttechnology/jobs/4434141009) | 2026-10-05 |
 | Wheely | Operations Intern | Paris, Paris, France | [Apply](https://boards.greenhouse.io/wheely/jobs/8012824003?gh_jid=8012824003) | 2026-10-05 |
 | Woolpert | Aviation Civil Internship - Kansas City (Summer 2027) | Kansas City, MO | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4428932009) | 2026-10-05 |
 | Woolpert | Aviation Civil Internship - Utah (Summer 2027) | Salt Lake City, UT | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4428513009) | 2026-10-05 |
