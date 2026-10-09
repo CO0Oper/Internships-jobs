@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-688 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-08.
+741 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-09.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,8 +14,60 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Beam Therapeutics | Manufacturing Science & Technology (MS&T) Co-op | Durham, NC | [Apply](https://job-boards.greenhouse.io/beamtherapeutics/jobs/8879764002) | 2026-10-08 |
+| Cartesian Systems | Applied ML/CS PhD Internship (6+ months) | Cambridge, MA | [Apply](https://job-boards.greenhouse.io/cartesiansystems/jobs/4438398009) | 2026-10-08 |
+| Catawiki | IT Systems & Services (ITSS) Intern | Netherlands | [Apply](https://job-boards.greenhouse.io/catawiki/jobs/8264441) | 2026-10-08 |
+| Catawiki | Office Management Intern | Netherlands | [Apply](https://job-boards.greenhouse.io/catawiki/jobs/8255825) | 2026-10-08 |
+| Charles River Associates | (2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027) | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475) | 2026-10-08 |
+| Cottingham & Butler Insurance Services | 2027 Summer Sales Internship | Dallas, Texas, United States | [Apply](https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/5447645008?gh_jid=5447645008) | 2026-10-08 |
+| DLR Group | High School Design Intern | Houston, Texas, United States | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5441952008) | 2026-10-08 |
 | Epic Games | SDET Intern | Cary,North Carolina,United States | [Apply](https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004) | 2026-10-08 |
+| Fairstead ESC LLC | Intern - Development Operations | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/fairsteadescllc/jobs/5448063008) | 2026-10-08 |
+| Gemini | Content Production Intern (Winter 2027) | New York, New York | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8247993&gh_jid=8247993) | 2026-10-08 |
+| Gemini | Product Design Intern (Winter 2027) | New York, New York | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8240208&gh_jid=8240208) | 2026-10-08 |
+| GuidePoint Security | AI & Data Science Intern - GPSU/NE | Remote | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) | 2026-10-08 |
+| GuidePoint Security | Application Security Intern - GPSU/NE | Remote | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004) | 2026-10-08 |
+| GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE | Remote | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) | 2026-10-08 |
+| GuidePoint Security | GPSU Cybersecurity Intern - Application Security | Remote | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004) | 2026-10-08 |
+| Isar Aerospace SE | 12 months internship - Propulsion Test Engineer (m/f/d) | Kiruna, Norrbotten, Sweden | [Apply](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5000652101) | 2026-10-08 |
+| Landor | Next Gen Client Services Intern | Dubai | [Apply](https://job-boards.greenhouse.io/landor/jobs/8265517) | 2026-10-08 |
+| Landor | Next Gen Client Services Intern | London | [Apply](https://job-boards.greenhouse.io/landor/jobs/8261713) | 2026-10-08 |
+| Landor | Next Gen Design Intern | London | [Apply](https://job-boards.greenhouse.io/landor/jobs/8259097) | 2026-10-08 |
+| Landor | Next Gen Design Intern | Chicago | [Apply](https://job-boards.greenhouse.io/landor/jobs/8259112) | 2026-10-08 |
+| Landor | Next Gen Design Intern | Cincinnati | [Apply](https://job-boards.greenhouse.io/landor/jobs/8261395) | 2026-10-08 |
+| Landor | Next Gen Design Intern | Mumbai | [Apply](https://job-boards.greenhouse.io/landor/jobs/8261469) | 2026-10-08 |
+| Landor | Next Gen Motion Design Intern - Man vs Machine London | Worldwide | [Apply](https://job-boards.greenhouse.io/landor/jobs/8265474) | 2026-10-08 |
+| Landor | Next Gen Strategy Intern | Mumbai | [Apply](https://job-boards.greenhouse.io/landor/jobs/8261696) | 2026-10-08 |
+| Landor | Next Gen Strategy Intern | Sydney | [Apply](https://job-boards.greenhouse.io/landor/jobs/8261676) | 2026-10-08 |
+| Landor | Next Gen Strategy Intern | New York | [Apply](https://job-boards.greenhouse.io/landor/jobs/8261641) | 2026-10-08 |
+| Landor | Next Gen Strategy Intern | London | [Apply](https://job-boards.greenhouse.io/landor/jobs/8261489) | 2026-10-08 |
+| Landor | Prospective Next Gen Intern | Worldwide | [Apply](https://job-boards.greenhouse.io/landor/jobs/8265695) | 2026-10-08 |
+| Langan Engineering & Environmental Services | Intern/Co-op – Site/Civil Engineer (Spring 2027) | Cleveland, OH | [Apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4378254009) | 2026-10-08 |
+| Marshall Wace | 2027 Summer Operations Intern | New York | [Apply](https://job-boards.greenhouse.io/marshallwace/jobs/8879188002) | 2026-10-08 |
+| MEMX | Legal Intern, Summer 2027 (Hybrid, NYC) | United States | [Apply](https://job-boards.greenhouse.io/memx/jobs/5447824008) | 2026-10-08 |
+| Mirakl | HR Project Manager Intern - January 2027 | Paris, France | [Apply](https://job-boards.greenhouse.io/mirakl/jobs/6220219004) | 2026-10-08 |
+| Nex | Summer 2027 &#124; Content Operations Intern | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5447660008) | 2026-10-08 |
+| Nex | Summer 2027 &#124; Game Researcher Intern | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5447671008) | 2026-10-08 |
+| Nex | Summer 2027 &#124; Project Management Intern | Hong Kong | [Apply](https://job-boards.greenhouse.io/nex/jobs/5447648008) | 2026-10-08 |
+| Orennia | Transmission Intern | Calgary Headquarters | [Apply](https://boards.greenhouse.io/orennia/jobs/5448157008?gh_jid=5448157008) | 2026-10-08 |
+| Perpay - Career's Page | Super Day - Data Engineering Internship | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/perpay/jobs/5260444007) | 2026-10-08 |
+| Perpay - Career's Page | Super Day - Data Science Internship | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/perpay/jobs/5260960007) | 2026-10-08 |
+| Plata Card | Finance Intern | Mexico City | [Apply](https://plata.careers/vacancy/details?id=5408371008&gh_jid=5408371008) | 2026-10-08 |
+| Rugged Robotics | Electrical Engineering Intern/Co-op (Spring or Summer '27) | Houston, TX | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005) | 2026-10-08 |
+| Rugged Robotics | Mechanical Engineering Intern/Co-op (Spring or Summer 2027) | Houston, TX | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005) | 2026-10-08 |
+| Rugged Robotics | Robotic Software Intern/Co-op (Spring or Summer 2027) | Houston, TX | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005) | 2026-10-08 |
+| SentinelOne | Marketing Intern | Bengaluru, Karnataka, India | [Apply](https://www.sentinelone.com/jobs/?gh_jid=7991008003) | 2026-10-08 |
+| SharkNinja | Spring 2027: Electrical Engineering Co-op, Shark (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006) | 2026-10-08 |
+| SharkNinja | Spring 2027: Mechanical Engineering Co-op, Shark (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718791006) | 2026-10-08 |
+| SharkNinja | Summer 2027: Mechanical Engineering Intern, Shark (May to August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006) | 2026-10-08 |
+| Specialty1 Partners | Clinical Intern | Wilson, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/specialty1/jobs/4720178006) | 2026-10-08 |
+| Syska Hennessy Group | Mechanical Engineering Summer Intern | Hamilton, NJ | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8177728) | 2026-10-08 |
+| Teads | Campaign Management Intern | Dubai | [Apply](https://job-boards.eu.greenhouse.io/teads1/jobs/4998868101) | 2026-10-08 |
+| Tenstorrent University Jobs | AI Software Intern (Canada) | Toronto, Ontario, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | 2026-10-08 |
 | The City of Fort Worth | Legislative Intern | Law | [Apply](https://boards.greenhouse.io/cityoffortworth/jobs/8016086003?gh_jid=8016086003) | 2026-10-08 |
+| Wildlife Studios | Social Media Intern | São Paulo | [Apply](https://job-boards.greenhouse.io/wildlifestudios/jobs/8879474002) | 2026-10-08 |
+| WPP Media | Intern, Data Science & Architecture | Milan, Italy | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5447462008) | 2026-10-08 |
+| Zipline | Corporate Tax Intern (Summer 2027) | South San Francisco, California, USA | [Apply](https://www.zipline.com/open-roles/8017301003?gh_jid=8017301003) | 2026-10-08 |
 | Anduril Industries | 2027 Deployment Logistics Intern | London, England, United Kingdom | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255866007?gh_jid=5255866007) | 2026-10-07 |
 | Anduril Industries | 2027 Software Engineer Intern | London, England, United Kingdom | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007) | 2026-10-07 |
 | Apex Companies | Transportation Engineering Co-Op | Quincy, MA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5423818008) | 2026-10-07 |
@@ -37,6 +89,7 @@ Open an issue or PR.
 | K2 Space | Platform Engineering Intern – Summer 2027 | Los Angeles | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008) | 2026-10-07 |
 | Langan Engineering & Environmental Services | Intern/Co-op – Land Surveying (Summer 2027) | San Antonio, TX | [Apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4421240009) | 2026-10-07 |
 | Loenbro | CO Intern | Centennial, CO; Fort Collins, CO | [Apply](https://job-boards.greenhouse.io/loenbro/jobs/4433425009) | 2026-10-07 |
+| Loenbro | PE Intern - Clemson | Atlanta, Georgia, United States | [Apply](https://job-boards.greenhouse.io/loenbro/jobs/4437021009) | 2026-10-07 |
 | Marshall Wace Internship Programmes | Quant Developer Intern - Hong Kong 2027 | Hong Kong | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8857614002) | 2026-10-07 |
 | Mirakl | Solution Consultant Intern | Paris, France | [Apply](https://job-boards.greenhouse.io/mirakl/jobs/6219180004) | 2026-10-07 |
 | OPSWAT | Support Engineering Intern (AI & Automation Focus) | Tampa, Florida, United States | [Apply](https://www.opswat.com/jobs/4740022005?gh_jid=4740022005) | 2026-10-07 |
