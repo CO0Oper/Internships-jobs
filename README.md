@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-776 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-10.
+777 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-11.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,7 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Helsing | Communications Intern | Paris | [Apply](https://helsing.ai/jobs/5002061101?gh_jid=5002061101) | 2026-10-10 |
 | Salient Motion | Engineering Co-op | Hawthorne, CA | [Apply](https://job-boards.greenhouse.io/salientmotion/jobs/5449549008) | 2026-10-10 |
 | Affirm | IT Engineer Intern (Early Careers Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) | 2026-10-09 |
 | AMOREPACIFIC US, INC | Sulwhasoo Trade Marketing Intern | New York | [Apply](https://job-boards.greenhouse.io/amorepacificusinc/jobs/4444597009) | 2026-10-09 |
