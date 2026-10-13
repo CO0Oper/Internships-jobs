@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-778 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-12.
+803 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-13.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,31 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Rocket Lab Corporation | Ground Systems Engineering Intern Spring 2027 | Stennis Space Center, MS | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007204003) | 2026-10-13 |
+| Amperesand | Technical Program Manager Intern | Reno, Nevada, United States | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4448972009) | 2026-10-12 |
+| Arcesium LLC | Product Management Intern | New York | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | 2026-10-12 |
+| Doctolib | IA Engineer intern (x/f/m) - Berlin | Berlin, Berlin, Germany | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8015564003) | 2026-10-12 |
+| Doctolib | IA Engineer intern (x/f/m) - Milano | Milano, Milan, Italy | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8015566003) | 2026-10-12 |
+| Doctolib | IA Engineer Intern (x/f/m) - Nantes | Nantes | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8015565003) | 2026-10-12 |
+| Doctolib | IA Engineer Intern (x/f/m) - Paris | Paris, Paris, France | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8015563003) | 2026-10-12 |
+| Doctolib | Software Engineering intern - Fullstack (x/f/m) - Nantes | Nantes | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000592003) | 2026-10-12 |
+| Doctolib | Software Engineering Intern - Fullstack (x/f/m) - Niort | Niort | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8004636003) | 2026-10-12 |
+| Doctolib | Software Engineering Intern - Fullstack (x/f/m) - Paris | Paris, Paris, France | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/7998193003) | 2026-10-12 |
+| Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Amsterdam | Amsterdam, North Holland, Netherlands | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8006520003) | 2026-10-12 |
+| Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin | Berlin, Berlin, Germany | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8007923003) | 2026-10-12 |
+| Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Milano | Milano, Milan, Italy | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) | 2026-10-12 |
+| DV Trading | Data Center Engineer Intern - Summer 2027 | Chicago | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) | 2026-10-12 |
+| EquipmentShare | Intern: Shop Technician | North Bay Area, CA | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8267562) | 2026-10-12 |
+| Figure | Deployment Engineering Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4721113006) | 2026-10-12 |
+| MEMX | Data Engineering Intern, Summer 2027 (Hybrid, NYC) | United States | [Apply](https://job-boards.greenhouse.io/memx/jobs/5450442008) | 2026-10-12 |
+| Reolink | Finance Intern &#124; Internship from 2027 | Singapore | [Apply](https://job-boards.greenhouse.io/reolink/jobs/4448328009) | 2026-10-12 |
+| Reolink | Java Software Trainee &#124; Internship from 2027 | Singapore | [Apply](https://job-boards.greenhouse.io/reolink/jobs/4448326009) | 2026-10-12 |
+| Rocket Lab Corporation | Export Compliance Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8013534003) | 2026-10-12 |
+| takealot.com | People Analytics Intern | Cape Town | [Apply](https://job-boards.greenhouse.io/takealotcom/jobs/8267136) | 2026-10-12 |
+| VEGA Americas | Supply Chain Co-Op - Spring 2027 | Mason, OH | [Apply](https://job-boards.greenhouse.io/vegaamericas/jobs/4721134006) | 2026-10-12 |
+| Woolpert | Survey Internship (Summer 2027) | Albuquerque, NM; Boston, MA; Cincinnati, OH; Columbus, OH; Dayton, OH; Denver, CO; Harrisburg, PA; Indianapolis, IN; Miami, FL; Virginia Beach, VA | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426374009) | 2026-10-12 |
+| Woolpert | Water Civil Design Internship - Texas (Summer 2027) | Houston, TX | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4438876009) | 2026-10-12 |
+| WPP Media | INTERNSHIP: Influencer Marketing | Brussels, Belgium | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5449907008) | 2026-10-12 |
 | Harbinger Motors Inc. | Intern, Battery Test | Garden Grove, CA | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5263015007) | 2026-10-11 |
 | Helsing | Communications Intern | Paris | [Apply](https://helsing.ai/jobs/5002061101?gh_jid=5002061101) | 2026-10-10 |
 | Salient Motion | Engineering Co-op | Hawthorne, CA | [Apply](https://job-boards.greenhouse.io/salientmotion/jobs/5449549008) | 2026-10-10 |
