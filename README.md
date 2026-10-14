@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-803 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-13.
+853 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-14.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,7 +14,57 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| SK hynix memory solutions America Inc. | Quality Assurance Test Engineer Intern | San Jose | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4450999009) | 2026-10-14 |
+| Anduril Industries | 2027 Firmware Engineer Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) | 2026-10-13 |
+| Anduril Industries | 2027 Product Designer Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) | 2026-10-13 |
+| Arcesium LLC | Corporate Strategy Intern | New York | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5262605007) | 2026-10-13 |
+| Arcesium LLC | Finance Intern | New York | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5262557007) | 2026-10-13 |
+| BGE Inc. Campus Recruiting | CHARLOTTE - Planning & Landscape Architecture, Internship | 1111 Metropolitan Avenue, Suite 250, ​Charlotte, North Carolina 28204 | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5451645008) | 2026-10-13 |
+| BGE Inc. Campus Recruiting | North Austin - Land/Site Development, Internship | 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728 | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5450918008) | 2026-10-13 |
+| Bitpanda | Intern, Business Intelligence | Vienna, Vienna, Austria | [Apply](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4999439101) | 2026-10-13 |
+| Bitpanda | Intern, Data Engineer | Barcelona, Spain | [Apply](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4999438101) | 2026-10-13 |
+| Bitpanda | Intern, Java Engineer | Vienna, Vienna, Austria | [Apply](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4987398101) | 2026-10-13 |
+| BTIG | Internship, 2027 Summer Internship Program | London | [Apply](https://job-boards.greenhouse.io/btig27/jobs/8881055002) | 2026-10-13 |
+| Capital Farm Credit | Agricultural Appraisal Intern – Summer 2027 | College Station, Texas | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449281008) | 2026-10-13 |
+| Capital Farm Credit | Agricultural Lending Intern – College Station – Summer 2027 | College Station, Texas | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449148008) | 2026-10-13 |
+| Capital Farm Credit | Agricultural Lending Intern – Katy – Summer 2027 | Katy, Texas | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449145008) | 2026-10-13 |
+| Capital Farm Credit | Agricultural Lending Intern – Lubbock – Summer 2027 | Lubbock, Texas | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449142008) | 2026-10-13 |
+| Capital Farm Credit | Agricultural Lending Intern – San Antonio – Summer 2027 | San Antonio, Texas | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449139008) | 2026-10-13 |
+| Capital Farm Credit | Agricultural Lending Intern – Waco – Summer 2027 | Waco, Texas | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449134008) | 2026-10-13 |
+| Capital Farm Credit | Commercial Ag Credit Intern – Summer 2027 | Amarillo, Texas | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449248008) | 2026-10-13 |
+| Capital Farm Credit | Credit Resolution Intern – Summer 2027 | College Station, Texas | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449151008) | 2026-10-13 |
+| Capital Farm Credit | Information Technology Intern – Summer 2027 | College Station, Texas | [Apply](https://job-boards.greenhouse.io/capitalfarmcredit/jobs/5449253008) | 2026-10-13 |
+| Carbon Robotics | 2027 Summer Intern | Seattle, WA | [Apply](https://carbonrobotics.com/job-openings?gh_jid=4721558006) | 2026-10-13 |
+| CASETiFY | Influencer Marketing Intern | Kwun Tong, Hong Kong | [Apply](https://job-boards.greenhouse.io/casetify/jobs/6222849004) | 2026-10-13 |
+| CloudSEK | SDE Intern - Backend | Bengaluru, Karnataka, India | [Apply](https://job-boards.greenhouse.io/cloudsek/jobs/6222340004) | 2026-10-13 |
+| EQT Corporation | Civil Construction Intern | Waynesburg, PA | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5450042008) | 2026-10-13 |
+| EquipmentShare | Intern: IT Project Coordinator | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8274655) | 2026-10-13 |
+| EquipmentShare | Intern: Knowledge Management Program | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8267646) | 2026-10-13 |
+| Figma | PhD Intern, Software Engineer - Graphics (2027) | San Francisco, CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) | 2026-10-13 |
+| Gallup | Data Engineering Intern — Summer 2027 | San Francisco | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4449991009) | 2026-10-13 |
+| GenScript/ProBio | Intern - QA | Singapore | [Apply](https://job-boards.greenhouse.io/genscript/jobs/5263869007) | 2026-10-13 |
+| Groma | Spring 2027 Finance Systems Co-op | Boston, MA | [Apply](https://job-boards.greenhouse.io/groma/jobs/4743496005) | 2026-10-13 |
+| Groma | Spring 2027 Maintenance Co-op | Boston, MA | [Apply](https://job-boards.greenhouse.io/groma/jobs/4743437005) | 2026-10-13 |
+| Groma | Spring 2027 Property Operations Co-op | Boston, MA | [Apply](https://job-boards.greenhouse.io/groma/jobs/4743488005) | 2026-10-13 |
+| Gusto | Finance Intern (Summer 2027) | New York, NY - Hybrid | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8257115) | 2026-10-13 |
+| Hillel International | Operations Intern, Talent Development & Training | Washington, District of Columbia, United States | [Apply](https://job-boards.greenhouse.io/hillel/jobs/4743195005) | 2026-10-13 |
+| Inversion | RF Engineer - Internship | Playa Vista, California, United States | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4743497005) | 2026-10-13 |
+| Kikoff | Recruiting Coordination Intern | San Francisco, California | [Apply](https://job-boards.greenhouse.io/kikoff/jobs/4450381009) | 2026-10-13 |
+| Kyowa Kirin North America | 2027 Summer Intern - Mississauga, Ontario Office | Mississauga, Ontario, Canada | [Apply](https://job-boards.greenhouse.io/kyowakirinusa90/jobs/8030340003) | 2026-10-13 |
+| Lakefront Biotherapeutics, Inc. | Intern, Search & Evaluation | South San Francisco, CA | [Apply](https://job-boards.greenhouse.io/lakefrontbiotherapeuticsinc/jobs/4437785009) | 2026-10-13 |
+| Later | Social Media Content Coordinator Co-op - Corporate Marketing | Boston, MA | [Apply](https://job-boards.greenhouse.io/later/jobs/8885717002) | 2026-10-13 |
+| Liberate | Marketing Intern | Berkeley | [Apply](https://job-boards.greenhouse.io/liberate/jobs/5451751008) | 2026-10-13 |
+| Muon Space | Spacecraft Test Engineering Intern (Summer 2027) | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256288007) | 2026-10-13 |
 | Rocket Lab Corporation | Ground Systems Engineering Intern Spring 2027 | Stennis Space Center, MS | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007204003) | 2026-10-13 |
+| Scopely | Intern - QA Engineer - Royal Lounge Casino | IN - Bangalore, India | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008) | 2026-10-13 |
+| Syska Hennessy Group | FLS Summer Intern | New York | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8280160) | 2026-10-13 |
+| Syska Hennessy Group | Mechanical Engineer Summer Intern | Tampa, FL | [Apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8267624) | 2026-10-13 |
+| Van Metre Companies | New Homes Rotational Internship - Summer 2027 | Ashburn, VA | [Apply](https://job-boards.greenhouse.io/vanmetre/jobs/8278387) | 2026-10-13 |
+| Van Metre Companies | Property Management Internship - Summer 2027 | Fairfax, VA | [Apply](https://job-boards.greenhouse.io/vanmetre/jobs/8278472) | 2026-10-13 |
+| Vestmark, Inc. | Software Engineer Co-op | Boston, MA | [Apply](https://job-boards.greenhouse.io/vestmark/jobs/8204509) | 2026-10-13 |
+| Via | Commercial Intern | London, UK | [Apply](https://job-boards.greenhouse.io/via/jobs/8884887002) | 2026-10-13 |
+| Wheely | Operations Intern | Paris, Paris, France | [Apply](https://boards.greenhouse.io/wheely/jobs/8031675003?gh_jid=8031675003) | 2026-10-13 |
+| Woolpert | Transportation Intern - Ohio (Summer 2027) | Cincinnati, OH; Columbus, OH; Dayton, OH | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4436684009) | 2026-10-13 |
 | Amperesand | Technical Program Manager Intern | Reno, Nevada, United States | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4448972009) | 2026-10-12 |
 | Arcesium LLC | Product Management Intern | New York | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | 2026-10-12 |
 | Doctolib | IA Engineer intern (x/f/m) - Berlin | Berlin, Berlin, Germany | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8015564003) | 2026-10-12 |
