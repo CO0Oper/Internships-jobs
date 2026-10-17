@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-937 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-16.
+957 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-17.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -15,9 +15,28 @@ Open an issue or PR.
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
 | AiDASH, Inc. | Software Engineering Intern, Backend | Palo Alto, California, United States | [Apply](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) | 2026-10-16 |
+| Apex Companies | Co-Op/Intern | Quincy, MA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5423586008) | 2026-10-16 |
 | CASETiFY | Partnerships Intern (Korean Speaker) | Kwun Tong, Hong Kong | [Apply](https://job-boards.greenhouse.io/casetify/jobs/6226342004) | 2026-10-16 |
+| Eulerity | Product Marketing Intern - AI & Automation | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722805006) | 2026-10-16 |
+| Langan Engineering & Environmental Services | Intern/Co-op – Landscape Architecture + Planning (Summer 2027) | Parsippany, NJ | [Apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4438858009) | 2026-10-16 |
+| Langan Engineering & Environmental Services | Intern/Co-op – Landscape Architecture + Planning (Summer 2027) | New Haven, Connecticut, United States | [Apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4451447009) | 2026-10-16 |
+| Langan Engineering & Environmental Services | Intern/Co-op – Landscape Architecture + Planning (Summer 2027) | Boston, MA | [Apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4451484009) | 2026-10-16 |
 | NewsBreak | Short Drama Creative Editor Intern | Mountain View, California, United States | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4722490006) | 2026-10-16 |
 | OpenSesame | Security Analyst Internship | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8287886?gh_jid=8287886) | 2026-10-16 |
+| ParetoHealth | Start Strong Internship Program - Stay Connected | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4722798006) | 2026-10-16 |
+| Peak Energy | Supplier Industrialization Engineer Intern (Spring 2027) | Burlingame, CA | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5265015007&gh_jid=5265015007) | 2026-10-16 |
+| QuEra Computing, Inc. | QPU Build Co-Op – Optics & Data Analysis | Boston, MA USA | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5455950008) | 2026-10-16 |
+| Rocket Lab Corporation | Supply Chain Intern Summer 2027 | Silver Spring, MD | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7999237003) | 2026-10-16 |
+| SumUp | Affiliate Marketing Intern | Berlin, Germany | [Apply](https://sumup.com/careers/positions/8764703002?gh_jid=8764703002) | 2026-10-16 |
+| Together AI | Hardware Security Engineer Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) | 2026-10-16 |
+| Together AI | Research Intern, Frontier Speculative Decoding (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) | 2026-10-16 |
+| Together AI | Research Intern, Frontier Speculative Decoding (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) | 2026-10-16 |
+| Tomofun &#124; Furbo Pet Camera | [VESTA] 專案企劃實習生 (PM Intern) | Taipei, Taiwan | [Apply](https://job-boards.greenhouse.io/tomofunfurbo/jobs/8035306003) | 2026-10-16 |
+| Uber Freight | Account Management Intern - Summer 2027 | Rogers, AR 72758, United States | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5444034008) | 2026-10-16 |
+| Uber Freight | Finance Operations Intern - Summer 2027 | Chicago, IL 60607, United States; Rogers, AR 72758, United States | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5437020008) | 2026-10-16 |
+| Uber Freight | TM Operations Intern - Summer 2027 | Chicago, IL 60607, United States; Exton, PA 19341, United States; Newport, KY 41071, United States; Rogers, AR 72758, United States | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5443939008) | 2026-10-16 |
+| Veeam Software | Data & Analytics Engineering Intern - Summer 2027 | Alpharetta, GA, USA | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) | 2026-10-16 |
+| Veeam Software | Field Marketing Intern - Summer 2027 | Remote, Virginia, USA | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5009115101) | 2026-10-16 |
 | Airbnb | Strategic Finance & Analytics Intern | United States | [Apply](https://careers.airbnb.com/positions/8285171?gh_jid=8285171) | 2026-10-15 |
 | Aircall.io, Inc. | Technical Partner Solutions Intern | Paris Office | [Apply](https://job-boards.greenhouse.io/aircallioinc/jobs/4454497009) | 2026-10-15 |
 | AMOREPACIFIC US, INC | Global Marketing & Social Intelligence Intern, LA HQ | Los Angeles | [Apply](https://job-boards.greenhouse.io/amorepacificusinc/jobs/4453302009) | 2026-10-15 |
@@ -161,6 +180,7 @@ Open an issue or PR.
 | Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Amsterdam | Amsterdam, North Holland, Netherlands | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8006520003) | 2026-10-12 |
 | Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin | Berlin, Berlin, Germany | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8007923003) | 2026-10-12 |
 | Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Milano | Milano, Milan, Italy | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) | 2026-10-12 |
+| DoorDash USA | Electrical Engineer, Intern - Labs (Summer 2027) | Oakland, CA | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) | 2026-10-12 |
 | DV Trading | Data Center Engineer Intern - Summer 2027 | Chicago | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) | 2026-10-12 |
 | EquipmentShare | Intern: Shop Technician | North Bay Area, CA | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8267562) | 2026-10-12 |
 | Figure | Deployment Engineering Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4721113006) | 2026-10-12 |
