@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-957 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-17.
+958 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-18.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,7 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) | 2026-10-17 |
 | AiDASH, Inc. | Software Engineering Intern, Backend | Palo Alto, California, United States | [Apply](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) | 2026-10-16 |
 | Apex Companies | Co-Op/Intern | Quincy, MA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5423586008) | 2026-10-16 |
 | CASETiFY | Partnerships Intern (Korean Speaker) | Kwun Tong, Hong Kong | [Apply](https://job-boards.greenhouse.io/casetify/jobs/6226342004) | 2026-10-16 |
