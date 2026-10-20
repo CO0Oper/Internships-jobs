@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-959 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-19.
+986 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-20.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,33 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Anduril Industries | 2027 Field Test Engineer Intern | Costa Mesa, California, United States; Quincy, Massachusetts, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) | 2026-10-19 |
+| Anduril Industries | 2027 Guidance, Navigation, & Control Engineer Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) | 2026-10-19 |
+| Anduril Industries | 2027 Low Observables Engineer Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | 2026-10-19 |
+| Anduril Industries | 2027 Technical Program Manager Intern | Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | 2026-10-19 |
+| Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) | 2026-10-19 |
+| EquipmentShare | Intern: IT Systems Administrator | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8287301) | 2026-10-19 |
+| Hasbro | Spring 2027 Global Planning & Logistics Co-op (Jan - July 2027) | Renton, Washington, United States | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4456744009) | 2026-10-19 |
+| Insomniac Games | Pod Development Manager Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6227083004) | 2026-10-19 |
+| KnowBe4 | CSM Project Manager Intern | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8899901002) | 2026-10-19 |
+| KnowBe4 | Digital Customer Success Intern | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8899970002) | 2026-10-19 |
+| Legend Biotech US | Data Intern | Bridgewater, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4745118005) | 2026-10-19 |
+| National Information Solutions Cooperative (NISC) | Intern - Application Analyst (Financials Software) | Mandan, ND | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8301304) | 2026-10-19 |
+| Point72 | 2028 Point72 Academy Investment Analyst Summer Internship Program - US | United States | [Apply](https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002) | 2026-10-19 |
+| Rocket Lab Corporation | Ground Systems Engineering Intern Summer 2027 | Stennis Space Center, MS | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007202003) | 2026-10-19 |
+| Scale AI | Machine Learning Research Intern (Summer 2027) | New York, NY; San Francisco, CA | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | 2026-10-19 |
+| The Allen Institute for Artificial Intelligence | Research Internship, AI for Science | Seattle, WA | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615) | 2026-10-19 |
+| The Allen Institute for Artificial Intelligence | Research Internship, Robotics | Seattle, WA | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) | 2026-10-19 |
+| Ursa Major | 2027 Summer Avionics Electrical Engineer Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745125005) | 2026-10-19 |
+| Ursa Major | 2027 Summer Design Engineering Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745101005) | 2026-10-19 |
+| Ursa Major | 2027 Summer Facilities & Capital Projects Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745112005) | 2026-10-19 |
+| Ursa Major | 2027 Summer Industrial Hygienist & Ergonomist Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745108005) | 2026-10-19 |
+| Ursa Major | 2027 Summer In-Space Propulsion Engineering Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745126005) | 2026-10-19 |
+| Ursa Major | 2027 Summer Manufacturing Engineering Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745122005) | 2026-10-19 |
+| Ursa Major | 2027 Summer Marketing & Communications Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4744833005) | 2026-10-19 |
+| Ursa Major | 2027 Summer Materials & Processes Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745105005) | 2026-10-19 |
+| Ursa Major | 2027 Summer People Operations Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745117005) | 2026-10-19 |
+| Ursa Major | 2027 Summer Test Engineering Internship | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745111005) | 2026-10-19 |
 | Tamara | Commercial Operations Intern | Dubai, United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/tamara/jobs/5004015101) | 2026-10-18 |
 | Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) | 2026-10-17 |
 | AiDASH, Inc. | Software Engineering Intern, Backend | Palo Alto, California, United States | [Apply](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) | 2026-10-16 |
