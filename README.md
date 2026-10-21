@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-986 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-20.
+1033 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-21.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,14 +14,59 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Anduril Industries | 2027 Finance Data Analyst Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) | 2026-10-20 |
+| EquipmentShare | Intern: Finance & Treasury | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8176620) | 2026-10-20 |
+| Graphcore | AI Technology PhD Research Internship | Bristol, UK; Cambridge, UK; London, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894738002) | 2026-10-20 |
+| Graphcore | Cloud Platform Summer Intern 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894965002) | 2026-10-20 |
+| Graphcore | Hardware Summer Intern 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894753002) | 2026-10-20 |
+| Graphcore | Manufacturing Operations (Product Test) Summer Intern 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894363002) | 2026-10-20 |
+| Graphcore | Manufacturing Operations Summer Intern 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894375002) | 2026-10-20 |
+| Graphcore | Silicon Summer Intern 2027 | Bristol, UK; Cambridge, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8879329002) | 2026-10-20 |
+| Graphcore | Software Engineering Summer Intern, Drivers and Utilities 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894376002) | 2026-10-20 |
+| Graphcore | Software Engineer Summer Intern, AI Compute Libraries & Performance 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894868002) | 2026-10-20 |
+| Graphcore | UX Design Summer Intern 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894797002) | 2026-10-20 |
+| Hasbro | 2026 Hasbro London Internship Networking Event | London, England, United Kingdom | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4459348009) | 2026-10-20 |
+| Insomniac Games | Audio Design Intern- Undergraduate or Master's | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226346004) | 2026-10-20 |
+| Insomniac Games | Engine and Tools Programming Intern – Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6227080004) | 2026-10-20 |
+| Insomniac Games | Lighting Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6227101004) | 2026-10-20 |
+| Insomniac Games | Tech Art Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226344004) | 2026-10-20 |
+| Legend Biotech US | Intern, FFBA Analytical Development | Somerset, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4745147005) | 2026-10-20 |
+| Legend Biotech US | Intern, FFBA Analytical Development | Somerset, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4745128005) | 2026-10-20 |
+| Legend Biotech US | QC Stability Coordinator (Intern) | Somerset, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4745159005) | 2026-10-20 |
+| Legend Biotech US | Site Project Management Office Intern | Raritan, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4745151005) | 2026-10-20 |
+| Major League Baseball | Intern, Event Planning (Spring, 2027) | Vero Beach, Florida | [Apply](https://www.mlb.com/careers/opportunities?gh_jid=8285278) | 2026-10-20 |
+| Optiver | Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai) | Shanghai, China | [Apply](https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002) | 2026-10-20 |
+| Optiver | Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai) | Shanghai, China | [Apply](https://www.optiver.com/join-us/jobs/8901902002/?gh_jid=8901902002) | 2026-10-20 |
+| PrizePicks | Machine Learning Internship - Spring 2027 | Atlanta, Georgia, United States | [Apply](http://prizepicks.com/position?gh_jid=8038883003) | 2026-10-20 |
+| Shift Technology | Data scientist Internship (6 months) | France - Paris | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003) | 2026-10-20 |
+| ALO | Legal Intern | Beverly Hills, California, United States | [Apply](https://boards.greenhouse.io/aloyoga/jobs/6228886004?gh_jid=6228886004) | 2026-10-19 |
 | Anduril Industries | 2027 Field Test Engineer Intern | Costa Mesa, California, United States; Quincy, Massachusetts, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) | 2026-10-19 |
 | Anduril Industries | 2027 Guidance, Navigation, & Control Engineer Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) | 2026-10-19 |
 | Anduril Industries | 2027 Low Observables Engineer Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | 2026-10-19 |
 | Anduril Industries | 2027 Technical Program Manager Intern | Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | 2026-10-19 |
+| Awin | AdOps Intern (f/m/d) | São Paulo, São Paulo, Brazil | [Apply](https://boards.greenhouse.io/awin/jobs/8036993003?gh_jid=8036993003) | 2026-10-19 |
+| Braze | Intern, Software Engineering | New York City | [Apply](https://job-boards.greenhouse.io/braze/jobs/8301086) | 2026-10-19 |
 | Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) | 2026-10-19 |
 | EquipmentShare | Intern: IT Systems Administrator | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8287301) | 2026-10-19 |
+| FanDuel | Canada Product Co-Op - Spring 2027 | Toronto, Ontario, Canada | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8285180) | 2026-10-19 |
+| Formlabs | Recruitment Intern | Budapest, Hungary | [Apply](https://careers.formlabs.com/job/8300782/apply/?gh_jid=8300782) | 2026-10-19 |
+| GoStudent | Operations Intern – Offline Business Development | Madrid, Spain | [Apply](https://www.gostudent.org/en-gb/job-position/?gh_jid=5010010101) | 2026-10-19 |
 | Hasbro | Spring 2027 Global Planning & Logistics Co-op (Jan - July 2027) | Renton, Washington, United States | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4456744009) | 2026-10-19 |
 | Insomniac Games | Pod Development Manager Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6227083004) | 2026-10-19 |
+| Insomniac Games | Accessibility Intern- Master's or PhD | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6227618004) | 2026-10-19 |
+| Insomniac Games | Animation Intern (Gameplay)- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226213004) | 2026-10-19 |
+| Insomniac Games | Character Artist Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226237004) | 2026-10-19 |
+| Insomniac Games | Character TD (Rigging) Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226243004) | 2026-10-19 |
+| Insomniac Games | Concept Art Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226354004) | 2026-10-19 |
+| Insomniac Games | Dialogue Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6228761004) | 2026-10-19 |
+| Insomniac Games | Environment Art Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6221850004) | 2026-10-19 |
+| Insomniac Games | Game Design Intern-Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226630004) | 2026-10-19 |
+| Insomniac Games | Gameplay Programming Intern - Undergraduate | United States, Burbank, CA; United States, Remote | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226611004) | 2026-10-19 |
+| Insomniac Games | Publishing Project Management Intern - Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226347004) | 2026-10-19 |
+| Insomniac Games | Story Intern - Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6227611004) | 2026-10-19 |
+| Insomniac Games | User Research Intern (Tools)- Master's | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6227520004) | 2026-10-19 |
+| Insomniac Games | VFX Intern – Undergraduate or Master's | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6228743004) | 2026-10-19 |
+| Insomniac Games | XDev Props Intern- Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226349004) | 2026-10-19 |
 | KnowBe4 | CSM Project Manager Intern | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8899901002) | 2026-10-19 |
 | KnowBe4 | Digital Customer Success Intern | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8899970002) | 2026-10-19 |
 | Legend Biotech US | Data Intern | Bridgewater, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4745118005) | 2026-10-19 |
@@ -41,6 +86,8 @@ Open an issue or PR.
 | Ursa Major | 2027 Summer Materials & Processes Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745105005) | 2026-10-19 |
 | Ursa Major | 2027 Summer People Operations Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745117005) | 2026-10-19 |
 | Ursa Major | 2027 Summer Test Engineering Internship | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4745111005) | 2026-10-19 |
+| Wheely | Operations Intern | Paris, Paris, France | [Apply](https://boards.greenhouse.io/wheely/jobs/8037177003?gh_jid=8037177003) | 2026-10-19 |
+| WPP Media | Intern, Media Buying Clients Partnership | Milan, Italy | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5456742008) | 2026-10-19 |
 | Tamara | Commercial Operations Intern | Dubai, United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/tamara/jobs/5004015101) | 2026-10-18 |
 | Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) | 2026-10-17 |
 | AiDASH, Inc. | Software Engineering Intern, Backend | Palo Alto, California, United States | [Apply](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) | 2026-10-16 |
