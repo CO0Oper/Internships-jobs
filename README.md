@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1033 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-21.
+1053 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-22.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,8 +14,26 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Anduril Industries | 2027 Business Operations Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | 2026-10-21 |
+| Anduril Industries | 2027 Business Operations Intern | Costa Mesa, California, United States; Seattle, Washington, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) | 2026-10-21 |
+| Anduril Industries | 2027 Product Sourcing Engineer Intern | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) | 2026-10-21 |
+| Anduril Industries | Winter 2027 Business Operations Engineer Co-op | Ashville, Ohio, United States; Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007) | 2026-10-21 |
+| Anduril Industries | Winter 2027 Robotics Engineer Co-op | Quincy, Massachusetts, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007) | 2026-10-21 |
+| BGE Inc. Campus Recruiting | FRISCO - Land/Site Development, Internship | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5367796008) | 2026-10-21 |
+| Celonis | AI & Management Consulting Intern (Value Engineering - DACH Market) | Munich, Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003) | 2026-10-21 |
+| Doctolib | B2C CRM Marketing Intern - Milano (x/f/m) | Milano, Milan, Italy | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8036876003) | 2026-10-21 |
+| GoFundMe | MBA Product Management Internship, Summer 2027 | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | 2026-10-21 |
+| KnowBe4 | AI Customer Success Intern | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8903101002) | 2026-10-21 |
+| One Acre Fund | Junior ITSM Technician Intern | Kakamega, Kenya or Kigali, Rwanda | [Apply](https://oneacrefund.org/vacancies/?gh_jid=8305321) | 2026-10-21 |
+| PropHero | Post Settlement Intern, Valencia | Valencia | [Apply](https://job-boards.greenhouse.io/prophero/jobs/5458908008) | 2026-10-21 |
+| Vestwell | 2027 Summer Internship Program | New York, NY &#124; Austin, TX &#124; King of Prussia, PA &#124; Scottsdale, AZ | [Apply](https://job-boards.greenhouse.io/vestwell/jobs/8039992003) | 2026-10-21 |
 | Anduril Industries | 2027 Finance Data Analyst Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) | 2026-10-20 |
+| Bitpanda | Intern, Web3 | Vienna, Vienna, Austria | [Apply](https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009828101) | 2026-10-20 |
+| DriveWealth | AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027 | Office - Chicago | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039368003?gh_jid=8039368003) | 2026-10-20 |
+| DriveWealth | AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027 | Office - Chicago; Office - NYC | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003) | 2026-10-20 |
+| DriveWealth | AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027 | Office - Chicago; Office - NYC | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003) | 2026-10-20 |
 | EquipmentShare | Intern: Finance & Treasury | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8176620) | 2026-10-20 |
+| FanDuel | Sports Trader Intern - Summer 2027 | Jersey City, New Jersey, United States | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8300829) | 2026-10-20 |
 | Graphcore | AI Technology PhD Research Internship | Bristol, UK; Cambridge, UK; London, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894738002) | 2026-10-20 |
 | Graphcore | Cloud Platform Summer Intern 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894965002) | 2026-10-20 |
 | Graphcore | Hardware Summer Intern 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894753002) | 2026-10-20 |
@@ -25,6 +43,7 @@ Open an issue or PR.
 | Graphcore | Software Engineering Summer Intern, Drivers and Utilities 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894376002) | 2026-10-20 |
 | Graphcore | Software Engineer Summer Intern, AI Compute Libraries & Performance 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894868002) | 2026-10-20 |
 | Graphcore | UX Design Summer Intern 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894797002) | 2026-10-20 |
+| Graphcore | Firmware Summer Intern 2027 | Bristol, UK | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8894770002) | 2026-10-20 |
 | Hasbro | 2026 Hasbro London Internship Networking Event | London, England, United Kingdom | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4459348009) | 2026-10-20 |
 | Insomniac Games | Audio Design Intern- Undergraduate or Master's | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226346004) | 2026-10-20 |
 | Insomniac Games | Engine and Tools Programming Intern – Undergraduate | United States, Burbank, CA | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6227080004) | 2026-10-20 |
@@ -35,6 +54,7 @@ Open an issue or PR.
 | Legend Biotech US | QC Stability Coordinator (Intern) | Somerset, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4745159005) | 2026-10-20 |
 | Legend Biotech US | Site Project Management Office Intern | Raritan, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4745151005) | 2026-10-20 |
 | Major League Baseball | Intern, Event Planning (Spring, 2027) | Vero Beach, Florida | [Apply](https://www.mlb.com/careers/opportunities?gh_jid=8285278) | 2026-10-20 |
+| Olsson | Engineering Internship - Rail Public Projects | Utah - Remote | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5458376008) | 2026-10-20 |
 | Optiver | Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai) | Shanghai, China | [Apply](https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002) | 2026-10-20 |
 | Optiver | Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai) | Shanghai, China | [Apply](https://www.optiver.com/join-us/jobs/8901902002/?gh_jid=8901902002) | 2026-10-20 |
 | PrizePicks | Machine Learning Internship - Spring 2027 | Atlanta, Georgia, United States | [Apply](http://prizepicks.com/position?gh_jid=8038883003) | 2026-10-20 |
