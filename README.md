@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1069 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-23.
+1107 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-24.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,18 +14,55 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Figure | Developer Productivity Intern [Winter 2027] | San Jose, CA | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006) | 2026-10-24 |
+| BGE Inc. Campus Recruiting | FAYETTEVILLE - Transportation, Internship | One Steele Plaza 3739 N. Steele Boulevard, Suite 340, Fayetteville, AR 72703 | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5461893008) | 2026-10-23 |
+| CCLFG | Intern, Investment Analytics Engagement | Vancouver, British Columbia, Canada | [Apply](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) | 2026-10-23 |
+| Celonis | Intern Deployment Engineer - Data & AI | Munich, Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7986440003?gh_jid=7986440003) | 2026-10-23 |
+| Celonis | Intern Technology Consultant - Data & AI | Munich, Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003) | 2026-10-23 |
+| InMobi | Intern - Creative & Communications, People Team | Bangalore | [Apply](https://job-boards.greenhouse.io/inmobi/jobs/8207411) | 2026-10-23 |
+| MongoDB | 2027 - Software Engineering Intern, AMER | Austin; New York City; Palo Alto; San Francisco; Seattle | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) | 2026-10-23 |
+| MongoDB | 2027 - Summer Software Engineer Intern, Dublin | Dublin | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) | 2026-10-23 |
+| Power Digital | Digital Marketing Intern | Remote - Colombia | [Apply](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5274510007) | 2026-10-23 |
+| Power Digital | Digital Marketing Intern | Remote - Colombia | [Apply](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5274509007) | 2026-10-23 |
 | Coinbase | Software Engineer Intern | Hybrid - Singapore | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) | 2026-10-22 |
+| Crystal Dynamics | 3D Art Intern [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746886005) | 2026-10-22 |
+| Crystal Dynamics | External Art Intern, Characters [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746774005) | 2026-10-22 |
+| Crystal Dynamics | External Art Intern, Environments [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746761005) | 2026-10-22 |
+| Crystal Dynamics | Gameplay Animation Intern [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746881005) | 2026-10-22 |
+| Crystal Dynamics | Gameplay Engineer Intern [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005) | 2026-10-22 |
+| Crystal Dynamics | Technical Artist, Character Optimization Intern [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746824005) | 2026-10-22 |
+| Crystal Dynamics | Technical Artist, Environment Optimization Intern [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746826005) | 2026-10-22 |
+| DoorDash USA | Drone Operations, Intern - Labs (Summer 2027) | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8312381) | 2026-10-22 |
+| DoorDash USA | Mechanical Engineering, Intern - Labs (Summer 2027) | Oakland, CA | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) | 2026-10-22 |
 | EquipmentShare | Intern: Payroll & Compensation | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8226369) | 2026-10-22 |
+| FanDuel | Canada Commercial Co-Op - Winter/Summer 2027 | Toronto, Ontario, Canada | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8314961) | 2026-10-22 |
+| Formlabs | Manufacturing Test Software Intern (Winter/Spring 2027) | Somerville, MA | [Apply](https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004) | 2026-10-22 |
+| Ivalua | Marketing Web Development Intern | New York City, NY - US | [Apply](https://boards.greenhouse.io/ivalua/jobs/8293704?gh_jid=8293704) | 2026-10-22 |
 | National Information Solutions Cooperative (NISC) | Intern - Operations Analytics Implementations | Any NISC Location | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8312757) | 2026-10-22 |
 | Nex | Summer 2027 &#124; 2D Character Artist Intern | San Jose, California or Remote | [Apply](https://job-boards.greenhouse.io/nex/jobs/5461348008) | 2026-10-22 |
 | Nex | Summer 2027 &#124; UI Motion Artist Intern | San Jose, California or Remote | [Apply](https://job-boards.greenhouse.io/nex/jobs/5461373008) | 2026-10-22 |
+| OpenSesame | AI Product Builder Intern | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) | 2026-10-22 |
+| Peak Energy | Systems Integration and Test Engineer Intern (Summer 2027) | Burlingame, California | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) | 2026-10-22 |
+| Peak Energy | Test Engineer Intern, ESS (Summer 2027) | Burlingame, California | [Apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272578007&gh_jid=5272578007) | 2026-10-22 |
 | Prophet | Associate Intern | Berlin, Munich, Zurich | [Apply](https://job-boards.greenhouse.io/prophet/jobs/4745104005) | 2026-10-22 |
 | Prophet | Associate Intern | London | [Apply](https://job-boards.greenhouse.io/prophet/jobs/4741972005) | 2026-10-22 |
 | Schonfeld | 2027 Index Rebalancing Quantitative Research Intern | Hong Kong, Hong Kong | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8311597) | 2026-10-22 |
 | Schonfeld | 2027 PhD Centralized Research Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) | 2026-10-22 |
 | Together AI | Growth Marketing Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5270409007) | 2026-10-22 |
 | Trade Republic | Intern- Executive Office (Strategy & Ops) Q4/26 & Q1/27 | Headquarter | [Apply](https://traderepublic.com/en-de/about?jobId=8041296003&gh_jid=8041296003) | 2026-10-22 |
+| Twitch | Undergrad Software Engineering Intern (Grad Year: Spring 2028) | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8886748002) | 2026-10-22 |
+| Twitch | Undergrad Software Engineering Intern (Grad Year: Winter 2027) | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8886605002) | 2026-10-22 |
+| Ursa Major | 2027 Summer Business Process & ERP Documentation Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4746844005) | 2026-10-22 |
+| Ursa Major | 2027 Summer Combustion Devices Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4746887005) | 2026-10-22 |
+| Ursa Major | 2027 Summer Embedded Flight Software Intern | Longmont, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4746825005) | 2026-10-22 |
+| Ursa Major | 2027 Summer IT Infrastructure & Automation Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4746884005) | 2026-10-22 |
+| Ursa Major | 2027 Summer Manufacturing Engineer Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4746828005) | 2026-10-22 |
+| Ursa Major | 2027 Summer Propulsion Engineer, Hypersonic Vehicle Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4746882005) | 2026-10-22 |
+| Ursa Major | 2027 Summer Software Development Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4746827005) | 2026-10-22 |
+| Ursa Major | 2027 Summer Systems Engineering Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4746900005) | 2026-10-22 |
 | Varda Space Industries | Pharmaceutical Lab Internship (Crystallization) Summer 2027 | El Segundo, California, United States | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8040897003) | 2026-10-22 |
+| Varda Space Industries | Construction Management Internship – Spring 2027 | El Segundo, California, United States | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8041944003) | 2026-10-22 |
+| WPP Media | Intern, Supply Programmatic, Italy | Milan, Italy | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5461018008) | 2026-10-22 |
 | Anduril Industries | 2027 Business Operations Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | 2026-10-21 |
 | Anduril Industries | 2027 Business Operations Intern | Costa Mesa, California, United States; Seattle, Washington, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) | 2026-10-21 |
 | Anduril Industries | 2027 Product Sourcing Engineer Intern | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) | 2026-10-21 |
@@ -83,6 +120,7 @@ Open an issue or PR.
 | Awin | AdOps Intern (f/m/d) | São Paulo, São Paulo, Brazil | [Apply](https://boards.greenhouse.io/awin/jobs/8036993003?gh_jid=8036993003) | 2026-10-19 |
 | Braze | Intern, Software Engineering | New York City | [Apply](https://job-boards.greenhouse.io/braze/jobs/8301086) | 2026-10-19 |
 | Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) | 2026-10-19 |
+| DoorDash USA | Operations Research Intern (PhD), Summer 2027 | Sunnyvale, CA | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) | 2026-10-19 |
 | EquipmentShare | Intern: IT Systems Administrator | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8287301) | 2026-10-19 |
 | FanDuel | Canada Product Co-Op - Spring 2027 | Toronto, Ontario, Canada | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8285180) | 2026-10-19 |
 | Formlabs | Recruitment Intern | Budapest, Hungary | [Apply](https://careers.formlabs.com/job/8300782/apply/?gh_jid=8300782) | 2026-10-19 |

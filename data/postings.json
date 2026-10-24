@@ -1,5 +1,75 @@
 [
  {
+  "company": "Figure",
+  "title": "Developer Productivity Intern [Winter 2027]",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
+  "posted": "2026-10-24"
+ },
+ {
+  "company": "BGE Inc.  Campus Recruiting",
+  "title": "FAYETTEVILLE - Transportation, Internship",
+  "location": "One Steele Plaza 3739 N. Steele Boulevard, Suite 340, Fayetteville, AR 72703",
+  "url": "https://job-boards.greenhouse.io/bgeinccampus/jobs/5461893008",
+  "posted": "2026-10-23"
+ },
+ {
+  "company": "CCLFG",
+  "title": "Intern, Investment Analytics Engagement ",
+  "location": "Vancouver, British Columbia, Canada",
+  "url": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009",
+  "posted": "2026-10-23"
+ },
+ {
+  "company": "Celonis",
+  "title": "Intern Deployment Engineer - Data & AI",
+  "location": "Munich, Germany",
+  "url": "https://job-boards.greenhouse.io/celonis/jobs/7986440003?gh_jid=7986440003",
+  "posted": "2026-10-23"
+ },
+ {
+  "company": "Celonis",
+  "title": "Intern Technology Consultant - Data & AI",
+  "location": "Munich, Germany",
+  "url": "https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003",
+  "posted": "2026-10-23"
+ },
+ {
+  "company": "InMobi",
+  "title": "Intern - Creative & Communications, People Team ",
+  "location": "Bangalore",
+  "url": "https://job-boards.greenhouse.io/inmobi/jobs/8207411",
+  "posted": "2026-10-23"
+ },
+ {
+  "company": "MongoDB",
+  "title": "2027 - Software Engineering Intern, AMER",
+  "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+  "posted": "2026-10-23"
+ },
+ {
+  "company": "MongoDB",
+  "title": "2027 - Summer Software Engineer Intern, Dublin",
+  "location": "Dublin",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+  "posted": "2026-10-23"
+ },
+ {
+  "company": "Power Digital",
+  "title": "Digital Marketing Intern",
+  "location": "Remote - Colombia",
+  "url": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5274510007",
+  "posted": "2026-10-23"
+ },
+ {
+  "company": "Power Digital",
+  "title": "Digital Marketing Intern",
+  "location": "Remote - Colombia",
+  "url": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5274509007",
+  "posted": "2026-10-23"
+ },
+ {
   "company": "Coinbase",
   "title": "Software Engineer Intern",
   "location": "Hybrid - Singapore",
@@ -7,10 +77,94 @@
   "posted": "2026-10-22"
  },
  {
+  "company": "Crystal Dynamics",
+  "title": "3D Art Intern [Spring 2027]",
+  "location": "Remote/Flexible - United States",
+  "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746886005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Crystal Dynamics",
+  "title": "External Art Intern, Characters [Spring 2027]",
+  "location": "Remote/Flexible - United States",
+  "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746774005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Crystal Dynamics",
+  "title": "External Art Intern, Environments [Spring 2027]",
+  "location": "Remote/Flexible - United States",
+  "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746761005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Crystal Dynamics",
+  "title": "Gameplay Animation Intern [Spring 2027] ",
+  "location": "Remote/Flexible - United States",
+  "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746881005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Crystal Dynamics",
+  "title": "Gameplay Engineer Intern [Spring 2027]",
+  "location": "Remote/Flexible - United States",
+  "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Crystal Dynamics",
+  "title": "Technical Artist, Character Optimization Intern [Spring 2027]",
+  "location": "Remote/Flexible - United States",
+  "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746824005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Crystal Dynamics",
+  "title": "Technical Artist, Environment Optimization Intern [Spring 2027]",
+  "location": "Remote/Flexible - United States",
+  "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746826005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "DoorDash USA",
+  "title": "Drone Operations, Intern - Labs (Summer 2027)",
+  "location": "San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8312381",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "DoorDash USA",
+  "title": "Mechanical Engineering, Intern - Labs (Summer 2027)",
+  "location": "Oakland, CA",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8313401",
+  "posted": "2026-10-22"
+ },
+ {
   "company": "EquipmentShare",
   "title": "Intern: Payroll & Compensation",
   "location": "Columbia, MO (Headquarters)",
   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8226369",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "FanDuel",
+  "title": "Canada Commercial Co-Op - Winter/Summer 2027",
+  "location": "Toronto, Ontario, Canada",
+  "url": "https://www.fanduel.careers/open-positions?gh_jid=8314961",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Formlabs",
+  "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
+  "location": "Somerville, MA",
+  "url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Ivalua",
+  "title": "Marketing Web Development Intern",
+  "location": "New York City, NY - US",
+  "url": "https://boards.greenhouse.io/ivalua/jobs/8293704?gh_jid=8293704",
   "posted": "2026-10-22"
  },
  {
@@ -32,6 +186,27 @@
   "title": "Summer 2027 | UI Motion Artist Intern",
   "location": "San Jose, California or Remote",
   "url": "https://job-boards.greenhouse.io/nex/jobs/5461373008",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "OpenSesame",
+  "title": "AI Product Builder Intern",
+  "location": "Remote",
+  "url": "https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Peak Energy",
+  "title": "Systems Integration and Test Engineer Intern (Summer 2027)",
+  "location": "Burlingame, California",
+  "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Peak Energy",
+  "title": "Test Engineer Intern, ESS (Summer 2027)",
+  "location": "Burlingame, California",
+  "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272578007&gh_jid=5272578007",
   "posted": "2026-10-22"
  },
  {
@@ -77,10 +252,94 @@
   "posted": "2026-10-22"
  },
  {
+  "company": "Twitch",
+  "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
+  "location": "San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Twitch",
+  "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+  "location": "San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer Business Process & ERP Documentation Intern ",
+  "location": "Berthoud, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4746844005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer Combustion Devices Intern",
+  "location": "Berthoud, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4746887005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer Embedded Flight Software Intern",
+  "location": "Longmont, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4746825005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer IT Infrastructure & Automation Intern",
+  "location": "Berthoud, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4746884005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer Manufacturing Engineer Intern",
+  "location": "Berthoud, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4746828005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer Propulsion Engineer, Hypersonic Vehicle Intern",
+  "location": "Berthoud, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4746882005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer Software Development Intern",
+  "location": "Berthoud, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4746827005",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer Systems Engineering Intern",
+  "location": "Berthoud, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4746900005",
+  "posted": "2026-10-22"
+ },
+ {
   "company": "Varda Space Industries",
   "title": "Pharmaceutical Lab Internship (Crystallization) Summer 2027",
   "location": "El Segundo, California, United States",
   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8040897003",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "Varda Space Industries",
+  "title": "Construction Management Internship – Spring 2027",
+  "location": "El Segundo, California, United States",
+  "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8041944003",
+  "posted": "2026-10-22"
+ },
+ {
+  "company": "WPP Media",
+  "title": "Intern, Supply Programmatic, Italy",
+  "location": "Milan, Italy",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5461018008",
   "posted": "2026-10-22"
  },
  {
@@ -480,6 +739,13 @@
   "title": "Intern Applied AI Solution Consulting (Italy)",
   "location": "Milan, Italy",
   "url": "https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003",
+  "posted": "2026-10-19"
+ },
+ {
+  "company": "DoorDash USA",
+  "title": "Operations Research Intern (PhD), Summer 2027",
+  "location": "Sunnyvale, CA",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965",
   "posted": "2026-10-19"
  },
  {
