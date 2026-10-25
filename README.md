@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1107 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-24.
+1116 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-25.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -15,15 +15,24 @@ Open an issue or PR.
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
 | Figure | Developer Productivity Intern [Winter 2027] | San Jose, CA | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006) | 2026-10-24 |
+| Samsara | Account Development Representative Intern - Phoenix | Phoenix, Arizona, United States | [Apply](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | 2026-10-24 |
 | BGE Inc. Campus Recruiting | FAYETTEVILLE - Transportation, Internship | One Steele Plaza 3739 N. Steele Boulevard, Suite 340, Fayetteville, AR 72703 | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5461893008) | 2026-10-23 |
 | CCLFG | Intern, Investment Analytics Engagement | Vancouver, British Columbia, Canada | [Apply](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4464732009) | 2026-10-23 |
 | Celonis | Intern Deployment Engineer - Data & AI | Munich, Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7986440003?gh_jid=7986440003) | 2026-10-23 |
 | Celonis | Intern Technology Consultant - Data & AI | Munich, Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003) | 2026-10-23 |
+| Engineers Gate | Quantitative Research Intern | Singapore | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) | 2026-10-23 |
+| Epic Games | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | [Apply](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) | 2026-10-23 |
 | InMobi | Intern - Creative & Communications, People Team | Bangalore | [Apply](https://job-boards.greenhouse.io/inmobi/jobs/8207411) | 2026-10-23 |
 | MongoDB | 2027 - Software Engineering Intern, AMER | Austin; New York City; Palo Alto; San Francisco; Seattle | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) | 2026-10-23 |
 | MongoDB | 2027 - Summer Software Engineer Intern, Dublin | Dublin | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) | 2026-10-23 |
+| Olsson | Student Internship - Network and Server Infrastructure | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5462183008) | 2026-10-23 |
+| Path Robotics | Manufacturing Design Engineering Internship | Columbus, Ohio | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002) | 2026-10-23 |
+| Path Robotics | Manufacturing Design Engineering Internship - Spring 2027 | Columbus, Ohio | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8911569002?gh_jid=8911569002) | 2026-10-23 |
 | Power Digital | Digital Marketing Intern | Remote - Colombia | [Apply](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5274510007) | 2026-10-23 |
 | Power Digital | Digital Marketing Intern | Remote - Colombia | [Apply](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5274509007) | 2026-10-23 |
+| Sony Music Global Job Board | Intern, A&R | Canada, Ontario, Toronto | [Apply](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8911182002) | 2026-10-23 |
+| Sony Music Global Job Board | Intern, Media Engagement | Canada, Ontario, Toronto | [Apply](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8909563002) | 2026-10-23 |
+| Sony Music Global Job Board | Intern, Radio & Artist Engagement | Canada, Ontario, Toronto | [Apply](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8911188002) | 2026-10-23 |
 | Coinbase | Software Engineer Intern | Hybrid - Singapore | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) | 2026-10-22 |
 | Crystal Dynamics | 3D Art Intern [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746886005) | 2026-10-22 |
 | Crystal Dynamics | External Art Intern, Characters [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746774005) | 2026-10-22 |
