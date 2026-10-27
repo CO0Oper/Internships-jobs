@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1116 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-26.
+1134 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-27.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,24 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| BGE Inc. Campus Recruiting | TAMPA - Transportation, Internship | 5426 Bay Center Dr., Suite 100, Tampa, Florida 33609 | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5463345008) | 2026-10-26 |
+| Bitmovin | AI & Beyond Incubator - Software Engineering - Summer Internship | Vienna; Klagenfurt; Berlin | [Apply](https://bitmovin.com/careers/8916523002?gh_jid=8916523002) | 2026-10-26 |
+| Bitmovin | AI & Beyond Internship Incubator (Summer 2027) | Vienna; Klagenfurt; Berlin | [Apply](https://bitmovin.com/careers/8916614002?gh_jid=8916614002) | 2026-10-26 |
+| CloudKitchens | Sales Operations & Inbound SDR Intern | Paris, FRA | [Apply](https://job-boards.greenhouse.io/css/jobs/8911230002) | 2026-10-26 |
+| Doctolib | Machine Learning Engineer Intern (x/f/m) | Paris, Paris, France | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8042970003) | 2026-10-26 |
+| EquipmentShare | Intern: Talent Experience | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8318538) | 2026-10-26 |
+| Lila Sciences | Co-Op, Agentic Simulations for Materials Science | Cambridge, MA USA; San Francisco, CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465059009) | 2026-10-26 |
+| Lila Sciences | Co-Op, Automated Systems Engineer | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4462594009) | 2026-10-26 |
+| Lila Sciences | Co-Op, Cell Based Sequencing | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465070009) | 2026-10-26 |
+| Lila Sciences | Co-Op, Characterization Electrodeposited Material | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4462616009) | 2026-10-26 |
+| Lila Sciences | Co-Op, Materials Science, Heterogeneous Catalysis | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465077009) | 2026-10-26 |
+| Lila Sciences | Co-op, Mechatronics Engineer | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465068009) | 2026-10-26 |
+| Lila Sciences | Co-Op, Reaction Prediction & Benchmarking | Cambridge, MA USA; San Francisco, CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465064009) | 2026-10-26 |
+| Qube Research & Technologies | 2027 Internship - Technology | New York, Chicago | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) | 2026-10-26 |
+| Teads | Credit Manager Intern | Paris | [Apply](https://job-boards.eu.greenhouse.io/teads1/jobs/5014795101) | 2026-10-26 |
+| The Allen Institute for Artificial Intelligence | Research Internship, Open Ecosystem | Seattle, WA | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8319350) | 2026-10-26 |
+| Together AI | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) | 2026-10-26 |
+| Ursa Major | 2027 Summer Additive Manufacturing Engineering Intern | Youngstown, Ohio | [Apply](https://ursamajor.com/careers/?gh_jid=4746892005) | 2026-10-26 |
 | Figure | Developer Productivity Intern [Winter 2027] | San Jose, CA | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006) | 2026-10-24 |
 | Samsara | Account Development Representative Intern - Phoenix | Phoenix, Arizona, United States | [Apply](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | 2026-10-24 |
 | BGE Inc. Campus Recruiting | FAYETTEVILLE - Transportation, Internship | One Steele Plaza 3739 N. Steele Boulevard, Suite 340, Fayetteville, AR 72703 | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5461893008) | 2026-10-23 |
