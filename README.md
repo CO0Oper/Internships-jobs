@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1302 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-28.
+1341 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-29.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,9 +14,47 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Arc Boat Company | Manufacturing Engineering Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5466630008) | 2026-10-29 |
+| Figma | PhD Intern, Security Engineer (2027) | San Francisco, CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | 2026-10-29 |
+| OPSWAT | Software Engineering Intern - MetaDefender Cloud | Ho Chi Minh City, Ho Chi Minh City, Vietnam | [Apply](https://www.opswat.com/jobs/4746891005?gh_jid=4746891005) | 2026-10-29 |
+| OPSWAT | Software Engineering Intern - MetaDefender Cloud | Ho Chi Minh City, Ho Chi Minh City, Vietnam | [Apply](https://www.opswat.com/jobs/4746888005?gh_jid=4746888005) | 2026-10-29 |
+| AccuWeather Careers | Human Resources Intern | State College, PA | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/8331085) | 2026-10-28 |
+| ACLU - Internships | Spring 2027 Undergraduate Intern, Organizing Division - National Political Advocacy Department | Remote/Hybrid- New York | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8922560002) | 2026-10-28 |
+| ACLU - Internships | Spring 2027 Legal Intern, Affiliate Support and Nationwide Initiatives | Hybrid-Puerto Rico | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8922334002) | 2026-10-28 |
+| ACLU - Internships | Spring 2027 Undergraduate Intern, Cross Divisional Team- National Political Advocacy Department | Hybrid-Washington D.C. | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8922546002) | 2026-10-28 |
+| Ambiq Micro, Inc. | Embedded Software Intern | Singapore | [Apply](https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4404902009) | 2026-10-28 |
+| Anduril Industries | Winter 2027 Library Science Co-op | Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) | 2026-10-28 |
+| Celonis | Strategy & Operations Graduated Internship (12 months) | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8046331003?gh_jid=8046331003) | 2026-10-28 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Freeman Chair in China Studies | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469684009) | 2026-10-28 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Japan Chair | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4464393009) | 2026-10-28 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Africa Program | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469403009) | 2026-10-28 |
+| Engineers Gate | Quantitative Research Intern | Quantitative Research Intern | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8328653) | 2026-10-28 |
+| Fever | Content Creator Intern - São Paulo Secreto | Brazil | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/5018863101) | 2026-10-28 |
+| HackerRank Careers | AI Researcher Intern | Onsite in Bangalore | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) | 2026-10-28 |
+| Horace Mann | Intern - Temporary | Remote | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6236091004) | 2026-10-28 |
+| Horace Mann | Intern - Temporary | Remote | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6236094004) | 2026-10-28 |
+| Lila Sciences | Co-Op, Electron Microscopy | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469144009) | 2026-10-28 |
+| Lila Sciences | Co-Op, Finance | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469146009) | 2026-10-28 |
+| Lila Sciences | Co-Op, Structuring Scientific Data for Discovery | Cambridge, MA USA; San Francisco, CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469150009) | 2026-10-28 |
+| LinkedIn Job Wrapping | Intern - Assistant Strategic Planner - Artefact 3000 - Paris | 9th arrondissement of Paris, 75009, Paris, France | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8921975002) | 2026-10-28 |
+| Olsson | Engineering Internship - Fire Protection | Dallas, TX; Tulsa, OK | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5428797008) | 2026-10-28 |
+| Per Scholas | Internal Communications Intern | United States | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4724823006) | 2026-10-28 |
+| PrizePicks | Business Intelligence Intern - Summer 2027 | Atlanta, Georgia, United States | [Apply](http://prizepicks.com/position?gh_jid=8047188003) | 2026-10-28 |
+| PropHero | Projects Intern, Valencia | Valencia | [Apply](https://job-boards.greenhouse.io/prophero/jobs/5462385008) | 2026-10-28 |
+| Prophet | Associate Intern | Hong Kong, Singapore, Shanghai | [Apply](https://job-boards.greenhouse.io/prophet/jobs/4748408005) | 2026-10-28 |
 | Samsung Semiconductor | Intern, RTL Power Macromodeling Engineer | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003) | 2026-10-28 |
 | Samsung Semiconductor | Intern, Thermal Modeling & Simulation Engineer (AI Memory / HBM) | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003) | 2026-10-28 |
 | Samsung Semiconductor | Intern, Power-Thermal Simulation Software Engineer | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003) | 2026-10-28 |
+| Schonfeld | 2027 DMFI Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8324611) | 2026-10-28 |
+| Schonfeld | 2027 Enterprise AI Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) | 2026-10-28 |
+| SharkNinja | Spring 2027: Consumer Insights Co-op, Shark (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724022006) | 2026-10-28 |
+| SharkNinja | Spring 2027: Mechanical Engineering Co-op, Ninja (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006) | 2026-10-28 |
+| SharkNinja | Spring 2027: Product Strategy & Development Co-Op (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) | 2026-10-28 |
+| SharkNinja | Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006) | 2026-10-28 |
+| STR | Graphic Design & Technical Communications Co-Op | Woburn, MA | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4725252006) | 2026-10-28 |
+| Tenstorrent University Jobs | GTM (FAE & Customer Success) and Product Intern | Santa Clara, California, United States; Toronto, Ontario, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5274249007) | 2026-10-28 |
+| The Nuclear Company | Spring 2027 Security Engineer Intern | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008) | 2026-10-28 |
+| Vestmark Internship Program | Technical Production Operations Engineer Co-op | Wakefield, MA (on-site) | [Apply](https://job-boards.greenhouse.io/internrecruiting/jobs/8331138) | 2026-10-28 |
 | ACLU - Internships | Spring 2027 Undergraduate Graphic Design Intern, Communications Department | Remote | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8919464002) | 2026-10-27 |
 | ACLU - Internships | Spring 2027 Undergraduate Intern, Information Technology Department | Hybrid-New York City | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8917824002) | 2026-10-27 |
 | ACLU - Internships | Spring 2027 Graduate Intern, Equity, Inclusion, Diversity & Belonging -Executive Office | Hybrid- New York City | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8917885002) | 2026-10-27 |
@@ -171,6 +209,7 @@ Open an issue or PR.
 | Sony Music Global Job Board | Intern, A&R | Canada, Ontario, Toronto | [Apply](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8911182002) | 2026-10-23 |
 | Sony Music Global Job Board | Intern, Media Engagement | Canada, Ontario, Toronto | [Apply](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8909563002) | 2026-10-23 |
 | Sony Music Global Job Board | Intern, Radio & Artist Engagement | Canada, Ontario, Toronto | [Apply](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8911188002) | 2026-10-23 |
+| Spaulding Ridge | Campus Consulting Internship 2027 | Bangalore, Pune | [Apply](https://job-boards.greenhouse.io/spauldingridge/jobs/6225190004) | 2026-10-23 |
 | Stratolaunch | Supply Chain Intern- Summer 2027 | Mojave, California, United States | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5462923008) | 2026-10-23 |
 | ATOMS Careers page | AI Research Intern (PhD) | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8909115002) | 2026-10-22 |
 | Coinbase | Software Engineer Intern | Hybrid - Singapore | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) | 2026-10-22 |
