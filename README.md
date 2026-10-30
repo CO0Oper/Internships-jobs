@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1341 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-29.
+1379 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-30.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,10 +14,47 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| ACLU - Internships | Spring 2027 Legal Intern, National Political Advocacy Department- Policy & Government Affairs | Hybrid - Washington D.C. | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8924671002) | 2026-10-29 |
+| ACLU - Internships | Spring 2027 Undergraduate Intern, Nationwide Development Resources- Corporate Engagement- Development | Hybrid-New York City | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8924722002) | 2026-10-29 |
+| ACLU - Internships | Spring 2027 Undergraduate Intern, Reproductive Freedom Campaigns- National Political Advocacy Department | Remote | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8924060002) | 2026-10-29 |
+| ACLU - Internships | Spring 2027 Graduate Intern, Affiliate Support and Nationwide Initiatives - Organizational Management, Equity & Inclusion | Remote | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8923942002) | 2026-10-29 |
 | Arc Boat Company | Manufacturing Engineering Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5466630008) | 2026-10-29 |
+| Astranis | Procurement Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4725805006) | 2026-10-29 |
+| Berkshire Group, LLC | Debt Asset Management Intern | Boston Headquarters | [Apply](https://job-boards.greenhouse.io/berkshiregroupllc/jobs/4473427009) | 2026-10-29 |
+| Berkshire Group, LLC | Debt Portfolio Management & Investments Intern | Boston Headquarters | [Apply](https://job-boards.greenhouse.io/berkshiregroupllc/jobs/4473363009) | 2026-10-29 |
+| Berkshire Group, LLC | Originations and Underwriting Intern | New York, NY, USA | [Apply](https://job-boards.greenhouse.io/berkshiregroupllc/jobs/4472454009) | 2026-10-29 |
+| Berkshire Group, LLC | Portfolio and Asset Management Intern | Boston Headquarters | [Apply](https://job-boards.greenhouse.io/berkshiregroupllc/jobs/4472510009) | 2026-10-29 |
+| Berkshire Group, LLC | Sustainability Intern | Boston Headquarters | [Apply](https://job-boards.greenhouse.io/berkshiregroupllc/jobs/4471213009) | 2026-10-29 |
+| Catawiki | Digital Marketing Intern | Netherlands | [Apply](https://job-boards.greenhouse.io/catawiki/jobs/8333754) | 2026-10-29 |
+| Cloudflare | Product Manager Intern (2027) - London, UK | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914) | 2026-10-29 |
+| Cloudflare | Product Manager Intern (2027) - Austin, TX | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790) | 2026-10-29 |
+| Cloudflare | Product Manager Intern (2027) - Lisbon, PT | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008) | 2026-10-29 |
+| Divergent | Summer 2027 Learning Architecture and Design Intern | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393542008) | 2026-10-29 |
 | Figma | PhD Intern, Security Engineer (2027) | San Francisco, CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | 2026-10-29 |
+| Hasbro | 2027 Spring - Electrical Engineering Co-op (Jan - July 2027) | Boston, Massachusetts, United States | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4472128009) | 2026-10-29 |
+| Hasbro | 2027 Spring - Packaging Engineer Co-op (Jan - July 2027) | Boston, Massachusetts, United States | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4472758009) | 2026-10-29 |
+| Heart Aerospace | Mechanical Design Intern, Mechanical Systems | Los Angeles, CA | [Apply](https://job-boards.greenhouse.io/heartaerospace/jobs/4472809009) | 2026-10-29 |
+| Hut 8 | Civil & Structural Engineering Intern, Data Center Infrastructure | Miami, FL | [Apply](https://job-boards.greenhouse.io/hut8/jobs/5467200008) | 2026-10-29 |
+| Hut 8 | Mechanical Engineering Intern, Data Center Infrastructure | Miami, FL | [Apply](https://job-boards.greenhouse.io/hut8/jobs/5467189008) | 2026-10-29 |
+| Hut 8 | Electrical Engineering Intern, Data Center Infrastructure | Miami, FL | [Apply](https://job-boards.greenhouse.io/hut8/jobs/5467197008) | 2026-10-29 |
+| Hydrite | HR & Talent Acquisition Intern | Brookfield, WI | [Apply](https://job-boards.greenhouse.io/hydritechemicalco/jobs/8334008) | 2026-10-29 |
+| Langan Engineering & Environmental Services | Intern/Co-op – Land Surveying (Summer 2027) | Princeton, NJ | [Apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4459278009) | 2026-10-29 |
+| LinkedIn Job Wrapping | Intern - Chief of Staff to the Group CMO - Paris | 9th arrondissement of Paris, 75009, Paris, France | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8923146002) | 2026-10-29 |
+| Lunar Energy | Hardware Test Engineering Intern | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004) | 2026-10-29 |
+| One Acre Fund | Ethiopia Program Support Intern | Addis Ababa | [Apply](https://oneacrefund.org/vacancies/?gh_jid=8288558) | 2026-10-29 |
 | OPSWAT | Software Engineering Intern - MetaDefender Cloud | Ho Chi Minh City, Ho Chi Minh City, Vietnam | [Apply](https://www.opswat.com/jobs/4746891005?gh_jid=4746891005) | 2026-10-29 |
 | OPSWAT | Software Engineering Intern - MetaDefender Cloud | Ho Chi Minh City, Ho Chi Minh City, Vietnam | [Apply](https://www.opswat.com/jobs/4746888005?gh_jid=4746888005) | 2026-10-29 |
+| OPSWAT | Support Engineering Intern | Bengaluru, Karnataka, India | [Apply](https://www.opswat.com/jobs/4743938005?gh_jid=4743938005) | 2026-10-29 |
+| Optiver | Compliance Intern – Regulatory Advisory | Chicago, Illinois, United States | [Apply](https://www.optiver.com/join-us/jobs/8905975002/?gh_jid=8905975002) | 2026-10-29 |
+| Path Robotics | Machine Learning & Robotics Internship 2027 | Columbus, Ohio | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8924241002?gh_jid=8924241002) | 2026-10-29 |
+| Reolink | Internship ( International Business / Marketing ) | Singapore | [Apply](https://job-boards.greenhouse.io/reolink/jobs/4472182009) | 2026-10-29 |
+| Reolink | Social Media & Marketing Intern (Amazon / Official Website) | Singapore | [Apply](https://job-boards.greenhouse.io/reolink/jobs/4472181009) | 2026-10-29 |
+| Rocket Lab Corporation | Quality Engineering Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042031003) | 2026-10-29 |
+| Samsung Semiconductor | Intern, Systems Software Engineering | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003) | 2026-10-29 |
+| Stratolaunch | Security Intern- Summer 2027 | Mojave, California, United States | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5466978008) | 2026-10-29 |
+| Tamara | Merchant Acquisition Intern | Abu Dhabi, United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/tamara/jobs/5017363101) | 2026-10-29 |
+| Two Six Technologies | Systems Software Engineering Intern | Arlington, Virginia | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004) | 2026-10-29 |
+| Vestmark Internship Program | Cloud Engineer Co-op | Wakefield, MA (Hybrid) | [Apply](https://job-boards.greenhouse.io/internrecruiting/jobs/8310712) | 2026-10-29 |
 | AccuWeather Careers | Human Resources Intern | State College, PA | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/8331085) | 2026-10-28 |
 | ACLU - Internships | Spring 2027 Undergraduate Intern, Organizing Division - National Political Advocacy Department | Remote/Hybrid- New York | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8922560002) | 2026-10-28 |
 | ACLU - Internships | Spring 2027 Legal Intern, Affiliate Support and Nationwide Initiatives | Hybrid-Puerto Rico | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8922334002) | 2026-10-28 |
@@ -30,6 +67,7 @@ Open an issue or PR.
 | Center for Strategic and International Studies, Inc. | Spring Intern, Africa Program | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469403009) | 2026-10-28 |
 | Engineers Gate | Quantitative Research Intern | Quantitative Research Intern | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8328653) | 2026-10-28 |
 | Fever | Content Creator Intern - São Paulo Secreto | Brazil | [Apply](https://job-boards.eu.greenhouse.io/feverup/jobs/5018863101) | 2026-10-28 |
+| Garda Capital Partners | Software Engineer Intern (C#) | Wayzata, Minnesota, United States | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6238021004) | 2026-10-28 |
 | HackerRank Careers | AI Researcher Intern | Onsite in Bangalore | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) | 2026-10-28 |
 | Horace Mann | Intern - Temporary | Remote | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6236091004) | 2026-10-28 |
 | Horace Mann | Intern - Temporary | Remote | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6236094004) | 2026-10-28 |
