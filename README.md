@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1379 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-30.
+1428 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-10-31.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,55 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| AccuWeather Careers | Editorial Intern (Spring 2027) | State College, PA; Wichita, KS; New York, NY; or Remote | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/8337176) | 2026-10-30 |
+| Aircall.io, Inc. | Sales Development Intern - French Market | Paris Office | [Apply](https://job-boards.greenhouse.io/aircallioinc/jobs/4455875009) | 2026-10-30 |
+| Anduril Industries | Fall 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007) | 2026-10-30 |
+| Apex Companies | Transportation Engineering Co-op (Spring 2027) | Quincy, MA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5459108008) | 2026-10-30 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Chair on India and Emerging Asia Economics | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469511009) | 2026-10-30 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Critical Minerals Security Program | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4462565009) | 2026-10-30 |
+| Divergent | Summer 2027 Business Intelligence Intern | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393519008) | 2026-10-30 |
+| ENSCO, Inc. | Information Security Intern | Melbourne, Florida, United States | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5467125008) | 2026-10-30 |
+| Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003) | 2026-10-30 |
+| Fussball Club Cincinnati LLC (“FC Cincinnati”) | First Team Sports Science Intern | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8107647003) | 2026-10-30 |
+| Fussball Club Cincinnati LLC (“FC Cincinnati”) | Guest Experience Intern | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8106933003) | 2026-10-30 |
+| Fussball Club Cincinnati LLC (“FC Cincinnati”) | Design Intern | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8083877003) | 2026-10-30 |
+| Garda Capital Partners | Infrastructure Engineer Intern | Wayzata, Minnesota, United States | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6239821004) | 2026-10-30 |
+| GCM Grosvenor | 2027 Cybersecurity Summer Intern | Chicago, Illinois, United States | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003) | 2026-10-30 |
+| GCM Grosvenor | 2027 IT Operations Summer Intern | Chicago, Illinois, United States | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035967003) | 2026-10-30 |
+| Hudl | Partnerships Intern | Lincoln, NE, United States | [Apply](https://job-boards.greenhouse.io/hudl/jobs/8188917) | 2026-10-30 |
+| LAPORTE L.C.C. | Business Operations Intern (Paid, Part-Time) | West Chester, PA | [Apply](https://job-boards.greenhouse.io/laporteusa/jobs/5467666008) | 2026-10-30 |
+| LIFT | Communications Intern (Internal LIFT Applicants Only) | Washington, DC | [Apply](https://job-boards.greenhouse.io/lift/jobs/8903940002) | 2026-10-30 |
+| Lila Sciences | Co-Op, SCADA Engineer | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4467407009) | 2026-10-30 |
+| Lila Sciences | Co-Op, Editorial Content | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4472542009) | 2026-10-30 |
+| Lila Sciences | Co-Op, AI-Driven Equation Discovery | Cambridge, MA USA; San Francisco, CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009) | 2026-10-30 |
+| Lila Sciences | Co-Op, Bayesian Methods for Complex Decision Making | Cambridge, MA USA; San Francisco, CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469148009) | 2026-10-30 |
+| LinkedIn Job Wrapping | Intern SMA Consultant - Paris | 9th arrondissement of Paris, 75009, Paris, France | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8925412002) | 2026-10-30 |
+| OneTrust | Sales Development Intern | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/onetrust/jobs/8288989) | 2026-10-30 |
+| Power Digital | Digital Marketing Intern (Paid Media, Social Media, SEO, Creative, Retail & R&D) | Remote - Colombia | [Apply](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5280807007) | 2026-10-30 |
+| Samsung Semiconductor | Intern, SRAM Design Engineer | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003) | 2026-10-30 |
+| SharkNinja | Spring 2027: HW UX/UI Design Co-op (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721298006) | 2026-10-30 |
+| Sigmoid | Resource Management Analyst Intern | Bengaluru, Karnataka, India | [Apply](https://job-boards.greenhouse.io/sigmoid/jobs/8921297002) | 2026-10-30 |
+| Stratolaunch | Manufacturing (Systems) Engineering Intern Summer 2027 | Mojave, California, United States | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) | 2026-10-30 |
+| Stratolaunch | Manufacturing (Electrical) Engineering Intern Summer 2027 | Mojave, California, United States | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008) | 2026-10-30 |
+| Stratolaunch | Manufacturing Engineering Intern Summer 2027 | Mojave, California, United States | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467828008) | 2026-10-30 |
+| Stripe | PhD Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | [Apply](https://stripe.com/jobs/search?gh_jid=8328662) | 2026-10-30 |
+| Stripe | Master's Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | [Apply](https://stripe.com/jobs/search?gh_jid=8333074) | 2026-10-30 |
+| Stripe | Master's Machine Learning Engineer, Intern | Toronto | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) | 2026-10-30 |
+| Stripe | PhD Machine Learning Engineer, Intern | Toronto | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) | 2026-10-30 |
+| The New York Times | Advertising Business Operations & Enablement Operations Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748487005) | 2026-10-30 |
+| The New York Times | Advertising Revenue Operations Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748489005) | 2026-10-30 |
+| The New York Times | Audience Team Intern, Wirecutter | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748501005) | 2026-10-30 |
+| The New York Times | Backend Engineering Intern, Wirecutter | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005) | 2026-10-30 |
+| The New York Times | Communications Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748228005) | 2026-10-30 |
+| The New York Times | Creative Development Intern, Wirecutter | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748297005) | 2026-10-30 |
+| The New York Times | Editorial Design Intern, Wirecutter | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005) | 2026-10-30 |
+| The New York Times | Editorial Projects Intern, Wirecutter | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748499005) | 2026-10-30 |
+| The New York Times | Kitchen Team Intern, Wirecutter | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748503005) | 2026-10-30 |
+| The New York Times | Marketing Intern, Wirecutter | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748485005) | 2026-10-30 |
+| The New York Times | Product Design Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005) | 2026-10-30 |
+| The New York Times | Product Management Intern, Wirecutter | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005) | 2026-10-30 |
+| Uber Freight | AP/AR Intern - QRO | Querétaro, QT 76116, Mexico | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5468622008) | 2026-10-30 |
+| Uber Freight | AP/AR Intern-MTY | Monterrey, NL 64640, Mexico | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5468623008) | 2026-10-30 |
 | ACLU - Internships | Spring 2027 Legal Intern, National Political Advocacy Department- Policy & Government Affairs | Hybrid - Washington D.C. | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8924671002) | 2026-10-29 |
 | ACLU - Internships | Spring 2027 Undergraduate Intern, Nationwide Development Resources- Corporate Engagement- Development | Hybrid-New York City | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8924722002) | 2026-10-29 |
 | ACLU - Internships | Spring 2027 Undergraduate Intern, Reproductive Freedom Campaigns- National Political Advocacy Department | Remote | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8924060002) | 2026-10-29 |
