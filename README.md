@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1428 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-01.
+1435 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-02.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,13 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| KnowBe4 | Sales Development Representative Summer Internship (Hybrid) | Arlington, Virginia | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919174002) | 2026-11-01 |
+| KnowBe4 | Demand Generation Summer Internship (Hybrid) | Arlington, Virginia | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919215002) | 2026-11-01 |
+| KnowBe4 | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) | 2026-11-01 |
+| KnowBe4 | Sales Development Representative Summer Internship (Hybrid) | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919154002) | 2026-11-01 |
+| KnowBe4 | Sales Development Representative Summer Internship (Hybrid) | New York, New York | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919183002) | 2026-11-01 |
+| KnowBe4 | Software Engineer Summer Internship | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002) | 2026-11-01 |
+| KnowBe4 | Demand Generation Summer Internship (Hybrid) | New York, New York | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919201002) | 2026-11-01 |
 | AccuWeather Careers | Editorial Intern (Spring 2027) | State College, PA; Wichita, KS; New York, NY; or Remote | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/8337176) | 2026-10-30 |
 | Aircall.io, Inc. | Sales Development Intern - French Market | Paris Office | [Apply](https://job-boards.greenhouse.io/aircallioinc/jobs/4455875009) | 2026-10-30 |
 | Anduril Industries | Fall 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007) | 2026-10-30 |
