@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1435 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-02.
+1500 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-03.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,69 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| ACLU - Internships | Spring 2027 Legal Intern, Affiliate Support and Nationwide Initiatives- Communications | Hybrid-Puerto Rico | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927728002) | 2026-11-03 |
+| ACLU - Internships | Spring 2027 Undergraduate Intern, Product & Technology Department | Remote/Hybrid- New York | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927658002) | 2026-11-03 |
+| ACLU - Internships | Spring 2027 Legal Intern, National Political Advocacy Department - Policy & Government Affairs | Hybrid - Washington D.C. | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927795002) | 2026-11-03 |
+| ExodusPoint | Hong Kong - Internship - RV Analyst | Hong Kong | [Apply](https://job-boards.greenhouse.io/exoduspoint/jobs/8927873002) | 2026-11-03 |
+| Figure | Integration & Test - Mechanical Engineering Intern [Winter 2027] | San Jose, CA | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4726631006) | 2026-11-03 |
+| Carta | Marketing Intern | Singapore | [Apply](https://job-boards.greenhouse.io/carta/jobs/8154341003) | 2026-11-02 |
+| Divergent | Summer 2027 Production Business Intelligence Intern | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393537008) | 2026-11-02 |
+| Environmental Science Associates | Intern - Florida Environmental Internship (Winter and Summer 2027) | Tampa, Florida, United States | [Apply](https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5457591008) | 2026-11-02 |
+| EquipmentShare | Intern: Shop Technician (Pump, Power & HVAC) | Hartford, CT (Advanced Solutions) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8337003) | 2026-11-02 |
+| Fanatics Collectibles | Packaging Engineer Co-op Intern | Sunnyvale, TX, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4475040009) | 2026-11-02 |
+| Flagship Pioneering, Inc. | Flagship Pioneering ML Internship | Cambridge, MA USA | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002?gh_jid=8782467002) | 2026-11-02 |
+| Formlabs | Talent Acquisition Intern | Budapest, Hungary | [Apply](https://careers.formlabs.com/job/8347347/apply/?gh_jid=8347347) | 2026-11-02 |
+| Fussball Club Cincinnati LLC (“FC Cincinnati”) | Social Media Intern | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8107560003) | 2026-11-02 |
+| Fussball Club Cincinnati LLC (“FC Cincinnati”) | Communications Intern | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8160430003) | 2026-11-02 |
+| Galaxy | 2027 Investment Banking Intern - NYC | New York | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6240963004) | 2026-11-02 |
+| Karya | Research Engineering Intern, AI Evaluations | Bengaluru, India | [Apply](https://job-boards.greenhouse.io/karya/jobs/5469564008) | 2026-11-02 |
+| Keeley Construction | Spring 2027 Talent Acquisition Co-Op (Full-Time) | St. Louis, Missouri, United States | [Apply](https://job-boards.greenhouse.io/keeleyconstruction/jobs/4749988005) | 2026-11-02 |
+| KnowBe4 | Compliance Summer Internship (Remote) | Remote | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8926721002) | 2026-11-02 |
+| Lila Sciences | Co-op, Agentic and Generative Protein Design | Cambridge, MA USA; San Francisco, CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) | 2026-11-02 |
+| Lila Sciences | Co-Op, Targeted Non-Viral Delivery | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4472544009) | 2026-11-02 |
+| MATTE PROJECTS | Creative Content Intern - Winter/Spring 2027 (On-Site) | New York, New York | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6240645004) | 2026-11-02 |
+| MATTE PROJECTS | Design Internship - Winter/Spring 2027 (On-Site) | New York, New York | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6240686004) | 2026-11-02 |
+| MATTE PROJECTS | Operations Intern - Winter/Spring 2027 (On-Site) | New York, New York | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6241532004) | 2026-11-02 |
+| MATTE PROJECTS | Creative & AI Intern - Winter/Spring 2027 (On-Site) | NEW YORK, New York | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6240634004) | 2026-11-02 |
+| MATTE PROJECTS | Edit Intern - Winter/Spring 2027 | New York, New York | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6240717004) | 2026-11-02 |
+| MATTE PROJECTS | Experiential Design Intern - Winter/Spring 2027 (On-Site) | New York, New York | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6241529004) | 2026-11-02 |
+| Mission Healthcare | On-Boarding Coordinator Intern (HR) | San Diego, CA | [Apply](https://job-boards.greenhouse.io/missionhealthcare/jobs/4475854009) | 2026-11-02 |
+| Moment Energy | Certification Engineer Co-op | Surrey, BC | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4475608009) | 2026-11-02 |
+| Olsson | Structural Engineering Internship - Bridge | Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5469628008) | 2026-11-02 |
+| ParetoHealth | Cost Containment Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725323006) | 2026-11-02 |
+| ParetoHealth | Finance Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725309006) | 2026-11-02 |
+| ParetoHealth | Information Technology Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725319006) | 2026-11-02 |
+| ParetoHealth | Underwriting Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725315006) | 2026-11-02 |
+| ParetoHealth | Customer Management Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725328006) | 2026-11-02 |
+| ParetoHealth | Growth Operations Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726002006) | 2026-11-02 |
+| ParetoHealth | People Team Summer Intern (Human Resources) | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725619006) | 2026-11-02 |
+| ParetoHealth | Product Manager Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) | 2026-11-02 |
+| ParetoHealth | Sales Associate Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725332006) | 2026-11-02 |
+| ParetoHealth | Software Engineering Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) | 2026-11-02 |
+| ParetoHealth | Analytics Summer Intern | Philadelphia, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006) | 2026-11-02 |
+| Qube Research & Technologies | 2027 - Internship, Surveillance | London | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926644002) | 2026-11-02 |
+| Qube Research & Technologies | 2027 - Internship, Business Data Analytics | London | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002) | 2026-11-02 |
+| Qube Research & Technologies | 2027 - Internship, HR Technology | London | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002) | 2026-11-02 |
+| Re:Build Manufacturing | Summer Intern Mechanical Engineer | Wilmington, MA | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4748466005) | 2026-11-02 |
+| Rocket Lab Corporation | Ground Systems Engineering Intern Spring 2027 | Middle River, MD | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042094003) | 2026-11-02 |
+| Rocket Lab Corporation | Ground Systems Engineering Intern Summer 2027 | Middle River, MD | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) | 2026-11-02 |
+| Samsung Semiconductor | Intern, AI Application Engineer | Folsom, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) | 2026-11-02 |
+| STR | 5G SA O-RAN Test Bed Co-Op (Engineering Co-Op) | Woburn, MA | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4726405006) | 2026-11-02 |
+| The New York Times | Marketing Intern, Games | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4749836005) | 2026-11-02 |
+| Toshiba Global Commerce Solutions - External | Agentic Software Engineering Intern | Durham, NC | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007) | 2026-11-02 |
+| Toshiba Global Commerce Solutions - External | AI Automation & Revenue Ops Intern | Durham, NC | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007) | 2026-11-02 |
+| Toshiba Global Commerce Solutions - External | Marketing & Event Logistics Intern | Durham, NC | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281355007) | 2026-11-02 |
+| Toshiba Global Commerce Solutions - External | Agentic Software Engineering Intern | Frisco, TX | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281707007) | 2026-11-02 |
+| Toshiba Global Commerce Solutions - External | AI Data Science & Business Analytics Intern | Durham, NC | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007) | 2026-11-02 |
+| Toshiba Global Commerce Solutions - External | Industrial Design Intern | Durham, NC | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274347007) | 2026-11-02 |
+| Toshiba Global Commerce Solutions - External | Website Marketing Intern | Durham, NC | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281356007) | 2026-11-02 |
+| Toshiba Global Commerce Solutions - External | Software Engineering Intern | Durham, NC | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007) | 2026-11-02 |
+| Trace3 | Workplace AI Intern | Detroit, MI | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8274799) | 2026-11-02 |
+| Verkada | Sales Development Representative, Internship | Austin, TX United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4995135007) | 2026-11-02 |
+| Veterinary Emergency Group (VEG) | Intern IT Support Specialist I - White Plains, NY | VEG Headquarters, White Plains, NY | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6233349004?gh_jid=6233349004) | 2026-11-02 |
+| Woolpert | Intern, Aviation Planning (Spring 2027) | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4474136009) | 2026-11-02 |
+| WPP Media | Intern, Activation Search & Social, Italy | Milan, Italy | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5469547008) | 2026-11-02 |
+| WPP Media | Intern, Activation Digital Planning, Italy | Milan, Italy | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5469549008) | 2026-11-02 |
 | KnowBe4 | Sales Development Representative Summer Internship (Hybrid) | Arlington, Virginia | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919174002) | 2026-11-01 |
 | KnowBe4 | Demand Generation Summer Internship (Hybrid) | Arlington, Virginia | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919215002) | 2026-11-01 |
 | KnowBe4 | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002) | 2026-11-01 |
@@ -21,6 +84,7 @@ Open an issue or PR.
 | KnowBe4 | Sales Development Representative Summer Internship (Hybrid) | New York, New York | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919183002) | 2026-11-01 |
 | KnowBe4 | Software Engineer Summer Internship | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002) | 2026-11-01 |
 | KnowBe4 | Demand Generation Summer Internship (Hybrid) | New York, New York | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919201002) | 2026-11-01 |
+| KnowBe4 | Associate Product Manager Summer Internship (Hybrid) | Clearwater, Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) | 2026-11-01 |
 | AccuWeather Careers | Editorial Intern (Spring 2027) | State College, PA; Wichita, KS; New York, NY; or Remote | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/8337176) | 2026-10-30 |
 | Aircall.io, Inc. | Sales Development Intern - French Market | Paris Office | [Apply](https://job-boards.greenhouse.io/aircallioinc/jobs/4455875009) | 2026-10-30 |
 | Anduril Industries | Fall 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007) | 2026-10-30 |
@@ -29,6 +93,7 @@ Open an issue or PR.
 | Center for Strategic and International Studies, Inc. | Spring Intern, Critical Minerals Security Program | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4462565009) | 2026-10-30 |
 | Divergent | Summer 2027 Business Intelligence Intern | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393519008) | 2026-10-30 |
 | ENSCO, Inc. | Information Security Intern | Melbourne, Florida, United States | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5467125008) | 2026-10-30 |
+| Epic Games | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | [Apply](https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004) | 2026-10-30 |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003) | 2026-10-30 |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | First Team Sports Science Intern | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8107647003) | 2026-10-30 |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Guest Experience Intern | Cincinnati, OH | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8106933003) | 2026-10-30 |
