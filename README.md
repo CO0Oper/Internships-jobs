@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1542 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-04.
+1579 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-05.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,8 +14,45 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| BGE Inc. Campus Recruiting | NASHVILLE - Land/Site Development, Internship | 1111 Metropolitan Avenue, Suite 250, ​Charlotte, North Carolina 28204 | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5473736008) | 2026-11-04 |
 | CASETiFY | Marketing Intern - Korea (Full-time - 6 month) | Kwun Tong, Hong Kong | [Apply](https://job-boards.greenhouse.io/casetify/jobs/6123067004) | 2026-11-04 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Asia Maritime Transparency Initiative | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4476570009) | 2026-11-04 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Center for the Industrial Base | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4474425009) | 2026-11-04 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Americas Program | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4476492009) | 2026-11-04 |
+| David Zwirner | Communications & Photography Intern | London, UK | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5285287007) | 2026-11-04 |
+| Figma | PhD Intern, Software Engineer - Interaction Design (2027) | San Francisco, CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) | 2026-11-04 |
+| GCM Grosvenor | 2027 Treasury Summer Intern | Chicago, Illinois, United States | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8004540003) | 2026-11-04 |
+| GoFundMe | MBA Business Operations Intern, Summer 2027 | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8350137) | 2026-11-04 |
+| Hawthorne Machinery Co. | Engineering Intern | Waipahu HI | [Apply](https://job-boards.greenhouse.io/hawthornemachineryco/jobs/5472056008) | 2026-11-04 |
+| Landor | Springboard Internship - Creative 2D | Mumbai | [Apply](https://job-boards.greenhouse.io/landor/jobs/8349400) | 2026-11-04 |
+| Landor | Springboard Internship - Strategy | Mumbai | [Apply](https://job-boards.greenhouse.io/landor/jobs/8349420) | 2026-11-04 |
+| LG Electronics | Vanderbilt University x LG Electronics Summer Internship Program | Englewood Cliffs, NJ | [Apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5473012008) | 2026-11-04 |
+| MetOx International, Inc. | Mechanical Engineering Co-Op/Intern (Summer & Fall 2027) | Houston, TX | [Apply](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5471476008) | 2026-11-04 |
+| Minitab | Talent Acquisition Intern | State College, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8195883003) | 2026-11-04 |
+| Minitab | Technical Operations Intern | State College, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8193723003) | 2026-11-04 |
+| Mirakl | Legal Intern - Product & Compliance - July 2027 | Paris, France | [Apply](https://job-boards.greenhouse.io/mirakl/jobs/6247172004) | 2026-11-04 |
+| PatientPoint | Process Improvement & Training Intern | Cincinnati, Ohio, United States | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4751034005) | 2026-11-04 |
+| Praxis Precision Medicines, Inc. | Intern, Non-Clinical Safety | United States - Remote | [Apply](https://job-boards.greenhouse.io/praxisprecisionmedicines/jobs/5431099008) | 2026-11-04 |
+| Prodigal | People Ops Intern | Mumbai | [Apply](https://job-boards.greenhouse.io/prodigal/jobs/5284033007) | 2026-11-04 |
+| Samsung Research America Internship | 2027 Spring Intern, Robotics Lab | 665 Clyde Avenue, Mountain View, CA, USA | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927812002) | 2026-11-04 |
+| Sezzle | Fraud Operations Intern | Brazil | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8195974003) | 2026-11-04 |
+| Sezzle | Graphic Design Intern | Argentina | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8195954003) | 2026-11-04 |
+| Sezzle | Graphic Design Intern | Brazil | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8195951003) | 2026-11-04 |
+| Sezzle | Graphic Design Intern | Mexico | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8195952003) | 2026-11-04 |
+| Sezzle | Fraud Operations Intern | Argentina | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8195970003) | 2026-11-04 |
+| Sezzle | Fraud Operations Intern | Chile | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8195987003) | 2026-11-04 |
+| SharkNinja | Summer 2027: Industrial Design Intern (May through August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006) | 2026-11-04 |
+| SharkNinja | Spring 2027: CMF Industrial Design Co-op (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006) | 2026-11-04 |
+| SharkNinja | Spring 2027: Design & Engineering Co-op (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726759006) | 2026-11-04 |
+| SharkNinja | Spring 2027: Mechanical Engineering Co-op, Wearable and Biomedical Devices (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727128006) | 2026-11-04 |
+| SharkNinja | Spring 2027: Product Development Co-op, Shark (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726452006) | 2026-11-04 |
+| SharkNinja | Spring 2027: Product Integrity Co-op (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726437006) | 2026-11-04 |
+| SharkNinja | Spring 2027: Quality Engineering Co-op, Shark (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723761006) | 2026-11-04 |
 | Stratolaunch | IT Intern- Summer 2027 | Mojave, California, United States | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5471933008) | 2026-11-04 |
+| The New York Times | Advertising Events & Socials Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751091005) | 2026-11-04 |
+| The New York Times | Copywriter, TBrand Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750883005) | 2026-11-04 |
+| The New York Times | Creative Production, TBrand Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750885005) | 2026-11-04 |
+| The New York Times | Advertising Marketing Design Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751089005) | 2026-11-04 |
 | ACLU - Internships | Spring 2027 Legal Intern, Affiliate Support and Nationwide Initiatives- Communications | Hybrid-Puerto Rico | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927728002) | 2026-11-03 |
 | ACLU - Internships | Spring 2027 Undergraduate Intern, Product & Technology Department | Remote/Hybrid- New York | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927658002) | 2026-11-03 |
 | ACLU - Internships | Spring 2027 Legal Intern, National Political Advocacy Department - Policy & Government Affairs | Hybrid - Washington D.C. | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8927795002) | 2026-11-03 |
