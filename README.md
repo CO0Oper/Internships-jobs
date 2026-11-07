@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1612 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-06.
+1678 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-07.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,10 +14,76 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Agoda | [Cooperative Internship 2027] Back-end Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335928) | 2026-11-06 |
+| Agoda | [Cooperative Internship 2027] Data Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335925) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Back-end Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358244) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Back-end Internship BKK, GPT Tools | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8355555) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] CEG Data Analytics Intern (Bangkok Based) | Bangkok | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335899) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] CEG Project Management Intern - Commercial (Non-technical) (Bangkok Based) | Bangkok | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335897) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] CEG Project Management Intern, Technical (Bangkok Based) | Bangkok | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335898) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Corporate Strategy Intern | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8329779) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Data Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358247) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Data Platform Intern, Devops | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335927) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Finance Intern, Marketing Procurement (Bangkok Based) | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335901) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Infrastructure Internship BKK | Bangkok | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358261) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Legal Operations Intern (Bangkok Based) | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335915) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] People Intern, Sustainability | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8305517) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Thailand Government Affairs Intern | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8357802) | 2026-11-06 |
+| Agoda | [Cooperative Internship 2027] Full-stack Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358252) | 2026-11-06 |
+| Agoda | [MBA Summer Internship 2027] CEG Project Management Intern (Bangkok Based) | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335900) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Full-stack Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335922) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] People Intern, Learning and Development | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8305510) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Supply Full-stack Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335924) | 2026-11-06 |
+| Agoda | [Cooperative Internship 2027] Data Pipeline Intern BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358205) | 2026-11-06 |
+| Agoda | [Cooperative Internship 2027] Data Platform Intern, Devops | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358246) | 2026-11-06 |
+| Agoda | [Cooperative Internship 2027] Infrastructure Internship BKK | Bangkok | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335941) | 2026-11-06 |
+| Agoda | [Cooperative Internship 2027] Security Analyst Intern, Security team | Bangkok | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8305482) | 2026-11-06 |
+| Agoda | [Summer Internship 2027] Legal Intern, Employment & Corporate Governance (Bangkok Based) | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8355617) | 2026-11-06 |
+| Astranis | Embedded Software Developer, Network/Payload Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704571006) | 2026-11-06 |
+| Brave | Software Engineering Intern - Waterloo University - Winter Session | Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8360001) | 2026-11-06 |
+| Capco | Technical Consulting Intern | Canada - Toronto | [Apply](https://job-boards.greenhouse.io/capco/jobs/8359772) | 2026-11-06 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Warfare, Irregular Threats, and Terrorism Program | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4474537009) | 2026-11-06 |
+| Cloudflare | People Team Intern, HR Transformation (Winter 2027) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8350166?gh_jid=8350166) | 2026-11-06 |
+| Duolingo | AI Research Intern (PhD) | New York, NY; Pittsburgh, PA | [Apply](https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002) | 2026-11-06 |
+| Epic Games | Player Marketing Intern (MBA) | Cary,North Carolina,United States | [Apply](https://epicgames.com/careers/jobs/6218206004?gh_jid=6218206004) | 2026-11-06 |
+| Galaxy | 2027 Digital Infrastructure Intern - NYC | New York | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004) | 2026-11-06 |
+| Galaxy | 2027 Research Intern - NYC | New York | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250004004) | 2026-11-06 |
+| Galaxy | 2027 Risk Intern - NYC | New York | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250062004) | 2026-11-06 |
+| GCM Grosvenor | 2027 Fund Accounting Summer Intern | Chicago, Illinois, United States | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7989281003) | 2026-11-06 |
+| Hootsuite | Co-op/Intern, DevOps - Winter 2027 | Alberta, British Columbia | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8359242) | 2026-11-06 |
+| Hootsuite | Co-op/Intern, Software Development - Winter 2027 | Vancouver, BC, Toronto, ON | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8360176) | 2026-11-06 |
+| Lila Sciences | Co-op, AI for Protein Design | San Francisco, CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4480337009) | 2026-11-06 |
+| Lucid Software | GTM Operations & Strategy Intern | Salt Lake City, UT | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6250081004) | 2026-11-06 |
+| Marshall Wace | 2027 MBA Intern-Global Healthcare Non-Therapeutics | New York | [Apply](https://job-boards.greenhouse.io/marshallwace/jobs/8933768002) | 2026-11-06 |
+| Monumental Sports & Entertainment | Internship: Events Services (Part-Time/Seasonal) | Fairfax, VA 22030 | [Apply](https://job-boards.greenhouse.io/monumentalsports/jobs/5287399007) | 2026-11-06 |
+| Point72 | 2027 Trader Summer Intern (12-week program) | Hong Kong Japan | [Apply](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) | 2026-11-06 |
+| Point72 | Corporate Access Intern | Hong Kong | [Apply](https://boards.greenhouse.io/point72/jobs/8878966002?gh_jid=8878966002) | 2026-11-06 |
+| Point72 | Long/Short Equity Support Research Intern, Hong Kong | Hong Kong | [Apply](https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002) | 2026-11-06 |
+| Point72 | 2027 Economist Intern | Singapore | [Apply](https://boards.greenhouse.io/point72/jobs/8932491002?gh_jid=8932491002) | 2026-11-06 |
+| Point72 | 2027 MI Data Research & AI Intern - APAC | Hong Kong, Singapore, Japan | [Apply](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) | 2026-11-06 |
 | Raft Company Website | Data Engineering Intern - Summer 2027 | McLean, Virginia | [Apply](https://job-boards.greenhouse.io/raft/jobs/6239800004) | 2026-11-06 |
 | Raft Company Website | DevOps Engineering Intern - Summer 2027 | McLean, Virginia | [Apply](https://job-boards.greenhouse.io/raft/jobs/6239819004) | 2026-11-06 |
 | Raft Company Website | AI/ML Intern - Summer 2027 | McLean, Virginia, United States | [Apply](https://job-boards.greenhouse.io/raft/jobs/6240555004) | 2026-11-06 |
 | Raft Company Website | Full Stack Engineering Intern - Summer 2027 | McLean, Virginia | [Apply](https://job-boards.greenhouse.io/raft/jobs/6240549004) | 2026-11-06 |
+| Rush Street Interactive | Player Support Internship- Spring 2027 | New Jersey | [Apply](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/6251554004) | 2026-11-06 |
+| Samsara | Software Engineering Internship - San Francisco | San Francisco - SF9 | [Apply](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) | 2026-11-06 |
+| SharkNinja | Spring 2027: AI/Sharks Applied AI & Analytics Co-op (January to June) | Miami, Florida, United States; Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006) | 2026-11-06 |
+| Sony Music Global Job Board | Intern, Commercial Partnerships | Canada, Ontario, Toronto | [Apply](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8933305002) | 2026-11-06 |
+| Sony Music Global Job Board | Intern, Video Production | Canada, Ontario, Toronto | [Apply](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8933313002) | 2026-11-06 |
+| Southern Poverty Law Center | Intern, Editorial (Summer 2027) | Atlanta, GA; Jackson, MS; New Orleans, LA; Miami, FL; Montgomery, AL | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8931208002) | 2026-11-06 |
+| Southern Poverty Law Center | Intern, Program Management - Civil Rights Memorial Center (Summer 2027) | Montgomery, AL | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8930204002) | 2026-11-06 |
+| Stripe | Controllership Intern | Seattle, WA | [Apply](https://stripe.com/jobs/search?gh_jid=8357739) | 2026-11-06 |
+| The New York Times | Full-Stack Engineering Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005) | 2026-11-06 |
+| The New York Times | News Assistant, Intern | Paris, France | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751571005) | 2026-11-06 |
+| The New York Times | Frontend Engineering Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005) | 2026-11-06 |
+| The New York Times | Android Engineering Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) | 2026-11-06 |
+| The New York Times | Backend Engineering Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005) | 2026-11-06 |
+| The New York Times | Interactive News Engineering Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) | 2026-11-06 |
+| The New York Times | iOS Engineering Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) | 2026-11-06 |
+| Varda Space Industries | Site Reliability Internship - Summer 2027 | El Segundo, California, United States | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8198267003) | 2026-11-06 |
+| Walden Security | Training Intern - Federal Services Division (FSD): Chattanooga, TN | Corporate | [Apply](https://job-boards.greenhouse.io/waldensecurity/jobs/5287664007) | 2026-11-06 |
+| Woolpert | Field Survey Internship (Summer 2027) | Columbus, OH; Dayton, OH | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426384009) | 2026-11-06 |
+| Woolpert | Field Survey Internship (Summer 2027) | Albuquerque, NM; Boston, MA; Cincinnati, OH; Columbus, OH; Dayton, OH; Denver, CO; Harrisburg, PA; Indianapolis, IN; Miami, FL; Virginia Beach, VA | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426377009) | 2026-11-06 |
 | WPP | WPP SSC MY &#124; Internship - HR & Admin | Petaling Jaya, Selangor, Malaysia | [Apply](https://job-boards.greenhouse.io/wpp/jobs/8931445002) | 2026-11-06 |
 | ACLU - Internships | Summer 2027 Legal Intern, Trone Center for Justice and Equality | Remote/Hybrid- Washington D.C. | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8932353002) | 2026-11-05 |
 | Celonis | Intern CCO Enablement & Programs | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8078124003?gh_jid=8078124003) | 2026-11-05 |
