@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1678 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-08.
+1679 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-09.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,7 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Texas AirSystems | HVAC Sales Engineer Rotational Internship | Irving, Texas, United States | [Apply](https://job-boards.greenhouse.io/texasairsystems/jobs/5476528008) | 2026-11-09 |
 | Agoda | [Cooperative Internship 2027] Back-end Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335928) | 2026-11-06 |
 | Agoda | [Cooperative Internship 2027] Data Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335925) | 2026-11-06 |
 | Agoda | [Summer Internship 2027] Back-end Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358244) | 2026-11-06 |
