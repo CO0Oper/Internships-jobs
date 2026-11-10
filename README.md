@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1679 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-09.
+1723 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-10.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,7 +14,51 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Think Academy US | HR Intern - Mandarin Required | Seattle/Boston/New York | [Apply](https://job-boards.greenhouse.io/thinkacademyus/jobs/8199764003) | 2026-11-10 |
+| Agoda | [Summer Internship 2027] Marketing Intern, Metasearch Analyst | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8357813) | 2026-11-09 |
+| Agoda | [Summer Internship 2027] Marketing Intern, Event & Experiential Marketing | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8357910) | 2026-11-09 |
+| Agoda | [Summer Internship 2027] Supply Analytics Intern | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358027) | 2026-11-09 |
+| Agoda | [Summer Internship 2027] Supply Flights Intern | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8364743) | 2026-11-09 |
+| Agoda | [Summer Internship 2027] Supply Growth Intern | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358031) | 2026-11-09 |
+| Agoda | [Summer Internship 2027] Supply Intern, B2B | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8357825) | 2026-11-09 |
+| Agoda | [Summer Internship 2027] Supply Intern, CMO | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358028) | 2026-11-09 |
+| Agoda | [Summer Internship 2027] Supply Intern, Partner Programs | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8357826) | 2026-11-09 |
+| Agoda | [Summer Internship 2027] Supply Intern, RMO | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358017) | 2026-11-09 |
+| Agoda | [Summer Internship 2027] Supply Operations Intern | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358032) | 2026-11-09 |
+| BGE Inc. Campus Recruiting | FRISCO - Energy Services, Internship | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5476808008) | 2026-11-09 |
+| Brex | Software Engineer, Internship - 2027 | São Paulo, São Paulo, Brazil | [Apply](https://www.brex.com/careers/8935242002?gh_jid=8935242002) | 2026-11-09 |
+| CCLFG | Intern, Institutional Client Reporting | Vancouver, British Columbia, Canada | [Apply](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4484639009) | 2026-11-09 |
+| Christ Fellowship | Summer Intern | Palm Beach Gardens | [Apply](https://job-boards.greenhouse.io/christfellowship/jobs/8931004002) | 2026-11-09 |
+| Duolingo | Product Designer, Thrive Intern | Pittsburgh, PA | [Apply](https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002) | 2026-11-09 |
+| Enova International | Analytics Internship Summer 2027 (Hybrid) | Chicago, IL | [Apply](https://job-boards.greenhouse.io/enova/jobs/8366036) | 2026-11-09 |
+| Epic Games | AI Programmer Intern | Cary,North Carolina,United States | [Apply](https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004) | 2026-11-09 |
+| Eulerity | Recruiting Intern - AI & Automation | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4728431006) | 2026-11-09 |
+| Financial Times | Marketing Intern (6-month fixed term contract) | United Kingdom | [Apply](https://job-boards.eu.greenhouse.io/financialtimes33/jobs/5029083101) | 2026-11-09 |
+| Kasa | Hospitality and Events Intelligence Internship | Athens, Georgia | [Apply](https://job-boards.greenhouse.io/kasa/jobs/8197274003) | 2026-11-09 |
+| Kiva.org | Review and Translation Program Project Manager Intern | U.S Remote | [Apply](https://boards.greenhouse.io/kivaorg/jobs/8367970?gh_jid=8367970) | 2026-11-09 |
+| KnowBe4 | HR Intern (Located in South Africa) | Cape Town, Western Cape, South Africa | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8934601002) | 2026-11-09 |
+| Lila Sciences | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4472540009) | 2026-11-09 |
+| Lila Sciences | Co-Op, IT/OT Security Analyst | Cambridge, MA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4477308009) | 2026-11-09 |
+| Scout Motors | Intern, Design | Novi, Michigan, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287121007) | 2026-11-09 |
+| Scout Motors | Intern, Digital Products | Charlotte, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007) | 2026-11-09 |
+| Scout Motors | Intern, Finance | Charlotte, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287133007) | 2026-11-09 |
+| Scout Motors | Intern, IT | Charlotte, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287122007) | 2026-11-09 |
+| Scout Motors | Intern, Legal | Charlotte, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287132007) | 2026-11-09 |
+| Scout Motors | Intern, Quality | Novi, Michigan, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287129007) | 2026-11-09 |
+| Scout Motors | Intern, Procurement | Charlotte, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287124007) | 2026-11-09 |
+| Scout Motors | Intern, Production | Blythewood, South Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287139007) | 2026-11-09 |
+| Scout Motors | Intern, Sales & Marketing | Charlotte, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287130007) | 2026-11-09 |
+| Scout Motors | Intern, Brand & Strategy | Charlotte, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287125007) | 2026-11-09 |
+| Scout Motors | Intern, Engineering | Blythewood, SC; Charlotte, NC; Novi, Michigan | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287136007) | 2026-11-09 |
+| Scout Motors | Intern, Human Resources | Charlotte, NC; Blythewood, SC | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287135007) | 2026-11-09 |
+| Scout Motors | Intern, Products | Charlotte, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007) | 2026-11-09 |
+| Sezzle | Fraud Operations Intern | Türkiye | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8198862003) | 2026-11-09 |
+| Sharp Electronics | Summer IT AI Intern | Montvale, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/sharpelectronics/jobs/4482958009) | 2026-11-09 |
 | Texas AirSystems | HVAC Sales Engineer Rotational Internship | Irving, Texas, United States | [Apply](https://job-boards.greenhouse.io/texasairsystems/jobs/5476528008) | 2026-11-09 |
+| The New York Times | Data Analyst Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) | 2026-11-09 |
+| The New York Times | ML Scientist Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) | 2026-11-09 |
+| The New York Times | Audience Insights Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005) | 2026-11-09 |
+| Veeam Software | Field Marketing Intern - Summer 2027 | Toronto, Canada | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5031428101) | 2026-11-09 |
 | Agoda | [Cooperative Internship 2027] Back-end Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335928) | 2026-11-06 |
 | Agoda | [Cooperative Internship 2027] Data Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8335925) | 2026-11-06 |
 | Agoda | [Summer Internship 2027] Back-end Internship BKK | Bangkok based | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8358244) | 2026-11-06 |
