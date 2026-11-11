@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1723 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-10.
+1768 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-11.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,50 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Astranis | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) | 2026-11-11 |
+| Coinbase | Strategic Sourcing Intern | Hybrid - New York, NY | [Apply](https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084) | 2026-11-11 |
+| Reolink | Digital Marketing Intern | Singapore | [Apply](https://job-boards.greenhouse.io/reolink/jobs/4502893009) | 2026-11-11 |
+| Addepar | Software Engineering Intern - Summer 2027 | New York, NY | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927531002) | 2026-11-10 |
+| Addepar | Data Engineering Intern - Summer 2027 | New York, NY | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910327002) | 2026-11-10 |
+| Addepar | AI Engineering Intern - Summer 2027 | New York, NY | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927543002) | 2026-11-10 |
+| Addepar | Design Intern - Summer 2027 | New York, NY | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927595002) | 2026-11-10 |
+| Addepar | Portfolio Data Analyst Intern - Summer 2027 | Edinburgh, UK | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910310002) | 2026-11-10 |
+| Addepar | Software Engineering Intern - Summer 2027 | Edinburgh, UK | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927507002) | 2026-11-10 |
+| Addepar | Data Projects Intern - Summer 2027 | Edinburgh, UK | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8935678002) | 2026-11-10 |
+| Addepar | Product Intern - Summer 2027 | New York, NY | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927575002) | 2026-11-10 |
+| Anduril Industries | 2027 Optical Payload Engineer Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) | 2026-11-10 |
+| Betsson Group | Intern - Central Gaming | Malta | [Apply](https://job-boards.greenhouse.io/betsson/jobs/8372312) | 2026-11-10 |
+| Brex | Operations Intern | São Paulo, São Paulo, Brazil | [Apply](https://www.brex.com/careers/8936631002?gh_jid=8936631002) | 2026-11-10 |
+| Catawiki | Communications Intern | Netherlands | [Apply](https://job-boards.greenhouse.io/catawiki/jobs/8358950) | 2026-11-10 |
+| Celonis | Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern | Raleigh, US, North Carolina | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003) | 2026-11-10 |
+| DEPT | Intern Backend Developer | Amsterdam, Rotterdam | [Apply](https://job-boards.greenhouse.io/dept/jobs/8364817) | 2026-11-10 |
+| DEPT | Intern Project Management | Amsterdam, Rotterdam | [Apply](https://job-boards.greenhouse.io/dept/jobs/8364829) | 2026-11-10 |
+| DEPT | Intern Frontend Developer | Amsterdam, Rotterdam | [Apply](https://job-boards.greenhouse.io/dept/jobs/8364818) | 2026-11-10 |
+| DEPT | Intern Brand Design | Amsterdam, Rotterdam | [Apply](https://job-boards.greenhouse.io/dept/jobs/8355282) | 2026-11-10 |
+| DEPT | Intern Research & Digital Strategy | Amsterdam, Rotterdam | [Apply](https://job-boards.greenhouse.io/dept/jobs/8364831) | 2026-11-10 |
+| DEPT | Marketing Support Intern | Amsterdam, Rotterdam | [Apply](https://job-boards.greenhouse.io/dept/jobs/8355298) | 2026-11-10 |
+| EquipmentShare | Intern: Human Resources Rotational | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8371968) | 2026-11-10 |
+| EquipmentShare | Intern: Uptime Management Center | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8371863) | 2026-11-10 |
+| EquipmentShare | Intern: Accounting | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8371934) | 2026-11-10 |
+| EquipmentShare | Intern: Engineering (Embedded) | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8371896) | 2026-11-10 |
+| EquipmentShare | Intern: Procure to Pay | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8371971) | 2026-11-10 |
+| EquipmentShare | Intern: Engineering (Embedded) | Columbia, MO (Headquarters) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8371891) | 2026-11-10 |
+| Formlabs | Global Sourcing Intern (Summer 2027) | Somerville, MA | [Apply](https://careers.formlabs.com/job/8161800/apply/?gh_jid=8161800) | 2026-11-10 |
+| Formlabs | Social Media Engineering Intern (Winter/Spring 2027) | Somerville, MA | [Apply](https://careers.formlabs.com/job/8360209/apply/?gh_jid=8360209) | 2026-11-10 |
+| Hatch Internships | Hatch's Summer 2027 Internship Program | Distributed, 🇺🇸 + 🇨🇦 (US + Canada) | [Apply](https://job-boards.greenhouse.io/hatchinternships/jobs/4728672006) | 2026-11-10 |
+| Human Rights Watch | Americas Division Intern | São Paulo, São Paulo, Brazil | [Apply](https://job-boards.greenhouse.io/humanrightswatch/jobs/8936779002) | 2026-11-10 |
+| InterSystems | Technical Services Co-op | Boston, MA | [Apply](https://job-boards.greenhouse.io/intersystems/jobs/8200550003) | 2026-11-10 |
+| Judi Health | AI Solutions Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/judihealth/jobs/5477146008) | 2026-11-10 |
+| Minitab | Cybersecurity Intern (Summer 2027) | State College, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200356003) | 2026-11-10 |
+| National Information Solutions Cooperative (NISC) | Intern - Test Automation | Lake Saint Louis, MO | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8372340) | 2026-11-10 |
+| Otterbein SeniorLife | Accounting Intern | Lebanon, Ohio | [Apply](https://boards.greenhouse.io/otterbein/jobs/8200342003?gh_jid=8200342003) | 2026-11-10 |
+| Samsara | Electrical Engineering Co-Op | San Francisco - SF9 | [Apply](https://www.samsara.com/company/careers/roles/8226608?gh_jid=8226608) | 2026-11-10 |
+| SharkNinja | Summer 2027: Commercial Finance Internship, Americas (May through August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727554006) | 2026-11-10 |
+| SharkNinja | Summer 2027: Accounting Intern (May through August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727347006) | 2026-11-10 |
+| SharkNinja | Spring 2027: Geo Expansion Co-op (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728258006) | 2026-11-10 |
+| SharkNinja | Summer 2027: Category Finance Intern (May through August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4714635006) | 2026-11-10 |
+| SharkNinja | Spring 2027: Product Test Engineering Co-op (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006) | 2026-11-10 |
+| Sigmoid | DE Intern + SDE Trainee - Off Campus Hiring 2026 | Bengaluru | [Apply](https://job-boards.greenhouse.io/sigmoid/jobs/8927991002) | 2026-11-10 |
 | Think Academy US | HR Intern - Mandarin Required | Seattle/Boston/New York | [Apply](https://job-boards.greenhouse.io/thinkacademyus/jobs/8199764003) | 2026-11-10 |
 | Agoda | [Summer Internship 2027] Marketing Intern, Metasearch Analyst | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8357813) | 2026-11-09 |
 | Agoda | [Summer Internship 2027] Marketing Intern, Event & Experiential Marketing | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8357910) | 2026-11-09 |
@@ -52,6 +96,7 @@ Open an issue or PR.
 | Scout Motors | Intern, Engineering | Blythewood, SC; Charlotte, NC; Novi, Michigan | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287136007) | 2026-11-09 |
 | Scout Motors | Intern, Human Resources | Charlotte, NC; Blythewood, SC | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287135007) | 2026-11-09 |
 | Scout Motors | Intern, Products | Charlotte, North Carolina, United States | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007) | 2026-11-09 |
+| Scout Motors | Intern, Administration - Business Transformation | Charlotte, NC | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287128007) | 2026-11-09 |
 | Sezzle | Fraud Operations Intern | Türkiye | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8198862003) | 2026-11-09 |
 | Sharp Electronics | Summer IT AI Intern | Montvale, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/sharpelectronics/jobs/4482958009) | 2026-11-09 |
 | Texas AirSystems | HVAC Sales Engineer Rotational Internship | Irving, Texas, United States | [Apply](https://job-boards.greenhouse.io/texasairsystems/jobs/5476528008) | 2026-11-09 |
