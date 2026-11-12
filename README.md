@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1768 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-11.
+1808 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-12.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,9 +14,49 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| HP IQ | Experience Design Intern (Summer 2027) | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6230959004) | 2026-11-12 |
+| Lightmatter | Package Layout Automation Internship - Summer 2027 | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473740008?gh_jid=5473740008) | 2026-11-12 |
+| SharkNinja | Summer 2027: Control Systems & Algorithms Intern (May to August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006) | 2026-11-12 |
+| SK hynix memory solutions America Inc. | Embedded Software Engineer Intern | San Jose | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009) | 2026-11-12 |
+| Airbnb | Sales Development Intern, Services, France | Paris, France | [Apply](https://careers.airbnb.com/positions/8372325?gh_jid=8372325) | 2026-11-11 |
+| Airbnb | Sales Development Intern, Services, Spain | Barcelona, Spain | [Apply](https://careers.airbnb.com/positions/8372424?gh_jid=8372424) | 2026-11-11 |
+| Airbnb | Advanced Analytics Intern | United States | [Apply](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | 2026-11-11 |
+| Airbnb | Communications Intern, France | Paris, France | [Apply](https://careers.airbnb.com/positions/8376005?gh_jid=8376005) | 2026-11-11 |
+| Airbnb | Market Associate Intern, Experiences | Paris, France | [Apply](https://careers.airbnb.com/positions/8376087?gh_jid=8376087) | 2026-11-11 |
+| Airbnb | Marketing & CRM Intern, Experiences | Paris, France | [Apply](https://careers.airbnb.com/positions/8376124?gh_jid=8376124) | 2026-11-11 |
+| Airbnb | Sales Development Intern, Services, Italy | Milan, Italy | [Apply](https://careers.airbnb.com/positions/8372095?gh_jid=8372095) | 2026-11-11 |
+| Arcesium | Technology Operations Intern | New York | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) | 2026-11-11 |
 | Astranis | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) | 2026-11-11 |
+| Brex | Software Engineer, Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | 2026-11-11 |
+| Bridgewater Associates | 2028 Investment Associate Intern | New York City | [Apply](https://job-boards.greenhouse.io/bridgewater89/jobs/8937917002) | 2026-11-11 |
 | Coinbase | Strategic Sourcing Intern | Hybrid - New York, NY | [Apply](https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084) | 2026-11-11 |
+| EquipmentShare | Intern: Fleet Coordinator | St. Louis, MO (Vehicle Solutions) | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8378842) | 2026-11-11 |
+| ExodusPoint | Rates Internship – Hong Kong | Hong Kong | [Apply](https://job-boards.greenhouse.io/exoduspoint/jobs/8938482002) | 2026-11-11 |
+| Formlabs | FP&A Intern | Somerville, MA | [Apply](https://careers.formlabs.com/job/8379159/apply/?gh_jid=8379159) | 2026-11-11 |
+| Formlabs | 2027 (Summer) - Manufacturing - Manufacturing Test Software Intern | Somerville, MA | [Apply](https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598) | 2026-11-11 |
+| GenScript/ProBio | Payroll Tax Intern | Piscataway, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/genscript/jobs/5292736007) | 2026-11-11 |
+| Guidepoint | Talent Acquisition Intern | 東京都, Japan | [Apply](https://job-boards.greenhouse.io/guidepoint/jobs/8938678002) | 2026-11-11 |
+| IANS | Product Marketing Co-Op | 125 High Street, Boston MA | [Apply](https://job-boards.greenhouse.io/ians/jobs/5292746007) | 2026-11-11 |
+| Isar Aerospace SE | Intern AI & Data Transformation | Parsdorf, Bavaria, Germany | [Apply](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5033512101) | 2026-11-11 |
+| Lightmatter | Photonics Layout Intern - Summer 2027 | Boston, MA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479611008?gh_jid=5479611008) | 2026-11-11 |
+| Lightmatter | Packaging Mechanical Design Internship - Summer 2027 | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479684008?gh_jid=5479684008) | 2026-11-11 |
+| Lightmatter | Packaging Thermal and Mechanical Analysis Internship - Summer 2027 | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473871008?gh_jid=5473871008) | 2026-11-11 |
+| Lightmatter | Supply Chain Internship - Summer 2027 | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5475089008?gh_jid=5475089008) | 2026-11-11 |
+| Lightmatter | Laser Firmware Intern - Summer 2027 | Boston, MA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008) | 2026-11-11 |
+| Lightmatter | Photonics Engineer Intern - Summer 2027 | Boston, MA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479605008?gh_jid=5479605008) | 2026-11-11 |
+| Minitab | Software Quality Engineer Intern | State College, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200698003) | 2026-11-11 |
+| Numa | Solutions Engineer Intern | Remote | [Apply](https://job-boards.greenhouse.io/numa/jobs/4504052009) | 2026-11-11 |
 | Reolink | Digital Marketing Intern | Singapore | [Apply](https://job-boards.greenhouse.io/reolink/jobs/4502893009) | 2026-11-11 |
+| Samsung Semiconductor | Intern, AI System Architecture Research Scientist | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003) | 2026-11-11 |
+| Scandit | Software Engineering Internship - Tampere 2027 | Tampere | [Apply](https://www.scandit.com/careers/job-description/?gh_jid=8379482) | 2026-11-11 |
+| Schonfeld | 2027 Software Engineering Intern | Hong Kong, Hong Kong | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8346891) | 2026-11-11 |
+| Schonfeld | 2027 Enterprise Data Intern | Singapore, Central, Singapore | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8356741) | 2026-11-11 |
+| Schonfeld | 2027 Software Engineering Intern | Singapore, Central, Singapore | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8356747) | 2026-11-11 |
+| Schonfeld | 2027 Systematic COO Intern | Hong Kong, Hong Kong | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8244307) | 2026-11-11 |
+| SharkNinja | Spring 2027: Control Systems & Algorithms Co-op (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721611006) | 2026-11-11 |
+| SharkNinja | Spring 2027: Product Performance Test Engineer Co-op (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726164006) | 2026-11-11 |
+| Woolpert | Intern, Aviation Modeling & Simulation (Summer 2027) | San Rafael, CA | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4430700009) | 2026-11-11 |
+| Workato | Intern, Automation Engineer | Hyderabad, India | [Apply](https://www.workato.com/careers?gh_jid=8924723002#open-roles) | 2026-11-11 |
 | Addepar | Software Engineering Intern - Summer 2027 | New York, NY | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927531002) | 2026-11-10 |
 | Addepar | Data Engineering Intern - Summer 2027 | New York, NY | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910327002) | 2026-11-10 |
 | Addepar | AI Engineering Intern - Summer 2027 | New York, NY | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8927543002) | 2026-11-10 |
