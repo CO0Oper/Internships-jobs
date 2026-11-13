@@ -1,9 +1,79 @@
 [
  {
+  "company": "Lightmatter",
+  "title": " Quality & Reliability, Intern Summer 2027",
+  "location": "Mountain View, CA",
+  "url": "https://boards.greenhouse.io/lightmatter/jobs/5474812008?gh_jid=5474812008",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Appier",
+  "title": "Software Engineer Intern, Ads Live Testing",
+  "location": "Taipei, Taiwan",
+  "url": "https://job-boards.greenhouse.io/appier/jobs/8382372",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Atari",
+  "title": "Intern - Records Digitization (On-Site)",
+  "location": "Atari - US (Remote)",
+  "url": "https://job-boards.greenhouse.io/atariinc/jobs/5480257008",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "AutoTrader.ca",
+  "title": "Co-op Student",
+  "location": "Toronto, ON (Canada)",
+  "url": "https://job-boards.greenhouse.io/autotradercanada/jobs/8201416003",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Center for Strategic and International Studies, Inc.",
+  "title": "Spring Intern, Geopolitics and Foreign Policy Department and Middle East Program",
+  "location": "Washington, D.C.",
+  "url": "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4503266009",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Deliveroo",
+  "title": "Retail & Specialist - Intern",
+  "location": "Paris, France",
+  "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8383006",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Galaxy",
+  "title": "2027 Construction Intern-Afton, Texas",
+  "location": "Afton, Texas",
+  "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256113004",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Galaxy",
+  "title": "2027 Data Center Growth & Development Intern - NYC",
+  "location": "New York",
+  "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Golden Pet Brands",
+  "title": "Creative Team Intern",
+  "location": "Remote (USA)",
+  "url": "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4748138005",
+  "posted": "2026-11-12"
+ },
+ {
   "company": "HP IQ",
   "title": "Experience Design Intern (Summer 2027)",
   "location": "San Francisco, CA",
   "url": "https://job-boards.greenhouse.io/hpiq/jobs/6230959004",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Langan Engineering & Environmental Services",
+  "title": "Intern/Co-op – Geotechnical Engineering (Summer 2027)",
+  "location": "Phoenix, Arizona, United States",
+  "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4485319009",
   "posted": "2026-11-12"
  },
  {
@@ -14,6 +84,34 @@
   "posted": "2026-11-12"
  },
  {
+  "company": "Muon Space",
+  "title": "Software Engineering Intern-Information Systems (Summer 2027)",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Muon Space",
+  "title": "Security Engineering Intern (Summer 2027)",
+  "location": "Mountain View, CA",
+  "url": "https://job-boards.greenhouse.io/muonspace/jobs/5294028007",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "PMG",
+  "title": "HR Programs Intern",
+  "location": "Dallas, TX",
+  "url": "https://job-boards.greenhouse.io/pmg/jobs/8929431002",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Secretariat",
+  "title": "Intern, Construction Quantum",
+  "location": "Brisbane, Queensland, Australia",
+  "url": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4504740009",
+  "posted": "2026-11-12"
+ },
+ {
   "company": "SharkNinja",
   "title": "Summer 2027: Control Systems & Algorithms Intern (May to August)",
   "location": "Needham, MA, United States",
@@ -21,10 +119,94 @@
   "posted": "2026-11-12"
  },
  {
+  "company": "SharkNinja",
+  "title": "Summer 2027: ESG Strategy Intern (May to August)",
+  "location": "Needham, MA, United States",
+  "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727543006",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "SharkNinja",
+  "title": "Spring 2027: Digital & Website Technology Intern",
+  "location": "Needham, MA, United States",
+  "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728326006",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "SharkNinja",
+  "title": "Summer 2027: Data Science Intern (May to August)",
+  "location": "Needham, MA, United States",
+  "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
+  "posted": "2026-11-12"
+ },
+ {
   "company": "SK hynix memory solutions America Inc.",
   "title": "Embedded Software Engineer Intern",
   "location": "San Jose",
   "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Stack AV",
+  "title": "Research Intern (PhD), Autonomy",
+  "location": "Pittsburgh, PA or Remote (US)",
+  "url": "https://job-boards.greenhouse.io/stackav/jobs/5287594007",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Stratolaunch",
+  "title": "Business Intelligence & Systems Analyst Intern 2027",
+  "location": "Mojave, California, United States",
+  "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "The MJ Companies",
+  "title": "Pharmacy Consultant Internship",
+  "location": "Carmel, IN",
+  "url": "https://job-boards.greenhouse.io/themjcos/jobs/5479231008",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "The New York Times",
+  "title": "B2B Subscriptions, Marketing Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "TransferGo",
+  "title": "FX & Treasury Analytics Intern",
+  "location": "Vilnius, Lithuania",
+  "url": "https://job-boards.greenhouse.io/transfergo/jobs/6256041004",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Uber Freight",
+  "title": "Accounting Intern-MTY",
+  "location": "Monterrey, NL 64640, Mexico",
+  "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5476811008",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer IT Operations & Asset Management Intern ",
+  "location": "Berthoud, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4746885005",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "Veeam Software",
+  "title": "Customer Experience Intern - Summer 2027",
+  "location": "Remote, Georgia, USA",
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5035360101",
+  "posted": "2026-11-12"
+ },
+ {
+  "company": "WPP Media",
+  "title": "Intern, Media Operations and Innovation, Italy",
+  "location": "Milan, Italy",
+  "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5480137008",
   "posted": "2026-11-12"
  },
  {

@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1808 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-12.
+1834 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-13.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,10 +14,36 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Lightmatter | Quality & Reliability, Intern Summer 2027 | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474812008?gh_jid=5474812008) | 2026-11-13 |
+| Appier | Software Engineer Intern, Ads Live Testing | Taipei, Taiwan | [Apply](https://job-boards.greenhouse.io/appier/jobs/8382372) | 2026-11-12 |
+| Atari | Intern - Records Digitization (On-Site) | Atari - US (Remote) | [Apply](https://job-boards.greenhouse.io/atariinc/jobs/5480257008) | 2026-11-12 |
+| AutoTrader.ca | Co-op Student | Toronto, ON (Canada) | [Apply](https://job-boards.greenhouse.io/autotradercanada/jobs/8201416003) | 2026-11-12 |
+| Center for Strategic and International Studies, Inc. | Spring Intern, Geopolitics and Foreign Policy Department and Middle East Program | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4503266009) | 2026-11-12 |
+| Deliveroo | Retail & Specialist - Intern | Paris, France | [Apply](https://job-boards.greenhouse.io/deliveroo/jobs/8383006) | 2026-11-12 |
+| Galaxy | 2027 Construction Intern-Afton, Texas | Afton, Texas | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256113004) | 2026-11-12 |
+| Galaxy | 2027 Data Center Growth & Development Intern - NYC | New York | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004) | 2026-11-12 |
+| Golden Pet Brands | Creative Team Intern | Remote (USA) | [Apply](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4748138005) | 2026-11-12 |
 | HP IQ | Experience Design Intern (Summer 2027) | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6230959004) | 2026-11-12 |
+| Langan Engineering & Environmental Services | Intern/Co-op – Geotechnical Engineering (Summer 2027) | Phoenix, Arizona, United States | [Apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4485319009) | 2026-11-12 |
 | Lightmatter | Package Layout Automation Internship - Summer 2027 | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473740008?gh_jid=5473740008) | 2026-11-12 |
+| Muon Space | Software Engineering Intern-Information Systems (Summer 2027) | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) | 2026-11-12 |
+| Muon Space | Security Engineering Intern (Summer 2027) | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5294028007) | 2026-11-12 |
+| PMG | HR Programs Intern | Dallas, TX | [Apply](https://job-boards.greenhouse.io/pmg/jobs/8929431002) | 2026-11-12 |
+| Secretariat | Intern, Construction Quantum | Brisbane, Queensland, Australia | [Apply](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4504740009) | 2026-11-12 |
 | SharkNinja | Summer 2027: Control Systems & Algorithms Intern (May to August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006) | 2026-11-12 |
+| SharkNinja | Summer 2027: ESG Strategy Intern (May to August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727543006) | 2026-11-12 |
+| SharkNinja | Spring 2027: Digital & Website Technology Intern | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728326006) | 2026-11-12 |
+| SharkNinja | Summer 2027: Data Science Intern (May to August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006) | 2026-11-12 |
 | SK hynix memory solutions America Inc. | Embedded Software Engineer Intern | San Jose | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009) | 2026-11-12 |
+| Stack AV | Research Intern (PhD), Autonomy | Pittsburgh, PA or Remote (US) | [Apply](https://job-boards.greenhouse.io/stackav/jobs/5287594007) | 2026-11-12 |
+| Stratolaunch | Business Intelligence & Systems Analyst Intern 2027 | Mojave, California, United States | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008) | 2026-11-12 |
+| The MJ Companies | Pharmacy Consultant Internship | Carmel, IN | [Apply](https://job-boards.greenhouse.io/themjcos/jobs/5479231008) | 2026-11-12 |
+| The New York Times | B2B Subscriptions, Marketing Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4753228005) | 2026-11-12 |
+| TransferGo | FX & Treasury Analytics Intern | Vilnius, Lithuania | [Apply](https://job-boards.greenhouse.io/transfergo/jobs/6256041004) | 2026-11-12 |
+| Uber Freight | Accounting Intern-MTY | Monterrey, NL 64640, Mexico | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5476811008) | 2026-11-12 |
+| Ursa Major | 2027 Summer IT Operations & Asset Management Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4746885005) | 2026-11-12 |
+| Veeam Software | Customer Experience Intern - Summer 2027 | Remote, Georgia, USA | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5035360101) | 2026-11-12 |
+| WPP Media | Intern, Media Operations and Innovation, Italy | Milan, Italy | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5480137008) | 2026-11-12 |
 | Airbnb | Sales Development Intern, Services, France | Paris, France | [Apply](https://careers.airbnb.com/positions/8372325?gh_jid=8372325) | 2026-11-11 |
 | Airbnb | Sales Development Intern, Services, Spain | Barcelona, Spain | [Apply](https://careers.airbnb.com/positions/8372424?gh_jid=8372424) | 2026-11-11 |
 | Airbnb | Advanced Analytics Intern | United States | [Apply](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | 2026-11-11 |
