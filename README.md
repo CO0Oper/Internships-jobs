@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1834 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-13.
+1876 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-14.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,7 +14,49 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Tempo | R&D Test Engineering Intern (SoFuel) | San Diego | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4507804009) | 2026-11-14 |
+| 66degrees | HR Intern | Pune | [Apply](https://job-boards.greenhouse.io/66degrees/jobs/6260964004) | 2026-11-13 |
+| A11 | Forward Deployed Intern (m/f/d) | Berlin | [Apply](https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8940832002) | 2026-11-13 |
+| Addepar | Summer 2027 Internship - Product Analyst (Navigator) | New York, NY | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) | 2026-11-13 |
+| Anduril Industries | 2027 Brand Marketing Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007) | 2026-11-13 |
+| Chicago Public Media | Events Intern | Chicago, IL (Hybrid workplace) | [Apply](https://job-boards.greenhouse.io/cpm/jobs/4726222006) | 2026-11-13 |
+| Chicago Sun-Times | Events Intern | Chicago, IL (Hybrid workplace) | [Apply](https://job-boards.greenhouse.io/suntimes/jobs/4729471006) | 2026-11-13 |
+| Cogstate | Coordinator, Legal Support (Intern) | Remote - Australia | [Apply](https://job-boards.greenhouse.io/cogstateinc/jobs/5481502008) | 2026-11-13 |
+| David Zwirner | Accounting Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295032007) | 2026-11-13 |
+| David Zwirner | Bookstore/Publishing Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295136007) | 2026-11-13 |
+| David Zwirner | Sales Intern (Tribeca) | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295146007) | 2026-11-13 |
+| David Zwirner | Communications Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295043007) | 2026-11-13 |
+| David Zwirner | Digital Editorial Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295154007) | 2026-11-13 |
+| David Zwirner | Digital Marketing & Client Development Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295158007) | 2026-11-13 |
+| David Zwirner | Events Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295078007) | 2026-11-13 |
+| David Zwirner | Marketing Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295155007) | 2026-11-13 |
+| David Zwirner | Museum & Institutional Partnerships Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295054007) | 2026-11-13 |
+| David Zwirner | Operations Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295163007) | 2026-11-13 |
+| David Zwirner | Sales Intern (Chelsea) | New York, NY | [Apply](https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295149007) | 2026-11-13 |
+| ExodusPoint | Quantitative Internship – Hong Kong | Hong Kong | [Apply](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) | 2026-11-13 |
 | Lightmatter | Quality & Reliability, Intern Summer 2027 | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474812008?gh_jid=5474812008) | 2026-11-13 |
+| Lightmatter | Physical Design, Intern (Summer 2027) | Boston, MA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008) | 2026-11-13 |
+| Lightmatter | Hardware Test Engineering, Intern (Summer 2027) | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) | 2026-11-13 |
+| Minitab | Business Development Intern | State College, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200493003) | 2026-11-13 |
+| Minitab | Research & Design Intern | State College, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200707003) | 2026-11-13 |
+| Northmarq | Fund Management Summer 2027 Analyst Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5481439008) | 2026-11-13 |
+| Pacvue | Graphic Design Intern | US Remote | [Apply](https://job-boards.greenhouse.io/pacvue/jobs/6261128004) | 2026-11-13 |
+| Robinhood | Corporate Finance Intern (Summer 2027) | New York, NY | [Apply](https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464) | 2026-11-13 |
+| Samsung Semiconductor | Intern, AI Systems Performance Engineer | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003) | 2026-11-13 |
+| Samsung Semiconductor | Intern, Compiler Engineer | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) | 2026-11-13 |
+| Samsung Semiconductor | Intern, ML Compiler (Kernel Auto-Tuning) | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003) | 2026-11-13 |
+| Samsung Semiconductor | Intern, SSD Firmware Development | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) | 2026-11-13 |
+| Schonfeld | 2027 Fund Accounting Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171705) | 2026-11-13 |
+| SharkNinja | Spring 2027: Early Talent Access CO-OP (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726471006) | 2026-11-13 |
+| SharkNinja | Spring 2027: Talent Acceleration Co-op (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726515006) | 2026-11-13 |
+| SharkNinja | Summer 2027: Mechanical Engineering Intern, Ninja (May to August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006) | 2026-11-13 |
+| Southern Poverty Law Center | Intern, Design (Summer 2027) | Atlanta, GA; Jackson, MS; New Orleans, LA; Miami, FL; Montgomery, AL; Washington, D.C. | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8943360002) | 2026-11-13 |
+| Strand Therapeutics | Co-op, mRNA Process Development | Boston, Massachusetts | [Apply](https://job-boards.greenhouse.io/strandtherapeutics/jobs/6254267004) | 2026-11-13 |
+| Strand Therapeutics | Co-op, Advanced Cell Engineering | Boston, Massachusetts | [Apply](https://job-boards.greenhouse.io/strandtherapeutics/jobs/6254088004) | 2026-11-13 |
+| Strand Therapeutics | Co-op, LNP Discovery | Boston, Massachusetts | [Apply](https://job-boards.greenhouse.io/strandtherapeutics/jobs/6254091004) | 2026-11-13 |
+| The Allen Institute for Artificial Intelligence | Research Internship, AI for Neuroscience | Seattle, WA | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636) | 2026-11-13 |
+| Trace3 | Security Intern | Irvine, CA, United States | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8274792) | 2026-11-13 |
+| Ursa Major | 2027 Summer Ballistics Analyst Intern | Berthoud, Colorado | [Apply](https://ursamajor.com/careers/?gh_jid=4754182005) | 2026-11-13 |
 | Appier | Software Engineer Intern, Ads Live Testing | Taipei, Taiwan | [Apply](https://job-boards.greenhouse.io/appier/jobs/8382372) | 2026-11-12 |
 | Atari | Intern - Records Digitization (On-Site) | Atari - US (Remote) | [Apply](https://job-boards.greenhouse.io/atariinc/jobs/5480257008) | 2026-11-12 |
 | AutoTrader.ca | Co-op Student | Toronto, ON (Canada) | [Apply](https://job-boards.greenhouse.io/autotradercanada/jobs/8201416003) | 2026-11-12 |

@@ -1,9 +1,303 @@
 [
  {
+  "company": "Tempo",
+  "title": "R&D Test Engineering Intern (SoFuel)",
+  "location": "San Diego",
+  "url": "https://tempoenergy.com/careers/open-roles/?gh_jid=4507804009",
+  "posted": "2026-11-14"
+ },
+ {
+  "company": "66degrees",
+  "title": "HR Intern",
+  "location": "Pune",
+  "url": "https://job-boards.greenhouse.io/66degrees/jobs/6260964004",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "A11",
+  "title": "Forward Deployed Intern (m/f/d)",
+  "location": "Berlin",
+  "url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8940832002",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Addepar",
+  "title": "Summer 2027 Internship - Product Analyst (Navigator)",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910306002",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Anduril Industries",
+  "title": "2027 Brand Marketing Intern",
+  "location": "Costa Mesa, California, United States",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Chicago Public Media",
+  "title": "Events Intern",
+  "location": "Chicago, IL (Hybrid workplace)",
+  "url": "https://job-boards.greenhouse.io/cpm/jobs/4726222006",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Chicago Sun-Times",
+  "title": "Events Intern",
+  "location": "Chicago, IL (Hybrid workplace)",
+  "url": "https://job-boards.greenhouse.io/suntimes/jobs/4729471006",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Cogstate",
+  "title": "Coordinator, Legal Support (Intern) ",
+  "location": "Remote - Australia",
+  "url": "https://job-boards.greenhouse.io/cogstateinc/jobs/5481502008",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Accounting Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295032007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Bookstore/Publishing Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295136007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Sales Intern (Tribeca)",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295146007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Communications Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295043007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Digital Editorial Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295154007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Digital Marketing & Client Development Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295158007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Events Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295078007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Marketing Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295155007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Museum & Institutional Partnerships Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295054007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Operations Intern",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295163007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "David Zwirner",
+  "title": "Sales Intern (Chelsea)",
+  "location": "New York, NY",
+  "url": "https://job-boards.greenhouse.io/davidzwirnergallery/jobs/5295149007",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "ExodusPoint",
+  "title": "Quantitative Internship – Hong Kong",
+  "location": "Hong Kong",
+  "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002",
+  "posted": "2026-11-13"
+ },
+ {
   "company": "Lightmatter",
   "title": " Quality & Reliability, Intern Summer 2027",
   "location": "Mountain View, CA",
   "url": "https://boards.greenhouse.io/lightmatter/jobs/5474812008?gh_jid=5474812008",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Lightmatter",
+  "title": "Physical Design, Intern (Summer 2027)",
+  "location": "Boston, MA",
+  "url": "https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Lightmatter",
+  "title": "Hardware Test Engineering, Intern (Summer 2027)",
+  "location": "Mountain View, CA",
+  "url": "https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Minitab",
+  "title": "Business Development Intern",
+  "location": "State College, Pennsylvania, United States",
+  "url": "https://job-boards.greenhouse.io/minitab/jobs/8200493003",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Minitab",
+  "title": "Research & Design Intern",
+  "location": "State College, Pennsylvania, United States",
+  "url": "https://job-boards.greenhouse.io/minitab/jobs/8200707003",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Northmarq",
+  "title": "Fund Management Summer 2027 Analyst Intern",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/northmarq/jobs/5481439008",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Pacvue",
+  "title": "Graphic Design Intern",
+  "location": "US Remote",
+  "url": "https://job-boards.greenhouse.io/pacvue/jobs/6261128004",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Robinhood",
+  "title": "Corporate Finance Intern (Summer 2027)",
+  "location": "New York, NY",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, AI Systems Performance Engineer",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, Compiler Engineer",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, ML Compiler (Kernel Auto-Tuning)",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, SSD Firmware Development",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Schonfeld",
+  "title": "2027 Fund Accounting Intern",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171705",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "SharkNinja",
+  "title": " Spring 2027: Early Talent Access CO-OP (January to June) ",
+  "location": "Needham, MA, United States",
+  "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726471006",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "SharkNinja",
+  "title": "Spring 2027: Talent Acceleration Co-op (January to June)",
+  "location": "Needham, MA, United States",
+  "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726515006",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "SharkNinja",
+  "title": "Summer 2027: Mechanical Engineering Intern, Ninja (May to August)",
+  "location": "Needham, MA, United States",
+  "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719580006",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Southern Poverty Law Center",
+  "title": "Intern, Design (Summer 2027)",
+  "location": "Atlanta, GA; Jackson, MS; New Orleans, LA; Miami, FL; Montgomery, AL; Washington, D.C.",
+  "url": "https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8943360002",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Strand Therapeutics",
+  "title": "Co-op, mRNA Process Development",
+  "location": "Boston, Massachusetts",
+  "url": "https://job-boards.greenhouse.io/strandtherapeutics/jobs/6254267004",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Strand Therapeutics",
+  "title": "Co-op, Advanced Cell Engineering",
+  "location": "Boston, Massachusetts",
+  "url": "https://job-boards.greenhouse.io/strandtherapeutics/jobs/6254088004",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Strand Therapeutics",
+  "title": "Co-op, LNP Discovery",
+  "location": "Boston, Massachusetts",
+  "url": "https://job-boards.greenhouse.io/strandtherapeutics/jobs/6254091004",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "The Allen Institute for Artificial Intelligence",
+  "title": "Research Internship, AI for Neuroscience",
+  "location": "Seattle, WA",
+  "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8293636",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Trace3",
+  "title": "Security Intern",
+  "location": "Irvine, CA, United States",
+  "url": "https://job-boards.greenhouse.io/trace3/jobs/8274792",
+  "posted": "2026-11-13"
+ },
+ {
+  "company": "Ursa Major",
+  "title": "2027 Summer Ballistics Analyst Intern",
+  "location": "Berthoud, Colorado",
+  "url": "https://ursamajor.com/careers/?gh_jid=4754182005",
   "posted": "2026-11-13"
  },
  {
