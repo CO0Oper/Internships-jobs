@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1876 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-14.
+1877 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-15.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,7 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| aCommerce | Intern - Channel & Partner Operations | Jakarta, Indonesia | [Apply](https://job-boards.greenhouse.io/acommerce/jobs/8358589) | 2026-11-14 |
 | Tempo | R&D Test Engineering Intern (SoFuel) | San Diego | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4507804009) | 2026-11-14 |
 | 66degrees | HR Intern | Pune | [Apply](https://job-boards.greenhouse.io/66degrees/jobs/6260964004) | 2026-11-13 |
 | A11 | Forward Deployed Intern (m/f/d) | Berlin | [Apply](https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8940832002) | 2026-11-13 |
