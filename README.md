@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1877 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-15.
+1900 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-16.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,29 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Fanatics Collectibles | Summer 2027 MBA Internship - Licensing Intern | Los Angeles, CA, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507489009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Intern - Pre-Press & Business Operations | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507753009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Accounting & Controllership Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507797009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Collector Relations Intern | Los Angeles, CA, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507821009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Creative & Illustration Intern | Seattle, WA, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507814009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Game Design Intern | Seattle, WA, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Industrial Engineering Intern | Sunnyvale, TX, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507650009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Legal Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507830009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Manufacturing and Business Operations Summer 2027 Intern | Sunnyvale, TX, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507664009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Manufacturing Automation & Controls Intern | Sunnyvale, TX, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507793009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Manufacturing Engineering & Capital Projects Intern | Sunnyvale, TX, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507781009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Manufacturing Planning & Analytics Intern | Sunnyvale, TX, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507789009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - People Intelligence Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Product Intern | Coppell, TX, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Product Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Strategic Finance Intern | Los Angeles, CA, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507802009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Strategic Finance Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507812009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Athlete Partnerships Contract Administration & PO Operations Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507827009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Athlete Partnerships Planner Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507823009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Licensing Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507681009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 Internship - Product Management Intern | Seattle, WA, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) | 2026-11-15 |
+| Fanatics Collectibles | Summer 2027 MBA Internship - Strategy Intern | Los Angeles, CA, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) | 2026-11-15 |
+| Samsara | Product Design (Mechanical Engineering) Co-Op | San Francisco - SF9 | [Apply](https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590) | 2026-11-15 |
 | aCommerce | Intern - Channel & Partner Operations | Jakarta, Indonesia | [Apply](https://job-boards.greenhouse.io/acommerce/jobs/8358589) | 2026-11-14 |
 | Tempo | R&D Test Engineering Intern (SoFuel) | San Diego | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4507804009) | 2026-11-14 |
 | 66degrees | HR Intern | Pune | [Apply](https://job-boards.greenhouse.io/66degrees/jobs/6260964004) | 2026-11-13 |
