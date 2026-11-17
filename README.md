@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1900 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-16.
+1902 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-17.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,8 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| BitGo | Recruitment Coordinator - Intern (6 Months) | India | [Apply](https://job-boards.greenhouse.io/bitgo/jobs/8944293002) | 2026-11-16 |
+| FourKites | Intern - Community & Documentation | Chennai | [Apply](https://job-boards.greenhouse.io/fourkites/jobs/8370603) | 2026-11-16 |
 | Fanatics Collectibles | Summer 2027 MBA Internship - Licensing Intern | Los Angeles, CA, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507489009) | 2026-11-15 |
 | Fanatics Collectibles | Summer 2027 Intern - Pre-Press & Business Operations | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507753009) | 2026-11-15 |
 | Fanatics Collectibles | Summer 2027 Internship - Accounting & Controllership Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507797009) | 2026-11-15 |
