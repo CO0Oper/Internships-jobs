@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-1966 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-18.
+2022 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-19.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,61 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Appier | Office Administration Intern | Singapore | [Apply](https://job-boards.greenhouse.io/appier/jobs/8401322) | 2026-11-19 |
+| CASETiFY | Marketing Intern, IP | Kwun Tong, Hong Kong | [Apply](https://job-boards.greenhouse.io/casetify/jobs/6265893004) | 2026-11-19 |
+| Sigma Computing | Product Design Graduate Intern (Summer 2027) | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003) | 2026-11-19 |
+| Workstream | Full Stack Engineer Intern | Vancouver | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6265872004) | 2026-11-19 |
+| Airbnb | Brand Marketing Intern, France | Paris, France | [Apply](https://careers.airbnb.com/positions/8376045?gh_jid=8376045) | 2026-11-18 |
+| Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) | 2026-11-18 |
+| Anduril Industries | 2027 Business Systems Engineer Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) | 2026-11-18 |
+| AppLovin | Platform Partnerships Intern | Palo Alto, CA | [Apply](https://boards.greenhouse.io/applovin/jobs/4730428006?gh_jid=4730428006) | 2026-11-18 |
+| Arc Boat Company | Service Engineering Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5477182008) | 2026-11-18 |
+| DLR Group | Structural Engineering Intern &#124; Summer 2027 | Chicago, Illinois, United States | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5486592008) | 2026-11-18 |
+| DLR Group | Electrical Engineering Intern &#124; Summer 2027 | Chicago, Illinois, United States | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5486589008) | 2026-11-18 |
+| DLR Group | Mechanical Engineering Intern &#124; Summer 2027 | Chicago, Illinois, United States | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5486642008) | 2026-11-18 |
+| DriveWealth | AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027 | Office - Chicago; Office - NYC | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8200548003?gh_jid=8200548003) | 2026-11-18 |
+| Fanatics Collectibles | Summer 2027 Intern - Marketing Intern | London, England, United Kingdom | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510520009) | 2026-11-18 |
+| Fanatics Collectibles | Summer 2027 Intern - Design Intern | London, England, United Kingdom | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510421009) | 2026-11-18 |
+| Fanatics Collectibles | Summer 2027 Intern - Growth & Partnerships Intern | London, England, United Kingdom | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510687009) | 2026-11-18 |
+| Fanatics Collectibles | Summer 2027 Intern - HR Intern | London, England, United Kingdom | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510457009) | 2026-11-18 |
+| Fanatics Collectibles | Summer 2027 Intern - Product Intern | London, England, United Kingdom | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510585009) | 2026-11-18 |
+| Formlabs | Video Content Creator Intern (Summer 2027) | Somerville, MA | [Apply](https://careers.formlabs.com/job/8395549/apply/?gh_jid=8395549) | 2026-11-18 |
+| Formlabs | 2027 (Summer) Marketing - Social Media Intern | Somerville, MA | [Apply](https://careers.formlabs.com/job/8400491/apply/?gh_jid=8400491) | 2026-11-18 |
+| G-P | Product Management Intern – AI & Analytics | India (Remote-First) | [Apply](https://job-boards.greenhouse.io/globalizationpartners/jobs/8207500003) | 2026-11-18 |
+| Galaxy | 2027 Site Reliability Engineer Intern-Afton, Texas | Afton, Texas | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) | 2026-11-18 |
+| HP Hood | Food Safety & Quality 2027 Intern/Co-Op | Wilmington, MA | [Apply](https://job-boards.greenhouse.io/hoodhp/jobs/5474617008) | 2026-11-18 |
+| iCapital | Data Solutions - Summer 2027 Intern | Stamford, Connecticut, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002) | 2026-11-18 |
+| iCapital | Fund Finance - 2027 Summer Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938097002) | 2026-11-18 |
+| iCapital | Fund Origination - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938112002) | 2026-11-18 |
+| iCapital | Investor Relations - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938467002) | 2026-11-18 |
+| iCapital | Risk Services - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938447002) | 2026-11-18 |
+| iCapital | Transactional Operations - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938135002) | 2026-11-18 |
+| iCapital | Corporate Finance - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8937982002) | 2026-11-18 |
+| iCapital | iCapital Marketplace - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8950295002) | 2026-11-18 |
+| KBRA | 2027 Spring / Summer Marketing Summer Intern | New York, New York | [Apply](https://job-boards.greenhouse.io/krollbondratingagency/jobs/8948979002) | 2026-11-18 |
+| Legend Biotech US | Accounting Intern | Bridgewater, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4755557005) | 2026-11-18 |
+| Legend Biotech US | Research & Development Intern | Somerset, New Jersey, United States | [Apply](https://job-boards.greenhouse.io/legendcareers/jobs/4755562005) | 2026-11-18 |
+| Lightmatter | Photonics Circuit Simulation Intern – Summer 2027 | Mountain View, CA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) | 2026-11-18 |
+| Lucid Software | Product Management Internship - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | 2026-11-18 |
+| Lucid Software | Product Management Internship - Summer 2027 | Salt Lake City, UT | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | 2026-11-18 |
+| Marshall Wace Internship Programmes | Treasury Intern | Hong Kong | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8950313002) | 2026-11-18 |
+| OneTrust | Business Development Intern (French Speaking) | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/onetrust/jobs/8385584) | 2026-11-18 |
+| Orion Group | CI Operations Intern - 2027 | Boulder, CO | [Apply](https://job-boards.greenhouse.io/oriongroup/jobs/4730308006) | 2026-11-18 |
+| Re:Build Manufacturing | Environmental, Health & Safety (EHS) Co-Op | Rochester, NY | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4755765005) | 2026-11-18 |
+| Samsung Semiconductor | Intern, Architecture Research Engineer (Resilient Collective Communications) | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003) | 2026-11-18 |
+| Samsung Semiconductor | Intern, LLM Inference Acceleration Architecture (Distributed Memory-Centric Accelerators) | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208641003) | 2026-11-18 |
+| Samsung Semiconductor | Intern, Architecture Research Engineer (MoE Placement for Serving at Scale) | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003) | 2026-11-18 |
+| Samsung Semiconductor | Intern, HBM Memory Architecture | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8206036003) | 2026-11-18 |
+| Samsung Semiconductor | Intern, SSD Firmware Engineer | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) | 2026-11-18 |
+| Samsung Semiconductor | Intern, Architecture Research Engineer (Agentic AI Workload Characterization) | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003) | 2026-11-18 |
+| Shift Technology | 2027 Data science internship | Brazil - Sao Paulo | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/7984415003) | 2026-11-18 |
+| Southern Poverty Law Center | Intern, Federal Policy (Summer 2027) | Washington, D.C. | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950751002) | 2026-11-18 |
+| Southern Poverty Law Center | Intern, Hate Prevention (Summer 2027) | Remote | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950825002) | 2026-11-18 |
+| Trace3 | Business Development Intern | Colorado Springs, CO | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8399428) | 2026-11-18 |
+| Trade Republic | Financial Accounting Intern | Headquarter | [Apply](https://traderepublic.com/en-de/about?jobId=8208091003&gh_jid=8208091003) | 2026-11-18 |
+| Truveta | Winter Software Engineering Intern | Seattle, WA | [Apply](https://job-boards.greenhouse.io/truveta/jobs/6249810004) | 2026-11-18 |
+| WellPower - All Jobs | ASL Student Intern | Denver | [Apply](https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/8208199003) | 2026-11-18 |
+| Wheely | Operations Intern | Paris, Paris, France | [Apply](https://boards.greenhouse.io/wheely/jobs/8208040003?gh_jid=8208040003) | 2026-11-18 |
 | Anduril Industries | 2027 Product Data Quality Co-op | Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007) | 2026-11-17 |
 | Anduril Industries | 2027 Machine Learning Engineer Intern | Santa Ana, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) | 2026-11-17 |
 | Attain Partners | Summer 2027 Consulting Intern | McLean, VA | [Apply](https://job-boards.greenhouse.io/attainpartners/jobs/5485402008) | 2026-11-17 |
@@ -56,6 +111,7 @@ Open an issue or PR.
 | Bottomline | Vendor Sales Intern | Portsmouth, NH | [Apply](https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8678732002) | 2026-11-16 |
 | Excel Sports Management | Spring 2027 - Intern, Football Marketing | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4754617005) | 2026-11-16 |
 | Formlabs | Customer Strategy & Analytics MBA Intern (Summer 2027) | Somerville, MA | [Apply](https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574) | 2026-11-16 |
+| Formlabs | Global Operations MBA Intern (Summer 2027) | Somerville, MA | [Apply](https://careers.formlabs.com/job/8385550/apply/?gh_jid=8385550) | 2026-11-16 |
 | FourKites | Intern - Community & Documentation | Chennai | [Apply](https://job-boards.greenhouse.io/fourkites/jobs/8370603) | 2026-11-16 |
 | Galaxy | 2027 Environmental Health & Safety Engineer Intern-Afton Texas | Afton, Texas | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6262681004) | 2026-11-16 |
 | Hill House Home | Fabric & Product Development Intern (Spring 2027) | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/hillhousehome/jobs/4729979006) | 2026-11-16 |

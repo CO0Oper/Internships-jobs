@@ -1,5 +1,390 @@
 [
  {
+  "company": "Appier",
+  "title": "Office Administration Intern",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/appier/jobs/8401322",
+  "posted": "2026-11-19"
+ },
+ {
+  "company": "CASETiFY",
+  "title": "Marketing Intern, IP",
+  "location": "Kwun Tong, Hong Kong",
+  "url": "https://job-boards.greenhouse.io/casetify/jobs/6265893004",
+  "posted": "2026-11-19"
+ },
+ {
+  "company": "Sigma Computing",
+  "title": "Product Design Graduate Intern (Summer 2027)",
+  "location": "San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003",
+  "posted": "2026-11-19"
+ },
+ {
+  "company": "Workstream",
+  "title": "Full Stack Engineer Intern",
+  "location": "Vancouver",
+  "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+  "posted": "2026-11-19"
+ },
+ {
+  "company": "Airbnb",
+  "title": "Brand Marketing Intern, France",
+  "location": "Paris, France",
+  "url": "https://careers.airbnb.com/positions/8376045?gh_jid=8376045",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Airbnb",
+  "title": "Software Engineering Intern (BS/MS)",
+  "location": "San Francisco, California",
+  "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Anduril Industries",
+  "title": "2027 Business Systems Engineer Intern",
+  "location": "Costa Mesa, California, United States",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "AppLovin",
+  "title": "Platform Partnerships Intern",
+  "location": "Palo Alto, CA",
+  "url": "https://boards.greenhouse.io/applovin/jobs/4730428006?gh_jid=4730428006",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Arc Boat Company",
+  "title": "Service Engineering Intern",
+  "location": "Torrance, CA",
+  "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5477182008",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "DLR Group",
+  "title": "Structural Engineering Intern | Summer 2027 ",
+  "location": "Chicago, Illinois, United States",
+  "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5486592008",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "DLR Group",
+  "title": "Electrical Engineering Intern | Summer 2027 ",
+  "location": "Chicago, Illinois, United States",
+  "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5486589008",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "DLR Group",
+  "title": "Mechanical Engineering Intern | Summer 2027",
+  "location": "Chicago, Illinois, United States",
+  "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5486642008",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "DriveWealth",
+  "title": "AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027",
+  "location": "Office - Chicago; Office - NYC",
+  "url": "https://boards.greenhouse.io/drivewealth/jobs/8200548003?gh_jid=8200548003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Intern - Marketing Intern",
+  "location": "London, England, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510520009",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Intern - Design Intern",
+  "location": "London, England, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510421009",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Intern - Growth & Partnerships Intern",
+  "location": "London, England, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510687009",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Intern - HR Intern",
+  "location": "London, England, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510457009",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Intern - Product Intern",
+  "location": "London, England, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510585009",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Formlabs",
+  "title": "Video Content Creator Intern (Summer 2027)",
+  "location": "Somerville, MA",
+  "url": "https://careers.formlabs.com/job/8395549/apply/?gh_jid=8395549",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Formlabs",
+  "title": "2027 (Summer) Marketing - Social Media Intern",
+  "location": "Somerville, MA",
+  "url": "https://careers.formlabs.com/job/8400491/apply/?gh_jid=8400491",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "G-P",
+  "title": "Product Management Intern – AI & Analytics",
+  "location": "India (Remote-First)",
+  "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/8207500003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Galaxy",
+  "title": "2027 Site Reliability Engineer Intern-Afton, Texas",
+  "location": "Afton, Texas",
+  "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "HP Hood",
+  "title": "Food Safety & Quality 2027 Intern/Co-Op",
+  "location": "Wilmington, MA",
+  "url": "https://job-boards.greenhouse.io/hoodhp/jobs/5474617008",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "iCapital",
+  "title": "Data Solutions - Summer 2027 Intern",
+  "location": "Stamford, Connecticut, United States",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "iCapital",
+  "title": "Fund Finance - 2027 Summer Intern",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938097002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "iCapital",
+  "title": "Fund Origination - Summer 2027 Intern",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938112002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "iCapital",
+  "title": "Investor Relations - Summer 2027 Intern",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938467002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "iCapital",
+  "title": "Risk Services - Summer 2027 Intern",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938447002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "iCapital",
+  "title": "Transactional Operations - Summer 2027 Intern",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938135002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "iCapital",
+  "title": "Corporate Finance - Summer 2027 Intern",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8937982002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "iCapital",
+  "title": "iCapital Marketplace - Summer 2027 Intern",
+  "location": "New York, New York, United States",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8950295002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "KBRA",
+  "title": "2027 Spring / Summer Marketing Summer Intern",
+  "location": "New York, New York",
+  "url": "https://job-boards.greenhouse.io/krollbondratingagency/jobs/8948979002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Legend Biotech US",
+  "title": "Accounting Intern",
+  "location": "Bridgewater, New Jersey, United States",
+  "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4755557005",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Legend Biotech US",
+  "title": "Research & Development Intern",
+  "location": "Somerset, New Jersey, United States",
+  "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4755562005",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Lightmatter",
+  "title": "Photonics Circuit Simulation Intern – Summer 2027",
+  "location": "Mountain View, CA",
+  "url": "https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Lucid Software",
+  "title": "Product Management Internship - Summer 2027",
+  "location": "Raleigh, NC",
+  "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Lucid Software",
+  "title": "Product Management Internship - Summer 2027",
+  "location": "Salt Lake City, UT",
+  "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Marshall Wace Internship Programmes",
+  "title": "Treasury Intern",
+  "location": "Hong Kong",
+  "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8950313002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "OneTrust",
+  "title": "Business Development Intern (French Speaking)",
+  "location": "Madrid, Spain",
+  "url": "https://job-boards.greenhouse.io/onetrust/jobs/8385584",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Orion Group",
+  "title": "CI Operations Intern - 2027 ",
+  "location": "Boulder, CO",
+  "url": "https://job-boards.greenhouse.io/oriongroup/jobs/4730308006",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Re:Build Manufacturing",
+  "title": "Environmental, Health & Safety (EHS) Co-Op",
+  "location": "Rochester, NY",
+  "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4755765005",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, Architecture Research Engineer (Resilient Collective Communications)",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, LLM Inference Acceleration Architecture (Distributed Memory-Centric Accelerators)",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208641003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, Architecture Research Engineer (MoE Placement for Serving at Scale)",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, HBM Memory Architecture",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8206036003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, SSD Firmware Engineer",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, Architecture Research Engineer (Agentic AI Workload Characterization)",
+  "location": "San Jose, California, United States",
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Shift Technology",
+  "title": "2027 Data science internship ",
+  "location": "Brazil - Sao Paulo",
+  "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/7984415003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Southern Poverty Law Center",
+  "title": "Intern, Federal Policy (Summer 2027)",
+  "location": "Washington, D.C.",
+  "url": "https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950751002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Southern Poverty Law Center",
+  "title": "Intern, Hate Prevention (Summer 2027)",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950825002",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Trace3",
+  "title": "Business Development Intern",
+  "location": "Colorado Springs, CO",
+  "url": "https://job-boards.greenhouse.io/trace3/jobs/8399428",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Trade Republic",
+  "title": "Financial Accounting Intern",
+  "location": "Headquarter",
+  "url": "https://traderepublic.com/en-de/about?jobId=8208091003&gh_jid=8208091003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Truveta",
+  "title": "Winter Software Engineering Intern",
+  "location": "Seattle, WA",
+  "url": "https://job-boards.greenhouse.io/truveta/jobs/6249810004",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "WellPower - All Jobs",
+  "title": "ASL Student Intern",
+  "location": "Denver",
+  "url": "https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/8208199003",
+  "posted": "2026-11-18"
+ },
+ {
+  "company": "Wheely",
+  "title": "Operations Intern",
+  "location": "Paris, Paris, France",
+  "url": "https://boards.greenhouse.io/wheely/jobs/8208040003?gh_jid=8208040003",
+  "posted": "2026-11-18"
+ },
+ {
   "company": "Anduril Industries",
   "title": "2027 Product Data Quality Co-op",
   "location": "Santa Ana, California, United States",
@@ -291,6 +676,13 @@
   "title": "Customer Strategy & Analytics MBA Intern (Summer 2027)",
   "location": "Somerville, MA",
   "url": "https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574",
+  "posted": "2026-11-16"
+ },
+ {
+  "company": "Formlabs",
+  "title": "Global Operations MBA Intern (Summer 2027)",
+  "location": "Somerville, MA",
+  "url": "https://careers.formlabs.com/job/8385550/apply/?gh_jid=8385550",
   "posted": "2026-11-16"
  },
  {
