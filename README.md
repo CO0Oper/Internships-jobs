@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-2083 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-20.
+2137 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-21.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,15 +14,69 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Lucid Motors | Intern, Exterior Design, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) | 2026-11-21 |
+| Lucid Motors | Intern, ADAS Platform Tools, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) | 2026-11-21 |
+| Muon Space | Harness Design Co-Op | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5304452007) | 2026-11-21 |
 | AIFT | AI Security Intern, Vulcan | Taipei / SouthEast Asia | [Apply](https://job-boards.greenhouse.io/aift/jobs/6266044004) | 2026-11-20 |
+| Airbnb | Partnerships Enablement Intern | Paris, France | [Apply](https://careers.airbnb.com/positions/8406333?gh_jid=8406333) | 2026-11-20 |
+| ATOMS Careers page | Industrial Engineering Intern - Operations & Process Excellence | Nova Lima, BRA | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8952950002) | 2026-11-20 |
+| ATOMS Careers page | Mechanical Engineering & Technical Documentation Intern - Hardware Systems | Nova Lima, Brazil | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8952983002) | 2026-11-20 |
+| ATOMS Careers page | Robotics & Autonomous Systems Intern - AHS Operations & Diagnostics | Nova Lima, BRA | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8952896002) | 2026-11-20 |
+| Auctane | Associate Software Engineer - internship | Wrocław, PL | [Apply](https://job-boards.greenhouse.io/auctane/jobs/8202418003) | 2026-11-20 |
+| Biohub | AI Research Scientist Intern | New York, NY (Hybrid); Redwood City, CA (Hybrid) | [Apply](https://job-boards.greenhouse.io/biohub/jobs/8400682) | 2026-11-20 |
+| Crystal Dynamics | Cinematic Presentation Design Intern [Spring 2027] | Remote/Flexible - United States | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4757465005) | 2026-11-20 |
+| Fanatics Collectibles | Summer 2027 Intern - User Acquisition Intern - Fanatics Collect | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4515611009) | 2026-11-20 |
+| Fanatics Collectibles | Summer 2027 Intern - Growth Operations Intern - Fanatics Collect | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4515600009) | 2026-11-20 |
+| Fanatics Collectibles | Summer 2027 Intern - Accounting & Finance Automation Intern | Los Angeles, CA, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4515586009) | 2026-11-20 |
 | Formlabs | 2027 (Summer) API & Automation Intern | Somerville, MA | [Apply](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) | 2026-11-20 |
+| Formlabs | 2027 (Summer) Marketing Events Logistics Intern | Somerville, MA | [Apply](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) | 2026-11-20 |
+| Galaxy | 2027 FP&A Intern - NYC | New York | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6267160004) | 2026-11-20 |
+| GCM Grosvenor | 2027 Credit Summer Intern | Chicago, Illinois, United States | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8208687003) | 2026-11-20 |
+| Gusto | Gusto Insights Intern | San Francisco, CA - Hybrid | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8400148) | 2026-11-20 |
+| Hootsuite | Co-op/Intern, Accounting - Winter 2027 | Toronto, Ontario; Ottawa, Ontario; Greater Toronto Area | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8407535) | 2026-11-20 |
+| iCapital | Enterprise Initiatives and Governance - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938000002) | 2026-11-20 |
+| iCapital | Portfolio Management - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8957001002) | 2026-11-20 |
+| iCapital | Product Management - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002) | 2026-11-20 |
+| Internship Program at Reproductive Freedom for All | Spring 2027 Pennsylvania Organizing Intern | Philadelphia, PA | [Apply](https://job-boards.greenhouse.io/reprofreedomforallinternships/jobs/5303680007) | 2026-11-20 |
+| Internship Program at Reproductive Freedom for All | Spring 2027 Political intern | Remote | [Apply](https://job-boards.greenhouse.io/reprofreedomforallinternships/jobs/5303779007) | 2026-11-20 |
+| Internship Program at Reproductive Freedom for All | Spring 2027 Graphic Design Intern | Remote | [Apply](https://job-boards.greenhouse.io/reprofreedomforallinternships/jobs/5303625007) | 2026-11-20 |
+| Internship Program at Reproductive Freedom for All | Spring 2027 Talent Intern | Washington, DC | [Apply](https://job-boards.greenhouse.io/reprofreedomforallinternships/jobs/5303790007) | 2026-11-20 |
 | Lucid Motors | Intern, Infotainment SW Validation Automation, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290937007?gh_jid=5290937007) | 2026-11-20 |
 | Lucid Motors | Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | 2026-11-20 |
 | Lucid Motors | Intern, Infotainment Software, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007) | 2026-11-20 |
 | Lucid Motors | Product Security Engineering Intern, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007) | 2026-11-20 |
 | Lucid Motors | Intern, ADAS Systems, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) | 2026-11-20 |
+| Lucid Motors | Intern, AI/ML, Vehicle Infotainment, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007) | 2026-11-20 |
+| Lucid Motors | Intern, Vehicle Motion Controls Engineer, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) | 2026-11-20 |
+| Lucid Motors | Power Electronics Control Engineer Intern, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) | 2026-11-20 |
+| Method, a GlobalLogic company | Residency Internship Program - Data Design | London | [Apply](https://job-boards.greenhouse.io/method/jobs/8207621003) | 2026-11-20 |
+| Method, a GlobalLogic company | Residency Internship Program - Engineering | Charlotte, New York, Santa Clara, Remote - US, Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8208724003) | 2026-11-20 |
+| Method, a GlobalLogic company | Residency Internship Program - Program Management | Charlotte, New York, Santa Clara, Remote - US, Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8207684003) | 2026-11-20 |
+| Method, a GlobalLogic company | Residency Internship Program - Design | Mexico | [Apply](https://job-boards.greenhouse.io/method/jobs/8205866003) | 2026-11-20 |
+| Method, a GlobalLogic company | Residency Internship Program - Design | Charlotte, Atlanta, Denver, New York, US- Remote | [Apply](https://job-boards.greenhouse.io/method/jobs/8205864003) | 2026-11-20 |
+| Method, a GlobalLogic company | Residency Internship Program - Product Management | Mexico | [Apply](https://job-boards.greenhouse.io/method/jobs/8207619003) | 2026-11-20 |
+| Method, a GlobalLogic company | Residency Internship Program - Product Management | London | [Apply](https://job-boards.greenhouse.io/method/jobs/8207611003) | 2026-11-20 |
+| Method, a GlobalLogic company | Residency Internship Program - Product Management | Charlotte, New York, Santa Clara, Remote - US, Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003) | 2026-11-20 |
+| Method, a GlobalLogic company | Residency Internship Program - Program Management | Mexico | [Apply](https://job-boards.greenhouse.io/method/jobs/8207687003) | 2026-11-20 |
+| Minitab | Business Development Intern | State College, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8210859003) | 2026-11-20 |
+| Minitab | Sales Operations Analyst Intern | State College, Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200684003) | 2026-11-20 |
+| MongoDB | 2027 - Finance Intern, San Francisco | San Francisco | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8346144) | 2026-11-20 |
+| Morrison-Maierle | Electrical Engineer Internship | Bozeman, MT | [Apply](https://job-boards.greenhouse.io/morrisonmaierle/jobs/4516715009) | 2026-11-20 |
+| Morrison-Maierle | Mechanical Engineer Internship | Bozeman, MT | [Apply](https://job-boards.greenhouse.io/morrisonmaierle/jobs/4516853009) | 2026-11-20 |
+| Morrison-Maierle | Structural Engineer Internship | Bozeman, MT | [Apply](https://job-boards.greenhouse.io/morrisonmaierle/jobs/4516754009) | 2026-11-20 |
 | North Point Technology | Manufacturing Engineer Co-Op | Fort Wayne, Indiana, United States | [Apply](https://job-boards.greenhouse.io/northpointtechnology/jobs/8955840002) | 2026-11-20 |
+| Pacific Fusion | Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship | San Leandro, CA | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009) | 2026-11-20 |
+| Pacific Fusion | Summer 2027 Controls Electrical Engineer Internship | San Leandro, CA | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505719009) | 2026-11-20 |
+| Pronto | Mechanical Engineering & Technical Documentation Intern - Hardware Systems | Nova Lima, Brazil | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8952981002) | 2026-11-20 |
+| Pronto | Robotics & Autonomous Systems Intern - AHS Operations & Diagnostics | Nova Lima, Brazil | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8952276002) | 2026-11-20 |
+| Pronto | Industrial Engineering Intern - Operations & Process Excellence | Nova Lima, Brazil | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8952921002) | 2026-11-20 |
 | Samsung Semiconductor | Intern, Serdes Analog Design Engineer | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) | 2026-11-20 |
+| SharkNinja | Spring 2027: Early Talent Recruitment Intern (January- June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727071006) | 2026-11-20 |
+| The Allen Institute for Artificial Intelligence | Research Internship, Climate Modeling | Seattle, WA | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) | 2026-11-20 |
+| The Brattle Group | Research Analyst Intern (Economics & Finance) - Summer 2027 | Chicago, Illinois, United States | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) | 2026-11-20 |
+| Trace3 | Social Media Intern | Irvine, CA | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8274822) | 2026-11-20 |
+| Wolt - English | Intern Merchant Account Management ENT | Berlin, Germany | [Apply](https://job-boards.greenhouse.io/wolt/jobs/8405424) | 2026-11-20 |
+| Woolpert | Survey Internship (Summer 2027) | Virginia Beach, VA | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426156009) | 2026-11-20 |
 | AEVEX | Naval Architecture Intern | Baltimore, Maryland, United States | [Apply](https://job-boards.greenhouse.io/aevexaerospace/jobs/5486040008) | 2026-11-19 |
 | Amperity | Intern - Software Development Engineer | Seattle, WA | [Apply](https://amperity.com/careers?gh_jid=8393990#openpositions) | 2026-11-19 |
 | Anduril Industries | 2027 Engineering Systems Intern | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007) | 2026-11-19 |
