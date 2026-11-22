@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-2137 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-21.
+2141 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-22.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,9 +14,13 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | 2026-11-22 |
 | Lucid Motors | Intern, Exterior Design, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) | 2026-11-21 |
 | Lucid Motors | Intern, ADAS Platform Tools, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) | 2026-11-21 |
 | Muon Space | Harness Design Co-Op | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5304452007) | 2026-11-21 |
+| Neros Technologies | Autonomy Intern - Summer 2027 | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007) | 2026-11-21 |
+| Neros Technologies | Electrical Engineering Intern - Summer 2027 | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) | 2026-11-21 |
+| Neros Technologies | Mechanical Engineer Intern - Summer 2027 | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007) | 2026-11-21 |
 | AIFT | AI Security Intern, Vulcan | Taipei / SouthEast Asia | [Apply](https://job-boards.greenhouse.io/aift/jobs/6266044004) | 2026-11-20 |
 | Airbnb | Partnerships Enablement Intern | Paris, France | [Apply](https://careers.airbnb.com/positions/8406333?gh_jid=8406333) | 2026-11-20 |
 | ATOMS Careers page | Industrial Engineering Intern - Operations & Process Excellence | Nova Lima, BRA | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8952950002) | 2026-11-20 |
