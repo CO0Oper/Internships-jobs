@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-2141 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-22.
+2144 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-23.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,9 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| LinkedIn Job Wrapping | AI Adoption Intern | 135 W 26th Street, New York, NY 10001 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002) | 2026-11-23 |
+| LinkedIn Job Wrapping | AI Engineering Intern | 135 W 26th Street, New York, NY 10001 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002) | 2026-11-23 |
+| LinkedIn Job Wrapping | AI Strategy Intern | 135 W 26th Street, New York, NY 10001 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002) | 2026-11-23 |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | 2026-11-22 |
 | Lucid Motors | Intern, Exterior Design, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) | 2026-11-21 |
 | Lucid Motors | Intern, ADAS Platform Tools, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) | 2026-11-21 |
