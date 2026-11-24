@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-2144 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-23.
+2182 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-24.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,9 +14,47 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Formlabs | Campus Recruiting Intern (Winter/Spring 2027) | Somerville, MA | [Apply](https://careers.formlabs.com/job/8413030/apply/?gh_jid=8413030) | 2026-11-24 |
+| Lucid Motors | Intern, Automotive Interior Design, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007) | 2026-11-24 |
+| Lucid Motors | Intern, IT Help Desk Level 3, Summer 2027 | Casa Grande, AZ | [Apply](https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007) | 2026-11-24 |
+| Reolink | Growth & Digital Marketing Intern (Tech) | Singapore | [Apply](https://job-boards.greenhouse.io/reolink/jobs/4519877009) | 2026-11-24 |
+| SharkNinja | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) | 2026-11-24 |
+| SharkNinja | Summer 2027: Software Development Test Engineering Co-op(May to August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725867006) | 2026-11-24 |
+| Brave | Software Development Intern - Waterloo University - Web3 Core | Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532) | 2026-11-23 |
+| Brave | Systems Build Intern - Waterloo University | Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412598) | 2026-11-23 |
+| Capital Technology Group | Summer Internship - Data Engineering and Data Science | Hybrid (Silver Spring, MD) | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5307074007?gh_jid=5307074007) | 2026-11-23 |
+| Capital Technology Group | Summer Internship - Agile | Hybrid (Silver Spring, MD) | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5307095007?gh_jid=5307095007) | 2026-11-23 |
+| Capital Technology Group | Summer Internship - Business Development | Hybrid (Silver Spring, MD) | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5307090007?gh_jid=5307090007) | 2026-11-23 |
+| Capital Technology Group | Summer Internship - Software Development | Hybrid (Silver Spring, MD) | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5281563007?gh_jid=5281563007) | 2026-11-23 |
+| Champions Group Holdings | Graphic Design Intern | Brea, California | [Apply](https://job-boards.greenhouse.io/championsgroupholdings/jobs/5492840008) | 2026-11-23 |
+| Cloudflare | People Operations Intern (2026/2027 Batch Only) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8392302?gh_jid=8392302) | 2026-11-23 |
+| GoFundMe | Finance Intern, Summer 2027 | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8379980) | 2026-11-23 |
+| GoFundMe | Revenue Enablement Intern, Summer 2027 | San Diego, CA | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8380287) | 2026-11-23 |
+| Hut 8 | Preconstruction Intern | Miami, FL | [Apply](https://job-boards.greenhouse.io/hut8/jobs/5492141008) | 2026-11-23 |
+| iCapital | Evergreen Private Fund Solutions - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938080002) | 2026-11-23 |
+| iCapital | Investment Due Diligence - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8959236002) | 2026-11-23 |
+| iCapital | Investment Strategy - Summer 2027 Intern | New York, New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958529002) | 2026-11-23 |
+| Internship Program at Reproductive Freedom for All | Spring 2027 National Campus Organizing Intern (IA, NH, or SC) | Iowa, New Hampshire, or South Carolina | [Apply](https://job-boards.greenhouse.io/reprofreedomforallinternships/jobs/5306938007) | 2026-11-23 |
+| Internship Program at Reproductive Freedom for All | Spring 2027 National Campus Organizing Intern (WI) | Wisconsin | [Apply](https://job-boards.greenhouse.io/reprofreedomforallinternships/jobs/5306917007) | 2026-11-23 |
+| Internship Program at Reproductive Freedom for All | Spring 2027 Washington DC/DMV Organizing Intern | Washington, DC | [Apply](https://job-boards.greenhouse.io/reprofreedomforallinternships/jobs/5306875007) | 2026-11-23 |
+| Internship Program at Reproductive Freedom for All | Spring 2027 Government Relations Intern | Remote | [Apply](https://job-boards.greenhouse.io/reprofreedomforallinternships/jobs/5306981007) | 2026-11-23 |
+| Internship Program at Reproductive Freedom for All | Spring 2027 Georgia Organizing Intern | Atlanta, GA | [Apply](https://job-boards.greenhouse.io/reprofreedomforallinternships/jobs/5306902007) | 2026-11-23 |
+| Lakefront Biotherapeutics, Inc. | Intern, Commercial Strategy | Chicago, IL | [Apply](https://job-boards.greenhouse.io/lakefrontbiotherapeuticsinc/jobs/4519069009) | 2026-11-23 |
+| Lakefront Biotherapeutics, Inc. | Intern, Corporate Strategy | Chicago, IL | [Apply](https://job-boards.greenhouse.io/lakefrontbiotherapeuticsinc/jobs/4519078009) | 2026-11-23 |
 | LinkedIn Job Wrapping | AI Adoption Intern | 135 W 26th Street, New York, NY 10001 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002) | 2026-11-23 |
 | LinkedIn Job Wrapping | AI Engineering Intern | 135 W 26th Street, New York, NY 10001 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002) | 2026-11-23 |
 | LinkedIn Job Wrapping | AI Strategy Intern | 135 W 26th Street, New York, NY 10001 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002) | 2026-11-23 |
+| Luno | Marketing Support Associate (3 - 6 Month Internship) | Malaysia | [Apply](https://job-boards.greenhouse.io/luno/jobs/8411018) | 2026-11-23 |
+| Luno | Social Manager Support Associate (3 - 6 Month Internship) | Malaysia | [Apply](https://job-boards.greenhouse.io/luno/jobs/8411095) | 2026-11-23 |
+| OPSWAT | IT Intern | San Francisco, California, United States | [Apply](https://www.opswat.com/jobs/4757756005?gh_jid=4757756005) | 2026-11-23 |
+| Oscar Health | Software Engineering Intern | New York, New York, United States | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8407472) | 2026-11-23 |
+| Power Digital | Analytics Reporting Intern | Remote - Colombia | [Apply](https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5306700007) | 2026-11-23 |
+| S&B USA | Sustainability and Business Analytics Intern- Heavy Civil Infrastructure Summer 2027 - PA | Pittsburgh, PA | [Apply](https://job-boards.greenhouse.io/sbusa/jobs/5492846008) | 2026-11-23 |
+| Samsung Research America Internship | 2027 Spring/Summer Intern, Computer Vision | 665 Clyde Avenue, Mountain View, CA, USA | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002) | 2026-11-23 |
+| Samsung Research America Internship | 2027 Spring/Summer PhD Intern, AI Research | 665 Clyde Avenue, Mountain View, CA, USA | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955762002) | 2026-11-23 |
+| Senra Systems | Emerging Talent - Manufacturing Engineering Intern Summer 2027 | Redondo Beach, California, United States | [Apply](https://job-boards.greenhouse.io/senrasystems/jobs/5482256008) | 2026-11-23 |
+| Tamara | Instore Operations Intern | Dubai, United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/tamara/jobs/5042560101) | 2026-11-23 |
+| Workstream | Wearable Devices Engineer Intern | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6268345004) | 2026-11-23 |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | 2026-11-22 |
 | Lucid Motors | Intern, Exterior Design, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) | 2026-11-21 |
 | Lucid Motors | Intern, ADAS Platform Tools, Summer 2027 | Newark, CA | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) | 2026-11-21 |
