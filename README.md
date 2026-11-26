@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-2226 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-25.
+2263 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-26.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,6 +14,7 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| HeyGen | Product Marketing MBA Intern (Contract) | Los Angeles, San Francisco | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309913007) | 2026-11-26 |
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414444) | 2026-11-25 |
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414452) | 2026-11-25 |
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414448) | 2026-11-25 |
@@ -21,7 +22,43 @@ Open an issue or PR.
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) | 2026-11-25 |
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414440) | 2026-11-25 |
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414426) | 2026-11-25 |
+| Coalition, Inc. | Actuarial Analyst Intern | Any location, Canada | [Apply](https://www.coalitioninc.com/job-posting?gh_jid=4754625005) | 2026-11-25 |
+| Coinbase | Security Engineer Intern | Hybrid - New York, NY | [Apply](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) | 2026-11-25 |
+| Eulerity | Digital Marketing Intern - Technical AI & Automation | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4732314006) | 2026-11-25 |
+| Formlabs | Events Logistics Intern (EMEA) | Budapest, Hungary | [Apply](https://careers.formlabs.com/job/8416844/apply/?gh_jid=8416844) | 2026-11-25 |
+| Formlabs | Software Engineer Intern (Full stack) | Budapest, Hungary | [Apply](https://careers.formlabs.com/job/8416639/apply/?gh_jid=8416639) | 2026-11-25 |
+| Fortitude Re | Program Management Office Intern | Nashville | [Apply](https://app.careerpuck.com/job-board/fortitudegroupholdingsllc/job/5308211007?gh_jid=5308211007) | 2026-11-25 |
+| G-P | Software Engineering Intern (6-Month Placement: January – June 2027) | Ireland (Remote-First) | [Apply](https://job-boards.greenhouse.io/globalizationpartners/jobs/8205550003) | 2026-11-25 |
+| Hyliion | Accounting Intern | Austin, Texas, United States | [Apply](https://job-boards.greenhouse.io/hyliion/jobs/6271433004) | 2026-11-25 |
+| IXL Learning | Software Engineer, Intern | San Mateo, CA | [Apply](https://www.ixl.com/company/jobs?gh_jid=8963039002) | 2026-11-25 |
+| Lightmatter | Firmware Intern – Summer 2027 | Boston, MA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008) | 2026-11-25 |
+| Moloco | QA Engineer Intern (3-month Internship) | Seoul, Korea | [Apply](https://job-boards.greenhouse.io/moloco/jobs/8215108003) | 2026-11-25 |
+| OpenSesame | Sales Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418206?gh_jid=8418206) | 2026-11-25 |
+| OpenSesame | Accounting & Finance Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418223?gh_jid=8418223) | 2026-11-25 |
+| OpenSesame | Marketing Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418164?gh_jid=8418164) | 2026-11-25 |
+| OpenSesame | People Team Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418231?gh_jid=8418231) | 2026-11-25 |
+| OpenSesame | Product Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418204?gh_jid=8418204) | 2026-11-25 |
+| OpenSesame | Software Engineering Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272) | 2026-11-25 |
+| OpenSesame | Customer Success Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418220?gh_jid=8418220) | 2026-11-25 |
+| OpenSesame | Legal Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418253?gh_jid=8418253) | 2026-11-25 |
+| OpenSesame | Partnerships Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418225?gh_jid=8418225) | 2026-11-25 |
+| OpenSesame | Sales Operations Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8417908?gh_jid=8417908) | 2026-11-25 |
+| OpenSesame | Security and Compliance Internship - Summer 2027 | Remote | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418229?gh_jid=8418229) | 2026-11-25 |
+| Pacific Fusion | Summer 2027 Positioning Systems Internship | San Leandro, CA | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009) | 2026-11-25 |
 | PsiQuantum | Intern - Site Operations, Australia | Brisbane, Queensland, Australia | [Apply](https://www.psiquantum.com/apply?gh_jid=8198317003) | 2026-11-25 |
+| QuEra Computing, Inc. | Internship – Data Management | Boston, MA, USA | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008) | 2026-11-25 |
+| QuEra Computing, Inc. | Internship – Technical Product Management | Boston, MA, USA | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) | 2026-11-25 |
+| SambaNova | AI Performance Engineer Intern | Austin, Texas, United States; San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004) | 2026-11-25 |
+| SambaNova | Compiler Engineer Intern | Austin, Texas, United States; San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270729004) | 2026-11-25 |
+| SambaNova | Design Verification Engineer Intern | Austin, Texas, United States; San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271308004) | 2026-11-25 |
+| SambaNova | ML Infrastructure Engineer Intern | Austin, Texas, United States; San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004) | 2026-11-25 |
+| SambaNova | Physical Design Engineer Intern | Austin, Texas, United States; San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004) | 2026-11-25 |
+| SambaNova | RTL Design Engineer Intern | Austin, Texas, United States; San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271328004) | 2026-11-25 |
+| SambaNova | Cloud Platform Engineer Intern (San Jose) | San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271352004) | 2026-11-25 |
+| SambaNova | DFT Engineer Intern | Austin, Texas, United States; San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004) | 2026-11-25 |
+| SambaNova | Machine Learning Engineer Intern | Austin, Texas, United States; San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) | 2026-11-25 |
+| SambaNova | Post-Silicon Validation Engineer Intern | Austin, Texas, United States; San Jose, California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004) | 2026-11-25 |
+| Samsung Research America Internship | 2027 Summer Intern, 6G Cellular Standardization | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8960746002) | 2026-11-25 |
 | Samsung Semiconductor | Intern, LLM Inference Acceleration Architecture (MoE & Attention–FFN Disaggregation) | San Jose, California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003) | 2026-11-25 |
 | Carta | AMEA Implementations Intern | Singapore | [Apply](https://job-boards.greenhouse.io/carta/jobs/8213839003) | 2026-11-24 |
 | CASETiFY | Part-time Marketing Intern - SEA (Based in Hong Kong) | Kwun Tong, Hong Kong | [Apply](https://job-boards.greenhouse.io/casetify/jobs/6269955004) | 2026-11-24 |
