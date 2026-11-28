@@ -2,8 +2,8 @@
 
 ## Summer 2027
 
-2263 internships across every field for the 2027 season, pulled
-every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-26.
+2292 internships across every field for the 2027 season, pulled
+every night from 6,700+ Greenhouse and Ashby job boards. Newest first. Last updated 2026-11-28.
 Raw data: [data/summer-2027.json](data/summer-2027.json).
 
 Maintained by [RoleInbox](https://roleinbox.com) — a job-application copilot that applies
@@ -14,7 +14,36 @@ Open an issue or PR.
 
 | Company | Role | Location | Apply | Posted |
 | --- | --- | --- | --- | --- |
+| Agoda | [Summer Internship 2027] Marketing Intern, Creative Design | Bangkok, Thailand | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8419880) | 2026-11-27 |
+| Celonis | Intern AI Solutions & Value Engineering (Agentic Customer Journey) | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8213877003?gh_jid=8213877003) | 2026-11-27 |
+| Charles River Associates | Intern (European Competition practice) | Paris, France | [Apply](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8420886) | 2026-11-27 |
+| CloudSEK | Customer Threat Advisor - Intern (Offensive) | Bengaluru, Karnataka, India | [Apply](https://job-boards.greenhouse.io/cloudsek/jobs/6272366004) | 2026-11-27 |
+| CloudSEK | Product Specialist - Intern | Bengaluru, Karnataka, India | [Apply](https://job-boards.greenhouse.io/cloudsek/jobs/6272361004) | 2026-11-27 |
+| Isar Aerospace SE | Intern/Working Student Flight Safety (f/m/d) | Parsdorf, Bavaria, Germany | [Apply](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5045068101) | 2026-11-27 |
+| LinkedIn Job Wrapping | Intern - Financial Controller - Paris | 9th arrondissement of Paris, 75009, Paris, France | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8964062002) | 2026-11-27 |
+| Payoneer | Green Channel Operations Intern | Shanghai, China | [Apply](https://www.payoneer.com/careers/position/8418815/?gh_jid=8418815) | 2026-11-27 |
+| WPP Media | Intern, Activation Media Solutions, Italy | Milan, Italy | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5495509008) | 2026-11-27 |
+| ATOMS Careers page | Software Engineering Intern - 2027 Summer Term | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8963704002) | 2026-11-26 |
+| Celonis | Intern Demo Experience & Applied AI | Madrid, Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8208057003?gh_jid=8208057003) | 2026-11-26 |
+| Formlabs | Technical Support Specialist Intern - French speaking | Budapest, Hungary | [Apply](https://careers.formlabs.com/job/8419363/apply/?gh_jid=8419363) | 2026-11-26 |
+| Formlabs | Technical Support Specialist Intern - German speaking | Budapest, Hungary | [Apply](https://careers.formlabs.com/job/8419362/apply/?gh_jid=8419362) | 2026-11-26 |
+| Formlabs | Technical Support Specialist Intern - Italian speaking | Budapest, Hungary | [Apply](https://careers.formlabs.com/job/8419345/apply/?gh_jid=8419345) | 2026-11-26 |
 | HeyGen | Product Marketing MBA Intern (Contract) | Los Angeles, San Francisco | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309913007) | 2026-11-26 |
+| Lucid Motors | Financial Planning & Analysis Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306601007?gh_jid=5306601007) | 2026-11-26 |
+| Lucid Motors | Network Analytics & Reporting Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306687007?gh_jid=5306687007) | 2026-11-26 |
+| Lucid Motors | Business Analyst Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306854007?gh_jid=5306854007) | 2026-11-26 |
+| Lucid Motors | Fleet Operations Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306660007?gh_jid=5306660007) | 2026-11-26 |
+| Lucid Motors | Marketing Operations, Retail & Experiential Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306590007?gh_jid=5306590007) | 2026-11-26 |
+| Lucid Motors | Financial Services Operations Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306670007?gh_jid=5306670007) | 2026-11-26 |
+| Lucid Motors | HR & Internal Communications Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306664007?gh_jid=5306664007) | 2026-11-26 |
+| Lucid Motors | Logistics Operation Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306584007?gh_jid=5306584007) | 2026-11-26 |
+| Lucid Motors | Salesforce Engineer Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306844007?gh_jid=5306844007) | 2026-11-26 |
+| Lucid Motors | Sales Strategy, Planning & Analytics Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306856007?gh_jid=5306856007) | 2026-11-26 |
+| Lucid Motors | Instructional Designer Intern | Amsterdam, NH | [Apply](https://lucidmotors.com/careers/search/5306676007?gh_jid=5306676007) | 2026-11-26 |
+| Mirakl | Procurement intern | Paris, France | [Apply](https://job-boards.greenhouse.io/mirakl/jobs/6271872004) | 2026-11-26 |
+| PQShield | Internship - Software Engineer (Placement Year 2027) | Oxford preferred | [Apply](https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101) | 2026-11-26 |
+| PQShield | Internship - Hardware Engineer (Placement Year 2027) | Oxford preferred | [Apply](https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101) | 2026-11-26 |
+| Trade Republic | Process Operations Intern (f/d/m) | Headquarter | [Apply](https://traderepublic.com/en-de/about?jobId=8218005003&gh_jid=8218005003) | 2026-11-26 |
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414444) | 2026-11-25 |
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414452) | 2026-11-25 |
 | Bandwidth | Software Engineer Intern - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414448) | 2026-11-25 |
